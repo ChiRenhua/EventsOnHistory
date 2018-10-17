@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "西汉皇帝汉武帝刘彻出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/25139.htm",
+    "year" : "-156",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "汉武帝刘彻（公元前156年－前87年），西汉第七位皇帝，杰出的政治家、战略家、诗人。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "凡尔登条约签订，法兰克帝国一分为三\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/61944.htm",
+    "year" : "843",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "凡尔登条约（法语：Le traité de Verdun；英语：Treaty of Verdun）是分割法兰克人的查理曼帝国的条约。843年8月，加洛林帝国皇",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利开国三杰之一加富尔出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/164482.htm",
+    "year" : "1810",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "米洛·奔索·迪·加富尔伯爵（Camillo Benso Cavour，1810～1861）撒丁王国首相（1852～1859，1860～1861）、意大利王国第一任首相",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "俄国作曲家格拉祖诺夫出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/406880.htm",
+    "year" : "1865",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亚历山大·康斯坦丁诺维奇·格拉祖诺夫(Alexander Konstantinovich Glazunov )(1865—1936) 俄罗斯作曲家。里姆斯基-科萨科夫的私",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国前总统赫伯特·胡佛出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/62924.htm",
+    "year" : "1874",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "赫伯特·克拉克·胡佛是美国第31任总统，赫伯特·克拉克·胡佛生于爱荷华州，毕业于斯坦福大学，作为一个采矿工程师。1897年，胡佛",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "段祺瑞改革币制\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/22119.htm",
+    "year" : "1918",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "段祺瑞（1865—1936），曾用名启瑞，字芝泉，晚年号称“正道老人”，安徽六安县（今属六安市）人。民国著名政治家，号称“北洋",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-07\/8411efe088962e6ebbab053cdc4ddbfd_134_100.jpg",
+    "title" : "乒乓球大师容国团在香港出生",
+    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-07\/47f14af30d362941b2c8a763bd167152_80_80.jpg",
+    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-07\/865d977725e58b0e92e6a1b92c5c4a34_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/35662.htm",
+    "year" : "1937",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "1959年在第25届世乒赛上，容国团获得中国历史上第一个世界冠军。在文革时他被指有特务嫌疑遭揪斗毒打，于1968年6月在北京龙潭湖附近自尽，年仅31岁，成为中国体育史上的悲情人物之一。"
+  },
+  {
+    "recommend" : false,
+    "title" : "弹道导弹之父罗伯特·戈达德去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/20137.htm",
+    "year" : "1945",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "罗伯特·哈金斯·戈达德（Robert Hutchings Goddard，1882年10月5日－1945年8月10日）是美国教授、工程师和发明家，液体火箭的发",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "日本政治家、小泉纯一郎的父亲小泉纯也去世",
+    "link" : "http:\/\/baike.baidu.com\/view\/473753.htm",
+    "year" : "1969",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "小泉 纯也（こいずみ じゅんや Koizumi Jun'ya，1904年1月24日 - 1969年8月10日）是日本政治家、前防卫厅长官。鹿儿岛县出生。日本大学法学部毕业。小泉又次郎的养嗣子、前任日本首相小泉纯一郎的父亲。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "麦哲伦号太空探测器进入金星轨道\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/634623.htm",
+    "year" : "1990",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "空间探测的范围集中在地球环境、空间环境、天体物理、材料科学和生命科学等方面。自1957年10月4日第一颗人造卫星发射上天，到20",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "首次世界华商大会在新加坡首都新加坡举行\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/262320.htm",
+    "year" : "1991",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "新加坡中华总商会、香港中华总商会和泰国中华总商会于1990年联合倡议，在原先区域性的华商联谊会基础上，每隔一年举行一次世界",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国哲学家高齐云逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/757588.htm",
+    "year" : "2005",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "高齐云，男，1933年2月20日生，江西吉安人。时用笔名齐云，中国哲学家，中山大学哲学系教授。 1951年考入中山大学中文系学习。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "消防员陈兆龙逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1381789\/15362335.htm",
+    "year" : "2008",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "陈兆龙，MBG（追授）前香港消防处消防员 （1983年－2008年8月10日），在大埔圣公会莫寿增会督中学就读至中五，其后转到佛教慈航",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国辽宁号航空母舰首次离开大连造船厂试航",
+    "link" : "http:\/\/baike.baidu.com\/view\/9307711.htm",
+    "year" : "2011",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "辽宁号航空母舰，简称“辽宁舰”，舷号16，是中国人民解放军海军第一艘可以搭载固定翼飞机的航空母舰。前身是苏联海军的库兹涅",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "香港银行家利国伟逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/317719.htm",
+    "year" : "2013",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "利国伟爵士，大紫荆勋贤，CBE，JP（英语：Sir Quo-wei Lee，1918年8月5日－2013年8月10日），香港银行家、政治家及教育家，1983",
+    "cover" : false
+  }
+]

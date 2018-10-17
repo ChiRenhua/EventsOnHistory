@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "北美宣传鼓动家托马斯·潘恩出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/218606.htm",
+    "year" : "1737\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "托马斯·潘恩（Thomas Paine）：英裔美国思想家、作家、政治活动家、理论家、革命家、激进民主主义者。生于英国诺福克郡，曾继承",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国国王乔治三世逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/253516.htm",
+    "year" : "1820\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "乔治三世（英语：George III，1738年6月4日－1820年1月29日），全名乔治·威廉·弗雷德里克（George William Frederick），1760年",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "哈佛大学天文台的首任台长威廉·邦德逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2631782.htm",
+    "year" : "1859\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "威廉·邦德（William Cranch Bond，1789年9月9日－1859年1月29日），美国天文学家，哈佛大学天文台的首任台长。威廉·邦德1789年",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2015-07-24\/39d310ea2eddb23e3d8b2a98266f890e_134_100.png",
+    "title" : "俄国戏剧家契诃夫出生\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/static\/r\/image\/2015-07-24\/5037248da852336bd0d8a564ebc54c0b_80_80.png",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2015-07-24\/785bdf2b1328a3f2af7728f5a30bffca_360_212.png",
+    "link" : "http:\/\/baike.baidu.com\/view\/1000086.htm",
+    "year" : "1860\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "契诃夫是俄国的世界级短篇小说巨匠、俄国19世纪末期最后一位批判现实主义艺术大师。他的作品以语言精练、准确见长，被认为19世纪末俄国现实主义文学的杰出代表。\n"
+  },
+  {
+    "recommend" : true,
+    "title" : "法国剧作家罗曼·罗兰出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/43815.htm",
+    "year" : "1866\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "罗曼·罗兰，1866年生于法国克拉姆西。思想家，文学家，批判现实主义作家，音乐评论家，社会活动家。1915年诺贝尔文学奖得主。  ",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "世界上第一辆汽车的专利权产生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/47808.htm",
+    "year" : "1886\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "专利权（Patent Right），简称“专利”，是发明创造人或其权利受让人对特定的发明创造在一定期限内依法享有的独占实施权，是知",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国共产党的早期领导人瞿秋白出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1807.htm",
+    "year" : "1899\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "瞿秋白（Qu Qiubai，1899年1月29日－1935年6月18日），原名双（或霜、爽），号熊伯（或雄魄），政治家、散文作家、文学评论家。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "丹麦国王克里斯蒂安九世逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1920793.htm",
+    "year" : "1906\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "克里斯蒂安九世（Christian Ⅸ，1818年4月8日－1906年1月29日），丹麦国王（1863年—1906年在位）。是克里斯蒂安三世国王的九世",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "德军首次动用飞艇袭击巴黎\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1617.htm",
+    "year" : "1916\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "飞艇是一种轻于空气的航空器，它与气球最大的区别在于具有推进和控制飞行状态的装置。飞艇由巨大的流线型艇体、位于艇体下面的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "德国化学家，第一个从空气中制造出氨的科学家弗里茨·哈伯逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/132492.htm",
+    "year" : "1934\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "弗里茨·哈伯，德国化学家，出生在德国西里西亚布雷斯劳（现为波兰的弗罗茨瓦夫）的一个犹太人家庭。1909年，成为第一个从空气中",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美军在菲律宾巴丹半岛登陆\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1839536.htm",
+    "year" : "1945\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "巴丹半岛战役发生于1945年1月31日至2月8日，是美军及菲律宾游击队从日本帝国手中解放菲律宾群岛中吕宋岛之巴丹半岛的战役，是解",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名音乐艺术家邓丽君出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/8696.htm",
+    "year" : "1953\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "邓丽君，1953年1月29日生于中国台湾省云林县，祖籍河北省大名县，中国台湾歌唱家、日本昭和时代演歌代表人物之一。1967年推出首",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "朱经武等人宣布首次得到了90K以上的超导体\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/34756.htm",
+    "year" : "1987\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "超导是指导电材料在温度接近绝对零度的时候，物体分子热运动下材料的电阻趋近于0的性质；“超导体”是指能进行超导传输的导电材",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利威尼斯凤凰歌剧院在火灾中完全烧毁（图）\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/257396.htm",
+    "year" : "1996\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "意大利威尼斯的凤凰歌剧院以其悠久的历史和一流的水准成为200多年来欧洲的经典歌剧殿堂。然而，8年前的一场大火使这座被誉为世",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "玛丽·玛格丽特·杜鲁门·丹尼尔逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1392934.htm",
+    "year" : "2008\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "玛丽·玛格丽特·杜鲁门·丹尼尔Mary Margaret Truman Daniel（1924年2月17日—2008年1月29日），美国著名侦探小说家和传记作家，",
+    "cover" : false
+  }
+]

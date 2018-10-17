@@ -1,0 +1,145 @@
+[
+  {
+    "recommend" : false,
+    "title" : "君士坦丁堡被定为罗马帝国的首都",
+    "link" : "http:\/\/baike.baidu.com\/subview\/8014\/14322253.htm",
+    "year" : "330",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "君士坦丁堡（希腊语：Κωνσταντινούπολις、Κωνσταντινούπολη；拉丁语：Constantinopolis；奥",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国吞并意大利的热那亚",
+    "link" : "http:\/\/baike.baidu.com\/subview\/74138\/11176155.htm",
+    "year" : "1507",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "热那亚（意大利语：Genova，英语：Genoa），意大利最大商港和重要工业中心，利古里亚大区和同名省热那亚省的首府。位于意大利西",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国辉格党政治家老威廉·皮特逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/197669.htm",
+    "year" : "1778",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "威廉·皮特是英国历史上一对著名的父子首相，父子二人同名，父亲老皮特是英国第9位首相，一个半疯狂的天才，是指导七年战争胜利",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国首相斯潘塞·帕西瓦尔逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/13342968.htm",
+    "year" : "1812",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "斯潘塞·帕西瓦尔（1762.11.1——1812.5.11），l男，英国政治家，于1809年至1812年出任英国首相，是历史上唯一一位被刺杀身亡的",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "西班牙超现实主义画家萨尔瓦多·达利出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/28390.htm",
+    "year" : "1904",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "萨尔瓦多·达利（ 1904——1989），西班牙著名画家，因他的超现实主义作品而闻名。达利是一位具有非凡才能和想像力的艺术家，他",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "西班牙作家卡米洛·何塞·塞拉出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/75070.htm",
+    "year" : "1916",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "卡米洛·何塞·塞拉（Camilo José Cela，1916年5月11日－2002年1月17日），西班牙作家、诗人，出生于西班牙加利西亚(Galicia)哥鲁",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名美国物理学家理查德·费曼出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/119118.htm",
+    "year" : "1918",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "理查德·费曼Richard Feynman（1918年5月11日－1988年2月15日）美国著名的物理学家。1965年诺贝尔物理奖得主。提出了费曼图、费",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国发生了长达三天的“黑风暴”事件",
+    "link" : "http:\/\/baike.baidu.com\/subview\/140863\/8272082.htm",
+    "year" : "1934",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "黑风暴是一种强沙尘暴，俗称“黑风”，沙尘暴的一种，大风扬起的沙子形成一堵沙墙，所过之处能见度几乎为零。它是强风、浓密度",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "《黄河大合唱》首次演唱",
+    "link" : "http:\/\/baike.baidu.com\/subview\/40643\/10971929.htm",
+    "year" : "1939",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《黄河大合唱》是冼星海最重要的也是影响力最大的一部交响乐代表作。作于1939年3月，并于1941年在苏联重新整理加工。这部作品由",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "以色列加入联合国",
+    "link" : "http:\/\/baike.baidu.com\/view\/7835.htm",
+    "year" : "1949",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "以色列（State of Israel），是一个位于西亚黎凡特地区的国家，地处地中海的东南方向，北靠黎巴嫩、东濒叙利亚和约旦、西南边则",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/0bf81fa2780928d9d83e8ef7ea87f876_134_100.jpg",
+    "title" : "东南亚国家暹罗正式将国名更名为泰国",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-15\/417b2500281a1373268f3a22e8c3ca4a_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/9e04a6a61b1a19a0b0d67a623ee73a1a_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/193118.htm",
+    "year" : "1949",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "暹罗，泰国的古称，其部分先民原居住在中国云南一带，为逃避蒙古入侵而南下迁居中南半岛，受中国文化和印度文化的影响很大，是信仰佛教的宗教国家。1949年更名“泰国”，意为“自由之国”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "美国天文学家沃尔特·西德尼·亚当斯逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/9704642.htm",
+    "year" : "1956",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "沃尔特·西德尼·亚当斯（Walter Sydney Adams，1876年12月20日－1956年5月11日），美国天文学家。[1] ",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国重量级拳击手弗洛伊德·帕特森逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/604727.htm",
+    "year" : "2006",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "男，生于1935年1月4日，是一名拳击运动员，曾是拳击史上最年轻的世界重量级拳王。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "萨摩亚元首马列托亚·塔努马菲利二世逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1943427.htm",
+    "year" : "2007",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "马列托亚·塔努马菲利第二殿下，公元1250年马列托亚家族赶走汤加入侵者，成为独立王国·1889年萨摩亚成为中立王国·一战后，新西兰",
+    "cover" : false
+  }
+]

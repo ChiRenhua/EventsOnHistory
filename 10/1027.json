@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "阿姆斯特丹建城",
+    "link" : "http:\/\/baike.baidu.com\/subview\/31504\/5040805.htm",
+    "year" : "1275",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "阿姆斯特丹（Amsterdam），是荷兰首都及最大城市，位于该国西部省份北荷兰省。阿姆斯特丹是繁华知名的国际大都市",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "俄国大公伊凡三世逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/201475.htm",
+    "year" : "1537",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "伊凡三世·瓦西里耶维奇（Иван III Васильевич，1440—1505），是莫斯科大公，在位时间1462-1505年。 伊凡三世是",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "意大利音乐家尼科罗·帕格尼尼出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/73942.htm",
+    "year" : "1782",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "帕格尼尼（Niccolo Paganini ，1782.10.27--1840.5.27），意大利小提琴演奏家、作曲家。他的技巧影响了后来的小提琴作品，也影",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国吞并佛罗里达州",
+    "link" : "http:\/\/baike.baidu.com\/view\/189986.htm",
+    "year" : "1810",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "佛罗里达州（Florida）是美国东南部的一个州。位于东南海岸突出的半岛上。东濒大西洋，西临墨西哥湾，北与亚拉巴马州和佐治亚州",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国总统西奥多·罗斯福出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/55031.htm",
+    "year" : "1858",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "西奥多·罗斯福（英语：Theodore Roosevelt，又译狄奥多·罗斯福，人称老罗斯福，昵称泰迪（Teddy），1858年10月27日－1919年1月6",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "抗日名将杨成武出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/27301.htm",
+    "year" : "1914",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "杨成武（1914年10月27日—2004年2月14日），又名杨能俊，是中国共产党的优秀党员，共产主义战士，无产阶级革命家、军事家。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/983bc8dd3e611dc9965c617f6e2c769d_134_100.jpg",
+    "title" : "中国近代启蒙思想家、翻译家和教育家严复逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/85e9ce66a997d25435271db5a3d3cbea_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/5f9c6c29301eaaf446bdf538ac355739_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1995.htm",
+    "year" : "1921",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "严复是中国近代启蒙思想家、翻译家和教育家。他曾在北洋水师学堂任教，培养了中国近代第一批海军人才。他提出“信、达、雅”的翻译标准，翻译《天演论》，被康有为赞为“西学第一者”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "中国画家李承仙出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1074803.htm",
+    "year" : "1924",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李承仙（1924年10月27日－2003年8月28日）出生于上海霞飞路宝康里，祖籍江西省临川。中国画家，敦煌艺术研究者。常书鸿的夫人。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国共产党创建井冈山革命根据地",
+    "link" : "http:\/\/baike.baidu.com\/view\/11690375.htm",
+    "year" : "1927",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "井冈山根据地是土地革命战争时期，中国共产党在湖南、江西两省边界罗霄山脉中段创建的第一个农村革命根据地。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第一次印巴战争爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/641757.htm",
+    "year" : "1947",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1947年8月，印度、巴基斯坦分治时，蒙巴顿方案规定让克什米尔人自由选择归并印、巴一方或宣布独立。印度利用其分治时控制的克什",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国共产党中央政治局委员任弼时逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/49546\/8165446.htm",
+    "year" : "1950",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "任弼时（1904—1950），男，汉族，伟大的马克思主义者，杰出的无产阶级革命家、政治家、组织家，中国共产党和中国人民解放军的",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国首次发射核导弹",
+    "link" : "http:\/\/baike.baidu.com\/view\/972619.htm",
+    "year" : "1966",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "核导弹，指的是具有携带核弹头的能力、并能够达成远距离核弹投送任务的导弹。分为战术核导弹和战略核导弹。具有多种发射方式，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾歌手苏慧伦出生，代表作《鸭子》",
+    "link" : "http:\/\/baike.baidu.com\/view\/30626.htm",
+    "year" : "1970",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "苏慧伦（TarcySu）1970年10月27日出生于台湾台北市，汉族，是一名台湾女歌手、演员。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "作家杜鹏程逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/138114.htm",
+    "year" : "1991",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杜鹏程（1921年～1991年），原名杜红喜，曾用笔名司马君，现代作家。中共党员。大学毕业。著有长篇小说《保卫延安》、中篇小说",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国政治家谢非逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/294773.htm",
+    "year" : "1999",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "谢非，汉族，1932年11月出生于广东省陆丰县（今汕尾市陆河县）的客家人[1-2]&nbsp;&nbsp;&nbsp;，原中共广东省委书记。1947年11",
+    "cover" : false
+  }
+]

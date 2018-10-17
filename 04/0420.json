@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "中国古代数学家祖冲之出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2122.htm",
+    "year" : "429",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "祖冲之（公元429年4月20日-公元500年）是我国杰出的数学家、科学家。南北朝时期人，汉族人，字文远。生于南朝宋文帝元嘉六年，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国聋哑天文学家约翰·古德利克逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2018382.htm",
+    "year" : "1786",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "约翰·古德利克（John Goodricke，1764年9月17日－1786年4月20日），英籍荷兰裔天文学家，在变星领域做出了突出的贡献。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法兰西第二帝国皇帝拿破仑出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/5292.htm",
+    "year" : "1808",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "拿破仑·波拿巴（法文：Napoléon Bonaparte，1769年~1821年），出生于法国的科西嘉岛，是著名的军事家、政治家。他是法兰西第一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国政治家乔治·克林顿逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2807101.htm",
+    "year" : "1812",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "乔治·克林顿（George Clinton，1739年7月26日－1812年4月20日），美国军人、政治家，民主共和党成员，曾任纽约州州长（1777年-1",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "巴斯德首次完成巴氏消毒法测试\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/190452.htm",
+    "year" : "1862",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "巴氏灭菌法(pasteurization)，亦称低温消毒法，冷杀菌法，是一种利用较低的温度既可杀死病菌又能保持物品中营养物质风味不变的",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/66889af7d6a71ec4a6d3447a9f6bb25f_134_100.jpg",
+    "title" : "德国纳粹党元首希特勒出生于奥地利布劳瑙\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/2ca1ee3c48ffd95f2cdc7d73f92bc189_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/9b01dabcd3ae955ffed8934b52a572d1_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/14296.htm",
+    "year" : "1889",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "第一次世界大战期间拿破仑服役于巴伐利亚步兵团，获得过一级铁十字勋章。德国在一战的失利，使他决心投身政治，最终发动了第二次世界大战，并以闪击战的方式，迅速占领整个欧洲。"
+  },
+  {
+    "recommend" : false,
+    "title" : "西班牙画家胡安·米罗出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/14649.htm",
+    "year" : "1893",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "胡安·米罗（Joan Miró，1893年4月20日—1983年12月25日），西班牙画家、雕塑家、陶艺家、版画家，超现实主义的代表人物。是和毕",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "著名建筑学家梁思成出生于日本东京，祖籍广东新会\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2126.htm",
+    "year" : "1901",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "梁思成（1901年4月20日---1972年1月9日），籍贯广东新会，生于日本东京，毕生致力于中国古代建筑的研究和保护，是建筑历史学家",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "世界保卫和平大会第一次会议开幕\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/911371.htm",
+    "year" : "1949",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1949年4月20日，世界保卫和平大会第一次会议开幕。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国著名法学家周鲠生逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/114685.htm",
+    "year" : "1971",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "周鲠生(1889-1971)，又名周览，汉族，湖南长沙府长沙县人。中华民国及中华人民共和国的国际法学家、外交史家、教育家，中央研究",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "政治家及外交家张厉生逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/463005.htm",
+    "year" : "1971",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "张厉生1900～1971，字少武。河北乐亭人。曾任国民党中央执行委员、中央组织部长、行政院秘书长、内政部长等职。1949年去台湾后",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国与非洲国家加蓬共和国建交\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/21971.htm",
+    "year" : "1974",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "加蓬共和国位于非洲中部西海岸，横跨赤道线。东、南与刚果相连，北与喀麦隆接壤，西北与赤道几内亚毗邻，西濒大西洋，海岸线长8",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国作家协会决定成立茅盾文学奖金委员会\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/4319.htm",
+    "year" : "1981",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "茅盾文学奖是由中国作家协会主办，根据茅盾先生遗愿，为鼓励优秀长篇小说创作、推动中国社会主义文学的繁荣而设立的，是中国具",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国石油公司“深水地平线”钻井平台发生爆炸\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/3564239.htm",
+    "year" : "2010",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "位于墨西哥湾的“深水地平线”钻井平台爆炸事故造成的原油泄漏形成的污染带遍布墨西哥湾，长达80英里。这一半潜式钻井台名叫“",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国黑人女民权领袖多萝西·海特逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/3540073.htm",
+    "year" : "2010",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "多萝西·海特（Dorothy Height），美国“民权运动教母”。1912年3月24日出生于弗吉尼亚州的里士满，她的父亲是一名建筑承包商，",
+    "cover" : false
+  }
+]

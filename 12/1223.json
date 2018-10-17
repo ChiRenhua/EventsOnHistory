@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "周瑜火烧赤壁",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2409\/6380012.htm",
+    "year" : "208",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "周瑜（175年—210年），字公瑾，汉末名将，庐江舒县（今安徽省庐江县西南）[1]&nbsp;人。洛阳令周异之子，堂祖父周景、堂叔周忠",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "明朝末年民变领袖徐鸿儒逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/485543\/9488037.htm",
+    "year" : "1622",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "徐鸿儒（？～1622）明末农民起义首领，巨野县城里徐街人。自明万历二十九年（1601年）前后，他与王森、王好贤父子联手，利用&qu",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄罗斯帝国皇帝亚历山大一世出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/253569\/6380421.htm ",
+    "year" : "1777",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亚历山大一世·帕夫洛维奇（俄语：Александр I Павлович，公历：1777年12月23日－1825年12月1日），罗曼诺夫王",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国教士、经济学家马尔萨斯逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/429331.htm",
+    "year" : "1834",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "英国教士、经济学家。以其人口理论闻名于世。在《人口论》(1798)中提出人口按几何级数增长而生活资料只能按算术级数增长，所以",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "李鸿章奏请试办轮船招商局",
+    "link" : "http:\/\/baike.baidu.com\/view\/54865.htm ",
+    "year" : "1872",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "轮船招商局，是中国晚清时创建的第一家官督商办的近代企业，1872年北洋大臣李鸿章招致办理海运多年的朱其昂商议试办新式航业，1",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/bfbe113cefabed7603dcaa955e648668_134_100.jpg",
+    "title" : "我国著名的妇产科专家林巧稚出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/965ab4b527e39c2123426a7c70707f23_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/214a26b59e33dc37d6f6cee31316d362_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/24983.htm ",
+    "year" : "1901",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "林巧稚，医学家、中国妇产科学的主要开拓者之一。她是北京协和医院第一位中国籍妇产科主任及首届中国科学院唯一的女学部委员（院士）。是中国现代妇产科学的奠基人之一。"
+  },
+  {
+    "recommend" : false,
+    "title" : "图书馆学家、目录学家钱亚新出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1368301.htm",
+    "year" : "1903",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "钱亚新（1903.12.23-1990.1.17）我国著名图书馆学家、目录学家、教育家。江苏宜兴人。1928年毕业于武昌华中大学文华图书科。先",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "党和国家优秀的领导人乌兰夫出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1776.htm ",
+    "year" : "1906",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "乌兰夫同志是久经考验的共产主义战士、党和国家优秀的领导人、杰出的无产阶级革命家、卓越的民族工作领导人。乌兰夫同志把毕生",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "《辞源》开始在全国发行",
+    "link" : "http:\/\/baike.baidu.com\/view\/30534.htm ",
+    "year" : "1915",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《辞源》是一部语文性辞典。收录内容一般止于 1840 年以前的古代汉语、一般词语、常用词语、成语、典故，兼收各种术语、人名、",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "表演艺术家侯耀华出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/287561.htm",
+    "year" : "1946",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "侯耀华，中国戏剧影视研究院副院长兼艺术总监。相声大师侯宝林次子，侯耀文之兄，大学文化程度，长期活跃在文艺舞台，在相声、",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "晶体管问世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/30363\/13752313.htm ",
+    "year" : "1947",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "晶体管（transistor）是一种固体半导体器件，具有检波、整流、放大、开关、稳压、信号调制等多种功能。晶体管作为一种可变电流",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "苏联著名飞机设计师安德烈·图波列夫逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/426090.htm",
+    "year" : "1972",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "安德烈·图波列夫（俄语：Андрей Николаевич Туполев，1888年11月11日出生于俄罗斯特维尔州，1972年12月",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本著名考古学家原田淑人逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/152275.htm ",
+    "year" : "1974",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "原田淑人（1885.4.5～1974.12.23），日本考古学家。毕业于东京帝国大学史学科。担任过东京大学教授，日本学士院会员和日本考古",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "建筑学家杨廷宝逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/80428.htm ",
+    "year" : "1982",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杨廷宝，建筑学家和建筑教育学家。中国近现代建筑设计开拓者之一，历任中央大学、南京大学建筑系教授，院系调整后转入南京工学",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "太阳圣殿教在法国制造惨案",
+    "link" : "http:\/\/baike.baidu.com\/view\/250764.htm",
+    "year" : "1995",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "\"国际太阳圣殿骑士团\"、\"玫瑰与十字会\"，成立于1984年，主要领导人是教主吕克·茹雷和幕后智囊约瑟夫·迪·马布罗。太阳圣教的成员",
+    "cover" : false
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/e8b364bb6b3e82a830993841bca070b7_134_100.jpg",
+    "title" : "人类历史上第一架望远镜面世",
+    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/7046cda715389a3cc7a071fd77d3f2de_80_80.jpg",
+    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/b33e15a0eb93776263f5e0e548121aec_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/25265.htm",
+    "year" : "1609",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "一位荷兰眼镜商发现把一块凸透镜和一块凹透镜合用，远处的东西变近了。伽利略对此感兴趣，计算出用什么样的镜片、怎样组合在效果比较好，发明了世界上第一架能放大32倍的望远镜。"
+  },
+  {
+    "recommend" : false,
+    "title" : "那达斯地伯爵的遗孀伊丽莎白·巴托里逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/999081\/11156394.htm",
+    "year" : "1614",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "Báthory Erzsébet（1560年8月7日-1614年8月21日）巴托里伯爵夫人来自于著名的巴托里家族，是一个保卫匈牙利不受土耳其人侵略的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "清朝戏曲家，著有《长生殿》的洪升出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/40292\/12474636.htm",
+    "year" : "1645",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "昆曲经典剧目，后亦为京剧传统剧目。清初洪升创作，历十余年始成。曾三易其稿，初名《沉香亭》，继改称《舞霓裳》，三稿始定今名。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "“法国史学之父”的儒勒·米什莱出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1262665.htm",
+    "year" : "1798",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "19世纪法国著名历史学家儒勒·米什莱（JulesMichelet，1798—1874）在近代历史研究领域中成绩卓越，被学术界誉为“法国最早和最",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国篮球明星张伯伦出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/28376.htm",
+    "year" : "1936",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "威尔特·张伯伦（Wilton Norman Chamberlain 1936年8月21日–1999年10月12日）是一位美国的篮球运动员。曾效力于NBA的费城\/旧金山勇士（金州勇士队）、费城76人队和洛杉矶湖人队；毕业于堪萨斯大学，在NBA打球之前曾在哈林篮球队效力。被认为是NBA历史上具有统治力的球员之一。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中苏签订《中苏互不侵犯条约》",
+    "link" : "http:\/\/baike.baidu.com\/view\/1305007.htm",
+    "year" : "1937",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《中苏互不侵犯条约》是指中国国民党政府与苏联政府于1937年8月20日在南京签订的条约，规定：“倘缔约国之一方受一个或数个第三",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "前苏联共产党托洛茨基逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/635008\/11091676.htm",
+    "year" : "1940",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "俄国与世界历史上最重要的无产阶级革命家之一，列宁最亲密的战友，二十世纪国际共产主义运动的左翼领袖，工农红军、第三国际和",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "丹麦作家彭托皮丹逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/824652.htm",
+    "year" : "1943",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "亨瑞克·彭托皮丹（Henrik Pontoppidan，1857～1943），丹麦现实主义作家，1917年与丹麦的另一位作家卡尔·耶勒鲁普共同获得诺贝",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国正式宣布夏威夷为第五十个州",
+    "link" : "http:\/\/baike.baidu.com\/view\/189987.htm",
+    "year" : "1959",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "夏威夷州（Hawaii State）美国唯一的群岛州，由太平洋中部的132个岛屿组成。首府位于瓦胡岛上的檀香山。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "谷歌公司创始人美籍俄裔企业家谢尔盖·布林出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/105.htm",
+    "year" : "1973",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "Google[1] 公司（中文译名：谷歌），是一家美国的跨国科技企业，致力于互联网搜索、云计算、广告技术等领域，开发并提供大",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "斯威士兰国王索布扎二世逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1313806.htm",
+    "year" : "1982",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "索布扎二世（Sobhuza II，1899年7月22日—1982年8月21日），斯威士兰独立后第一任国王，共执政了61年之久。是世界上统治时间最",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "牙买加短跑名将博尔特出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1799953.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "尤塞恩·博尔特，1986年8月21日出生于蒙特哥贝湾，保持了男子短跑领域多项世界纪录。在2008年北京奥运会中博尔特连夺男子100米、",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "世界集邮展览在北京开幕，首次在中国举办",
+    "link" : "http:\/\/baike.baidu.com\/view\/1579366.htm",
+    "year" : "1999",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "世界集邮展览是国际集邮联合会（FIP）为推动全球集邮事业发展而组织开展的竞技性集邮展览，是各会员组织广泛参与的一项综合性集",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "埃塞俄比亚总统梅莱斯·泽纳维逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/596324.htm",
+    "year" : "2012",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "梅莱斯·泽纳维（Meles Zenawi，1955年5月8日－2012年8月21日），埃塞俄比亚杰出的领导人，非洲著名政治家。出生于埃塞俄比亚北",
+    "cover" : false
+  }
+]

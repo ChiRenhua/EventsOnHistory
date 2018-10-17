@@ -1,0 +1,155 @@
+[
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/8abb29fe0e199d4c7e07ddf89b769b78_134_100.jpg",
+    "title" : "意大利雕塑家、“文艺复兴三杰”之一的米开朗基罗出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/1bc50ef69755ed8ec791b203d056791b_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/6b09190f9be5dc79df419c16844d661b_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/37567\/11093371.htm",
+    "year" : "1475",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "他与达·芬奇和拉斐尔并称“文艺复兴三杰”，以人物“健美”著称，连女性的身体也描画得肌肉健壮，代表作有创世纪、大卫等。他的风格影响了几乎三个世纪的艺术家，小行星3001以他的名字命名。"
+  },
+  {
+    "recommend" : true,
+    "title" : "英国女诗人伊丽莎白·芭蕾特·布朗宁出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/693190.htm",
+    "year" : "1806",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "伊丽莎白·芭蕾特·布朗宁，又称勃朗宁夫人或白朗宁夫人，是英国维多利亚时代最受人尊敬的诗人之一。生于1806年3月6日。十五岁时",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "加拿大最大城市多伦多成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/8073.htm",
+    "year" : "1834",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "多伦多（Toronto），加拿大最大城市、安大略省的省会，坐落在安大略湖西北岸的南安大略地区。是加拿大最大的城市，也是北美洲第",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名歌剧《茶花女》在威尼斯凤凰歌剧院首演",
+    "link" : "http:\/\/baike.baidu.com\/view\/257396.htm",
+    "year" : "1853",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "意大利威尼斯的凤凰歌剧院以其悠久的历史和一流的水准成为200多年来欧洲的经典歌剧殿堂。然而，8年前的一场大火使这座被誉为世",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国第一部宪法起草的四位顾问之一周鲠生出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/114685.htm",
+    "year" : "1889",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "周鲠生(1889-1971)，又名周览，汉族，湖南长沙府长沙县人。中华民国及中华人民共和国的国际法学家、外交史家、教育家，中央研究",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "清政府代表李鸿章等与德国签订《胶澳租界条约》",
+    "link" : "http:\/\/baike.baidu.com\/view\/773090.htm",
+    "year" : "1898",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《胶澳租界条约》又称《德租胶澳专条》。德国强迫清政府订立的不平等条约。1897年（光绪二十三年）11月，德国借口其传教士在山东巨野(今菏泽市巨野县)被杀，出兵强占胶州湾沿岸地区。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "阿司匹林获准上市",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1345\/6266417.htm",
+    "year" : "1899",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "阿司匹林也叫乙酰水杨酸，是一种历史悠久的解热镇痛药，诞生于1899年3月6日。用于治感冒、发热、头痛、牙痛、关节痛、风湿病，",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "德国发明家戈特利布·戴姆勒逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/188018.htm",
+    "year" : "1900",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "戈特利布·戴姆勒Gottlieb Daimler(1834-1900)，德国工程师和发明家,现代汽车工业的先驱者之一。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "皇家马德里足球俱乐部成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/254645.htm",
+    "year" : "1902",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "皇家马德里足球俱乐部（Real Madrid Club de Fútbol ，中文简称为皇马）是一家位于西班牙马德里的足球俱乐部，球队成立于1902年",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "别克汽车的先驱者大卫·邓巴·别克逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1704256.htm",
+    "year" : "1929",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "出生于1855年的大卫·邓巴·别克，两岁时由母亲抱着从苏格兰移民到美国底特律。1900年，别克和另一名工程师沃尔特决定一同离开所",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国音乐家洛林·马泽尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/750262.htm",
+    "year" : "1930",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "洛林·马泽尔（1930年3月6日- 2014年7月13日），法裔美籍指挥家，人称“指挥神童”，也是现今世界上最杰出的指挥大师之一。曾任",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国军人、作曲家苏萨逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/377504.htm",
+    "year" : "1932",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "约翰·菲力浦·苏萨（John Philip Sousa,1854－1932），美国作曲家、军乐指挥家。他所作的军乐曲中，最著名的有：《星条旗永不落",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "老挝国家主席朱马利·赛雅贡出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1942662.htm",
+    "year" : "1936",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "朱马利· 赛雅贡（Choummaly Sayasone，1936年3月6日－），第十二任老挝人民革命党总书记、第六任老挝国家主席，1986年在当选中",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国电子学家、教育家冯秉铨逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/313613.htm",
+    "year" : "1980",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "冯秉铨，电子学家、教育家。先后在发展电子振荡理论和无线电广播发射技术等领域作出了重要贡献。他所提出的强力振荡器相角补偿",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国美学家、教育家、文艺理论家、中科院院士朱光潜逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/116093.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "朱光潜（1897年-1986年），笔名孟实、盟石。安徽省桐城人（今枞阳县麒麟镇阳和村人）。中国美学家、文艺理论家、教育家、翻译家",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "唐朝政治家魏征逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/135653.htm ",
+    "year" : "643",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "魏徵（580年－643年2月11日），字玄成，钜鹿郡人（一说邢台市巨鹿县人，一说是河北省邯郸市馆陶人&nbsp;），",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国哲学家勒内·笛卡儿逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/7882538.htm",
+    "year" : "1650",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "勒内·笛卡儿生于法国安德尔-卢瓦尔省的图赖讷（现笛卡尔，因笛卡儿得名），1650年2月11日逝世於瑞典斯德哥尔摩，是世界著名的法国哲学家、数学家、物理学家。他对现代数学的发展做出了重要的贡献",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国发明家爱迪生出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/69200.htm ",
+    "year" : "1847",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "托马斯·阿尔瓦·爱迪生（英文名:Thomas Alva Edison，1847年－1931年），[1]&nbsp;世界著名的发明家、物理学家、企业家，拥有众",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "亚伯拉罕·林肯就任美国第16任总统\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2063\/7140082.htm",
+    "year" : "1861",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亚伯拉罕·林肯（英语：Abraham Lincoln，1809.2.12－1865.4.15），美国政治家、思想家。第16任美国总统，其任总统期间",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "北洋海军在威海刘公岛向日本军队投降\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/18473\/9202526.htm",
+    "year" : "1895",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "北洋水师，或称作北洋舰队、北洋海军，是中国清朝后期建立的第一支近代化海军舰队，同时也是中国清代政府建立的四支近代海军中",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "爱迪生获得发明电影放映机专利权\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/775489\/14674202.htm",
+    "year" : "1908",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "把影片上记录的影像和声音，配合银幕和扩音机等机械设备还原出来。电影放映机有各种不同类型。通常可分为固定式和移动式两大类",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾政治人物秦孝仪出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/311967.htm",
+    "year" : "1921",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "秦孝仪（1921-2007），我国台湾地区著名学者、政治家。曾担任国民党副秘书长、台北故宫博物院院长等职，主持台北故宫博物院工作",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴拿马政治人物曼纽尔·诺列加出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2626774.htm ",
+    "year" : "1934",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "曼纽尔·诺列卡（Manuel Antonio Noriega，又译曼纽尔·安东尼奥·诺瑞嘉，1934年2月11日－），前巴拿马军事强人。出生于巴拿马市",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/167499cc4fdf7ff6c10a6669779c132e_134_100.png",
+    "title" : "卓别林的无声电影《摩登时代》在伦敦上演\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/3cc6a40716327a2d41dae5d605c3eab9_80_80.png",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/db59ac033aa1933795e18a6adfc8c616_360_212.png",
+    "link" : "http:\/\/baike.baidu.com\/subview\/406961\/7014208.htm",
+    "year" : "1936",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "这是美国电影史上最伟大的电影之一，也是卓别林最著名的作品之一。虽然当时已经有有声电影技术，但卓别林认为，滑稽夸张的肢体语言远胜于对白，于是他只加入配乐和少许音响就上映了。\n"
+  },
+  {
+    "recommend" : false,
+    "title" : "日本政治人物鸠山由纪夫出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1131976.htm",
+    "year" : "1947",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "鸠山由纪夫，英文名Yukio Hatoyama，1947年2月11日出生。日本政治家，日本前首相。1996年，鸠山由纪夫与菅直人，小泽一郎组建民",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "苏联电影导演爱森斯坦逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/54765.htm ",
+    "year" : "1948",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "爱森斯坦，苏联电影导演，电影艺术理论家、教育家。俄罗斯联邦共和国功勋艺术家，艺术学博士、教授。1898年1月22日生于里加，19",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中华民国国旗歌作词者戴季陶逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/21273.htm ",
+    "year" : "1949",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "戴季陶（1891年—1949年），名传贤，字季陶，笔名天仇。原籍浙江湖州，生于四川广汉。中华民国和中国国民党的元老和理",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "纳尔逊·曼德拉被释放\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1225808\/14757479.htm",
+    "year" : "1990",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "纳尔逊·罗利赫拉赫拉·曼德拉（Nelson Rolihlahla Mandela）1918年7月18日出生于南非特兰斯凯，先后获南非大学文学士和威特沃特",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国相声泰斗马三立逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/18107\/11182359.htm",
+    "year" : "2003",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "马三立 （1914.10.1～2003.2.11）著名相声表演大师。回族，甘肃省永昌县人，中共党员。曾任中国曲艺家协会顾问、天津市曲艺家协",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国著名童星秀兰·邓波儿逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/41608.htm ",
+    "year" : "2014",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "秀兰·邓波儿（Shirley Temple）1928年4月23日出生于美国加利福尼亚州的圣莫尼卡。电影演员，儿童时期为美国著名童星之一，是美",
+    "cover" : false
+  }
+]

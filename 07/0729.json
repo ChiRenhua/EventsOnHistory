@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "秦国发生蝗灾，天下大疫\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/178654.htm",
+    "year" : "-243",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "蝗灾，是指蝗虫引起的灾变。一旦发生蝗灾，大量的蝗虫会吞食禾田，使农产品完全遭到破坏，引发严重的经济损失以致因粮食短缺而",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国明代戏曲家、文学家汤显祖逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/24370.htm",
+    "year" : "1616",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "汤显祖（1550—1616），中国明代戏曲家、文学家。字义仍，号海若、若士、清远道人。汉族，江西临川人。汤氏祖籍临川县云山乡，",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "晚清抗法名将冯子材诞生于广西钦州沙尾村\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/51419.htm",
+    "year" : "1818",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "冯子材（1818年7月29日～1903年9月18日），字南干，号萃亭，汉族，生于钦州沙尾村，晚清名将。咸丰年间从向荣、张国梁镇压太平",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国巴黎凯旋门建成\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/18435\/18435.htm",
+    "year" : "1836",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "米兰 凯旋门凯旋门作为一种独特的建筑形式，必然要借助其独特艺术造型，来表达创作目的。以石块砌筑，形似门楼，有一个或三个拱",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "德国作曲家舒曼逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/45863\/5112543.htm",
+    "year" : "1856",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "舒曼，德国作曲家，音乐评论家,曾在莱比锡大学学法律，19岁起师从维克学钢琴，1834年创办《新音乐报》 ，刊发了大量评论文章，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法西斯党魁墨索里尼出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/559380.htm",
+    "year" : "1883",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "贝尼托·墨索里尼（意大利语：Benito Mussolini），（1883年7月29日——1945年4月28日），意大利法西斯党党魁、独裁者，第二次世",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本政治家重光葵出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/394252.htm",
+    "year" : "1887",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "重光葵（1887年－1957年），日本大正、昭和时期的外交官，甲级战犯之一。1911年从东京帝国大学毕业后任职于日本外务省，1929年",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/a29ac9e9a74828d678ecb92058ec87cd_134_100.jpg",
+    "title" : "荷兰后印象派画家文森特·梵高自杀身亡\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/dc7e54ac6716b1110190e906b63d0196_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/f50c0a54ea3407a10f11ad5f13883bd6_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/17822.htm",
+    "year" : "1890",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "1890年，荷兰后印象派画家文森特·梵高自杀身亡。梵高，后印象主义的先驱，其作品《星夜》《向日葵》等均是目前全球最知名、价值最高的艺术作品。因精神疾病的困扰，在法国瓦兹河饮弹自杀，时年37岁。\n"
+  },
+  {
+    "recommend" : false,
+    "title" : "全球华人首富李嘉诚出生\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2141\/5052724.htm",
+    "year" : "1928",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李嘉诚（1928年7月29日—），汉族，原籍广东潮州潮安 ，祖籍福建莆田，长江实业(集团)有限公司及和记黄埔有限公司董事局主席。[",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "伦敦奥运会开幕\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/675221.htm",
+    "year" : "1948",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "伦敦举办过三届奥运会，分别是1908年的第四届奥运会，1948年的第十四届奥运会和2012年的第三十届奥运会。                目录 ",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日韩国职业围棋棋士李昌镐诞生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/11177.htm",
+    "year" : "1975",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李昌镐（1975— ），韩国围棋职业棋手，九段，曾创造多项围棋历史记录，开创了“李昌镐时代”。他从1992年夺得第一个世界冠军起",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "葛洲坝二江水电站建成\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2109094.htm",
+    "year" : "1983",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "葛洲坝水利枢纽它位于中国湖北省宜昌市境内的长江三峡末端河段上，距上游的三峡水电站38公里。它是长江上第一座大型水电站，也",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "许海峰为中国赢得第一枚奥运金牌\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/35855\/15109130.htm",
+    "year" : "1984",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "许海峰（1957年8月1日—），奥运冠军,中国男子射击队运动员，在第23届奥运会上，获男子手枪60发慢射冠军，成为本届奥运会首枚金",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "“两弹”元勋邓稼先逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/3704.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "邓稼先（1924年6月25日—1986年7月29日），安徽怀宁人，中国著名核物理学家，中国科学院院士。历任中国科学院近代物理研究所助",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利前总理贝蒂诺·克拉克西被判刑\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/5896553.htm",
+    "year" : "1994",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "贝蒂诺·克拉克西（Bettino Craxi，1934年2月24日—2000年1月19日），意大利政治家。出于米兰，1983年8月4日至1987年4月17日担任",
+    "cover" : false
+  }
+]

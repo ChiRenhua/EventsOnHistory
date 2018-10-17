@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "宋神宗采用王安石新法，实行青苗法",
+    "link" : "http:\/\/baike.baidu.com\/view\/46290.htm",
+    "year" : "1069",
+    "type" : "event",
+    "festival" : "国际和平日",
+    "desc" : "青苗法，亦称“常平新法”。中国宋朝王安石变法措施之一。主要是改变旧有常平仓制度的“遇贵量减市价粜，遇贱量增市价籴”的呆",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英格兰国王爱德华二世逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/129469\/11106648.htm",
+    "year" : "1327",
+    "type" : "death",
+    "festival" : "国际和平日",
+    "desc" : "爱德华二世（英文名Edward II，1284年4月25日—1327年9月21日），英格兰国王（1307年—1327年在位），金花雀王朝成员。他的一生",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "明朝第七位皇帝朱祁钰出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/3272897.htm",
+    "year" : "1428",
+    "type" : "birth",
+    "festival" : "国际和平日",
+    "desc" : "明代宗景皇帝朱祁钰。明宣宗朱瞻基第二子，明英宗朱祁镇异母弟。明朝第七位皇帝（1449-1457年在位）。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "清朝皇帝皇太极逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/73131.htm",
+    "year" : "1643",
+    "type" : "death",
+    "festival" : "国际和平日",
+    "desc" : "爱新觉罗·皇太极（Huang·Taiji，公元1592年11月28日申时－公元1643年9月21日亥时），爱新觉罗氏，满族，清太宗文皇帝，清太祖爱",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "纽约大火，城市大部分被毁",
+    "link" : "http:\/\/baike.baidu.com\/subview\/7708\/5407361.htm",
+    "year" : "1776",
+    "type" : "event",
+    "festival" : "国际和平日",
+    "desc" : "纽约（英语：New York）是纽约都会区的核心，美国第一大城市。为了与其所在的纽约州相区分，被称为纽约市（New York City，官方",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国大革命，实行共和制",
+    "link" : "http:\/\/baike.baidu.com\/view\/7189.htm",
+    "year" : "1792",
+    "type" : "event",
+    "festival" : "国际和平日",
+    "desc" : "法国大革命，法国特定历史时期，是1789年在法国爆发的资产阶级革命，统治法国多个世纪的君主制封建制度在三年内土崩瓦解。法国",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国小说家赫伯特·乔治·威尔斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/493589.htm",
+    "year" : "1866",
+    "type" : "birth",
+    "festival" : "国际和平日",
+    "desc" : "赫伯特·乔治·威尔斯(Herbert George Wells 1866-1946)，英国著名小说家，尤以科幻小说创作闻名于世。1895年出版《时间机器》一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国作曲家古斯塔夫·霍尔斯特出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/32718.htm",
+    "year" : "1874",
+    "type" : "birth",
+    "festival" : "国际和平日",
+    "desc" : "古斯塔夫·霍尔斯特（GustavDheodoreHolst,1874-1934），英国作曲家。生于具有瑞典血统的音乐家庭。1893年入英国伦敦皇家音乐学",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "慈禧太后发动政变，戊戌变法结束",
+    "link" : "http:\/\/baike.baidu.com\/view\/15917.htm\"",
+    "year" : "1898",
+    "type" : "event",
+    "festival" : "国际和平日",
+    "desc" : "戊戌变法，指1898年六月（农历戊戌年）以康有为为首的改良主义者通过光绪帝爱新觉罗·载湉所进行的资产阶级政治改革，是清光绪二",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国民主革命家朱执信逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/43383.htm",
+    "year" : "1920",
+    "type" : "death",
+    "festival" : "国际和平日",
+    "desc" : "朱执信（1885—1920），中国近代资产阶级革命家、思想家。名大符，字执信。汉族，祖籍浙江萧山，1885年10月12日生于广东番禺。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/92de77bb63a09f8a5d1daf06bef8c27f_134_100.jpg",
+    "title" : "美国作家史蒂芬·金出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/e645ba66d9f9d87e2455e41263f97a42_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/f44c66b95e8698e69bcaf15ca8c0c8cf_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/673162.htm",
+    "year" : "1947",
+    "type" : "birth",
+    "festival" : "国际和平日",
+    "desc" : "斯蒂芬·金是美国畅销书作家。他的作品销售已超过3亿5000万册，几乎每一部小说都曾搬上过银幕，其中最著名的当属《肖申克的救赎》和《闪灵》。2003年，他获得美国文学杰出贡献奖章。"
+  },
+  {
+    "recommend" : false,
+    "title" : "第26任澳大利亚总理陆克文出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1272484.htm",
+    "year" : "1957",
+    "type" : "birth",
+    "festival" : "国际和平日",
+    "desc" : "陆克文原名凯文·迈克尔·拉德（Kevin·Michael·Rudd），1957年9月21日出生于澳大利亚昆士兰州楠伯镇，第26任澳大利亚总理及澳大利",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "武侠小说家古龙逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/2969.htm",
+    "year" : "1985",
+    "type" : "death",
+    "festival" : "国际和平日",
+    "desc" : "古龙（1938.6.7—1985.9.21），原名熊耀华，著名武侠小说家，新派武侠小说泰斗和宗师。古龙与金庸、梁羽生并称为中国武侠小说三",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国人民解放军元帅徐向前逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/43818.htm",
+    "year" : "1990",
+    "type" : "death",
+    "festival" : "国际和平日",
+    "desc" : "徐向前，中国共产党的优秀党员，久经考验的无产阶级革命家、军事家，忠诚的共产主义战士，中国人民解放军的缔造者之一，中华人",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "伽利略号太空船任务结束，撞向木星坠毁",
+    "link" : "http:\/\/baike.baidu.com\/view\/1257089.htm",
+    "year" : "2003",
+    "type" : "event",
+    "festival" : "国际和平日",
+    "desc" : "伽利略号是1989年从“亚特兰蒂斯”号航天飞机上发射的，是美国航天局第一个直接专用探测木星的航天器。也是美国宇航局发射的最",
+    "cover" : false
+  }
+]

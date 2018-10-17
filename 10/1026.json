@@ -1,0 +1,145 @@
+[
+  {
+    "recommend" : true,
+    "title" : "英格兰国王阿尔弗雷德大帝逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1921008.htm",
+    "year" : "899",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "Alfred the Great （古英语：Ælfrēd，Ælfrǣd）中文译名：艾尔弗雷德、阿尔弗雷德等，生卒年从848\/849年～899年10",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国大革命中，五人督政府成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/7189.htm",
+    "year" : "1795",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "法国大革命，法国特定历史时期，是1789年在法国爆发的资产阶级革命，统治法国多个世纪的君主制封建制度在三年内土崩瓦解。法国",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄国革命家列夫·达维多维奇·托洛茨基出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/635008\/11091676.htm",
+    "year" : "1879",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "俄国与世界历史上最重要的无产阶级革命家之一，列宁最亲密的战友，二十世纪国际共产主义运动的左翼领袖，工农红军、第三国际和",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "https:\/\/imgsa.baidu.com\/baike\/pic\/item\/7dd98d1001e939013526e34876ec54e736d1969b.jpg",
+    "title" : "中国地质学家李四光出生",
+    "pic_calendar" : "https:\/\/imgsa.baidu.com\/baike\/pic\/item\/7dd98d1001e9390134cfe24876ec54e737d196f2.jpg",
+    "pic_share" : "https:\/\/imgsa.baidu.com\/baike\/pic\/item\/902397dda144ad345c9ae9f1dda20cf431ad859a.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2128\/5043581.htm",
+    "year" : "1889",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "字仲拱，中国著名科学家、地质学家、教育家和社会活动家，是中国现代地球科学和地质工作的主要领导人之一。"
+  },
+  {
+    "recommend" : false,
+    "title" : "瑞典承认挪威独立",
+    "link" : "http:\/\/baike.baidu.com\/view\/4918.htm",
+    "year" : "1905",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "挪威，全称挪威王国（The Kingdom of Norway, Kongeriket Norge）。 意为“通往北方之路”，位于斯堪的纳维亚半岛西部。挪威领",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本前首相伊藤博文逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/21659.htm",
+    "year" : "1909",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "伊藤博文（いとう ひろぶみ，1841年10月16日-1909年10月26日），日本近代政治家，长州五杰，明治九元老中的一人，日本第一个内",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国著名化学家卢嘉锡出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/90095.htm",
+    "year" : "1915",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "卢嘉锡（1915.10.26~2001.06.04），物理化学家、化学教育家和科技组织领导者。1950年后历任厦门大学理学院院长、研究部部长，福",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国政治家、总统弗朗索瓦·密特朗出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1710744.htm",
+    "year" : "1916",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "法国总统弗朗索瓦·密特朗(1916～1996)。1945年入选国民议会。此后曾在8个内阁中任职，先后担任过国务部长、内政部长、司法部长",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "伊朗国王穆罕默德·礼萨·巴列维出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/191352.htm",
+    "year" : "1919",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "穆罕默德·礼萨·巴列维（1919年10月26日~1980年7月27日）伊朗末代国王，礼萨·汗国王的长子。1941年登基为王。同年英苏军队进驻伊",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国汉学家伯希和逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/493634.htm",
+    "year" : "1945",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "保罗·伯希和（Paul Pelliot，1878年5月28日-1945年10月26日），世界著名的法国汉学家、探险家。就学于巴黎大学，主修英语，后入",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国大选，保守党击败工党，温斯顿·丘吉尔再任首相",
+    "link" : "http:\/\/baike.baidu.com\/view\/6156.htm",
+    "year" : "1951",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "温斯顿·伦纳德·斯宾塞·丘吉尔（1874年11月30日-1965年1月24日），英国历史学家、政治家、画家、演说家、作家、记者。他的《不需",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "香港电影之父黎民伟逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/99798.htm",
+    "year" : "1953",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "黎民伟（1893-1953），早期电影开拓者，编剧、导演，中国电影先驱之一，有“中国电影之父”、“香港电影之父”之称。1994年第十",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "“中国文化的国际使者”蒋彝逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/33901.htm",
+    "year" : "1977",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "蒋彝（Chiang Yee）（1903年—1977年），画家、诗人、作家、书法家。“中国文化的国际使者”。江西九江县人。 由于他对中西文化",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国务院证券委员会成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/634957.htm",
+    "year" : "1992",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "国务院证券委员会系中华人民共和国政府的最高证券管理权力机关，简称证券委。成立于1992年10月，下设办公室，负责日常工作，由",
+    "cover" : false
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "recommend" : false,
+    "title" : "法国政治家路易一世·德·波旁出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/809145.htm",
+    "year" : "1530",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "路易一世·德·波旁（1530—1569），男，法国军人和政治家，波旁王朝创建者亨利四世的叔叔，波旁王朝第一亲王。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国明代作家李贽逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/25236.htm",
+    "year" : "1602",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "李贽（1527～1602），回族[1] ，明代官员、思想家、文学家，中古自由学派鼻祖，泰州学派的一代宗师。初姓林，名载贽，后改",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国首相威廉·佩蒂逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/567563.htm",
+    "year" : "1805",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "威廉·佩蒂，又称谢尔本伯爵。辉格党领袖。英国十八世纪最怀才不遇的政治家，乔治三世时期的英国首相。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国诗人和编剧罗勃特·勃朗宁出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/68301.htm",
+    "year" : "1812",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "罗伯特·勃朗宁(Robert Browning，1812年5月7日－1889年12月12日) 英国诗人，剧作家，主要作品有《戏剧抒情诗》(Dramatic Lyrics",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄罗斯作曲家柴科夫斯基逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/20540\/15202836.htm",
+    "year" : "1840",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "彼得·伊里奇·柴可夫斯基（俄文：Пётр Ильич Чайковский，英文：Peter Lynch Tchaikovsky）又译为柴科夫斯基",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "印度诗人拉宾德拉纳特·泰戈尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/6247024.htm",
+    "year" : "1861",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "拉宾德拉纳特 · 泰戈尔（1861年—1941年），印度著名诗人、文学家、社会活动家、哲学家和印度民族主义者。1861年5月7日，拉宾德拉纳特·泰戈尔出生于印度加尔各答一个富有的贵族家庭。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国卢西塔尼亚号邮轮被击沉",
+    "link" : "https:\/\/baike.baidu.com\/item\/%E5%8D%A2%E8%A5%BF%E5%A1%94%E5%B0%BC%E4%BA%9A%E5%8F%B7",
+    "year" : "1915",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "卢西塔尼亚号邮轮在爱尔兰外海被德国潜艇击沉。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "纳粹德国宣布无条件投降",
+    "link" : "http:\/\/baike.baidu.com\/view\/32272.htm",
+    "year" : "1945",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "纳粹德国是指于1933年至1945年期间由阿道夫·希特勒和其所领导的纳粹党（国家社会主义工人党）所统治的德国。纳粹德国有两个官方",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国共产党革命烈士李白逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2133\/5052680.htm",
+    "year" : "1949",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "李白(1910.5 - 1949.5.7)，湖南省浏阳市张坊镇板溪村人，原名李华初，曾用名李朴，化名李霞、李静安。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "杰弗里·达默首先发表集成电路概念",
+    "link" : "http:\/\/baike.baidu.com\/view\/1355.htm",
+    "year" : "1952",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "集成电路（integrated circuit）是一种微型电子器件或部件。采用一定的工艺，把一个电路中所需的晶体管、二极管、电阻、电容和",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "香港发生六七暴动",
+    "link" : "http:\/\/baike.baidu.com\/view\/274270.htm",
+    "year" : "1967",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "六七暴动，亦称六七左派工会暴动和香港五月风暴，当时参与及支持者称它为反英抗暴，于1967年5月6日发动，同年10月份基本结束，",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/e.hiphotos.baidu.com\/baike\/pic\/item\/a71ea8d3fd1f4134c35764cc291f95cad1c85e1b.jpg",
+    "title" : "国民革命军陆军中将、著名抗日将领杜聿明逝世",
+    "pic_calendar" : "http:\/\/d.hiphotos.baidu.com\/baike\/pic\/item\/48540923dd54564ed17e858bbfde9c82d1584f6c.jpg",
+    "pic_share" : "http:\/\/e.hiphotos.baidu.com\/baike\/pic\/item\/8694a4c27d1ed21b7a214857a16eddc450da3f93.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/26129.htm",
+    "year" : "1981",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杜聿明，毕业于黄埔军校，曾代表国民革命军参加北伐战争、长城抗战、淞沪抗战。1949年1月9日在淮海战役中所率各部全军覆没被俘。1959年12月4日第一批特赦，后被特邀为政协常委。1981年病逝于北京。"
+  },
+  {
+    "recommend" : true,
+    "title" : "动画片《花木兰》风靡美国",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4025\/5461950.htm",
+    "year" : "1998",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "这篇影片是美国迪斯尼做成的，幽默、夸张，生动、形象的再现了花木兰的英勇事迹。",
+    "cover" : false
+  }
+]

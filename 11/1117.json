@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "清朝摄政王多尔衮出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/298026.htm",
+    "year" : "1612",
+    "type" : "birth",
+    "festival" : "国际大学生节",
+    "desc" : "爱新觉罗·多尔衮（dorgon）（公元1612—1650年），努尔哈赤第十四子，少年时多次随兄出征蒙古与明朝，因屡建功勋16岁而获“墨尔",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "隆科多以大罪五十永远禁锢",
+    "link" : "http:\/\/baike.baidu.com\/view\/7674877.htm",
+    "year" : "1727",
+    "type" : "event",
+    "festival" : "国际大学生节",
+    "desc" : "佟佳·隆科多（1671—1728），清满洲镶黄旗人，清圣祖孝懿仁皇后之弟，佟国刚之子，佟国维之侄，康熙理藩院尚书兼步军统领，雍正",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国君王路易十八出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/209992.htm",
+    "year" : "1755",
+    "type" : "birth",
+    "festival" : "国际大学生节",
+    "desc" : "路易十八（1755年11月17日－1824年9月16日），法国国王（在位1814年－1824年），法国波旁王朝复辟后的第一个国王。全名为：Loui",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄国沙皇叶卡捷琳娜二世逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/78525.htm",
+    "year" : "1796",
+    "type" : "death",
+    "festival" : "国际大学生节",
+    "desc" : "俄国女皇叶卡捷琳娜二世·阿列克谢耶芙娜（Екатерина II Алексеевна），叶卡捷琳娜二世与俄罗斯留里克王朝有",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "根据《南京条约》，上海开埠",
+    "link" : "http:\/\/baike.baidu.com\/view\/18410.htm",
+    "year" : "1843",
+    "type" : "event",
+    "festival" : "国际大学生节",
+    "desc" : "《南京条约》又称《江宁条约》，是中国近代史上与外国签订的第一个不平等条约，是中国第一个丧权辱国的条约。道光二十二年（184",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国元帅路易·赫伯特·利奥泰出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/3277028.htm",
+    "year" : "1854",
+    "type" : "birth",
+    "festival" : "国际大学生节",
+    "desc" : "路易·赫伯特·贡萨伏·利奥泰（Louis-Hubert-Gonzalve Lyautey，1854年11月17日－1934年7月27日），法国政治家、军事家，元帅。18",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国空想社会主义者罗伯特·欧文逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/35121.htm",
+    "year" : "1858",
+    "type" : "death",
+    "festival" : "国际大学生节",
+    "desc" : "罗伯特·欧文（Robert Owen，1771年5月14日 - 1858年11月17日），英国空想社会主义者，也是一位企业家、慈善家。现代人事管理之",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "贯通地中海与红海的苏伊士运河正式通航",
+    "link" : "http:\/\/baike.baidu.com\/view\/15672.htm",
+    "year" : "1869",
+    "type" : "event",
+    "festival" : "国际大学生节",
+    "desc" : "苏伊士运河(又译苏彝士运河)1869年修筑通航，是一条海平面的水道，在埃及贯通苏伊士地峡，连接地中海与红海，提供从欧洲至印度",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/db6371a33b476a20b05098d5c5a3f3fe_134_100.jpg",
+    "title" : "法国雕塑家罗丹逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/6a51f5cd8d300de6467f614728cc7aef_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/f764b44e866bae4044baba905a66ebd9_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/44911.htm",
+    "year" : "1917",
+    "type" : "death",
+    "festival" : "国际大学生节",
+    "desc" : "罗丹是法国著名雕塑家。他在欧洲雕塑史上的地位，正如诗人但丁在欧洲文学史上的地位。他还是一位伟大的老师，学生马约尔和布德尔深受其影响，和他一起被誉为欧洲雕刻“三大支柱”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "广州张黄事变爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/547476.htm",
+    "year" : "1927",
+    "type" : "event",
+    "festival" : "国际大学生节",
+    "desc" : "广州张黄事变是指在1927年11月17日凌晨，国民政府和中国国民党内部派系之一的张发奎、黄琪翔等人在广州发动政变，改组国民党广",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "越南总理阮晋勇出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/274378.htm",
+    "year" : "1949",
+    "type" : "birth",
+    "festival" : "国际大学生节",
+    "desc" : "阮晋勇，1949年11月17日生于越南南部金瓯省金瓯市。他历任坚江省委书记、越共中央委员、越南内务部副部长、中央经济部部长、越",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "西藏第十四世达赖喇嘛丹增嘉措开始亲政",
+    "link" : "http:\/\/baike.baidu.com\/view\/6698.htm",
+    "year" : "1950",
+    "type" : "event",
+    "festival" : "国际大学生节",
+    "desc" : "达赖十四世名丹增嘉措(1934～ )。出身于青海省湟中县的藏族农民家庭。1949年中华人民共和国成立以后，达赖十四世曾派代表团到北京。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "百度公司创始人、董事长兼首席执行官李彦宏出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2375.htm",
+    "year" : "1968",
+    "type" : "birth",
+    "festival" : "国际大学生节",
+    "desc" : "李彦宏，男，汉族，1968年11月生，山西阳泉人，无党派，研究生学历。1991年毕业于北京大学信息管理专业，随后赴美国完成计算机",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国第一位女外交官袁晓园逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1228153.htm",
+    "year" : "2003",
+    "type" : "death",
+    "festival" : "国际大学生节",
+    "desc" : "袁晓园（1901-2003[1]&nbsp;），常州武进人。袁晓园先生名闻天下，不是因为她四妹袁静，写了一部《新儿女英雄传》；更不是因为",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国相声表演艺术家范振钰逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/564751.htm",
+    "year" : "2008",
+    "type" : "death",
+    "festival" : "国际大学生节",
+    "desc" : "范振钰（1927—2008）著名相声表演艺术家。1950年拜班德贵为师，相声泰斗马三立的再传弟子。四人帮”垮台后重返舞台。1979年与",
+    "cover" : false
+  }
+]

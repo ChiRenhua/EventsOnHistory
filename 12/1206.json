@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "《大不列颠百科全书》第一版出版",
+    "link" : "http:\/\/baike.baidu.com\/view\/28456.htm",
+    "year" : "1768",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《不列颠百科全书》（英文：Encyclopedia Britannica）又称《大英百科全书》，被认为是当今世界上最知名也是最权威的百科全书，",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国铝业大王查尔斯·马丁·霍尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/6092632.htm",
+    "year" : "1863",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "查尔斯·马丁·霍尔（Charles Martin Hal）1863年12月6日出生于俄亥俄州桑普森，1914年12月27日逝世于佛罗里达州戴通纳，是一位美",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "《华盛顿邮报》开始出版",
+    "link" : "http:\/\/baike.baidu.com\/view\/229325.htm",
+    "year" : "1877",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《华盛顿邮报》（英语：The Washington Post）是美国华盛顿最大、最老的报纸。1970年代初通过揭露水门事件和迫使理查德·尼克松",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-30\/2e3840cc92293103558efa6ef3a8151b_134_100.jpg",
+    "title" : "发明大王爱迪生展出世界上第一台留声机",
+    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-30\/47a552fe8d028c9b7f0e61be18921291_80_80.jpg",
+    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-30\/6e45610ae68a022882133f9cc14262d7_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/71257\/5144480.htm",
+    "year" : "1877",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "留声机是一种原始放音装置，其声音储存在以声学方法在唱片（圆盘）平面上刻出的弧形刻槽内。美国人爱迪生设计的留声机，是世界上最早的录音装置，是19世纪最引人振奋的三大发明之一。"
+  },
+  {
+    "recommend" : false,
+    "title" : "美国军人、政治家杰佛逊·戴维斯逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/897119.htm",
+    "year" : "1889",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杰佛逊·汉弥尔顿·戴维斯(Jefferson Hamilton Davis)，1808年6月3日—1889年12月6日），美国军人、政治家，美国历史上最有影响力",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "世界著名电子电器之父西门子逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1932327.htm",
+    "year" : "1892",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "维尔纳·冯·西门子（Ernst Werner von Siemens）（1816—1892）世界著名的德国发明家、企业家、物理学家，铺设、改进海底、地底",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "探险家阿蒙森探明地球磁极",
+    "link" : "http:\/\/baike.baidu.com\/view\/1148361.htm",
+    "year" : "1905",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "地球表面上地磁场方向与地面垂直、磁场强度最大的地方，称为地磁极。地磁极有两个（磁北极和磁南极），其位置与地理两极接近，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "清末资产阶级革命派出色的宣传家陈天华逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/35329\/6148447.htm",
+    "year" : "1905",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "陈天华（1875年－1905年12月8日），原名显宿，字星台，亦字过庭，别号思黄，湖南省新化县人，华兴会创始人之一，同盟会会员，清",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "漫画家丁聪出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/308362\/6051635.htm",
+    "year" : "1916",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "丁聪，中国人名，男女通用，较著名的有漫画家丁聪。另有陕西省委组织部副部长丁聪等。漫画家丁聪（1916-2009），1916年生于上海",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国画家莫奈逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/480597.htm",
+    "year" : "1926",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "克劳德·莫奈（Claude Monet，1840年11月14日－1926年12月5日），法国画家，印象派代表人物和创始人之一。莫奈是法国最重要的画",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本著名作曲家、钢琴家久石让出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/15151.htm",
+    "year" : "1950",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "久石让（1950年12月6日－），日本著名音乐人、作曲家、歌手、钢琴家，出生于长野县中野市，国立音乐大学作曲科毕业。“久石让”",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾乐队五月天主唱阿信出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/28404\/4987536.htm",
+    "year" : "1975",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "陈信宏（Ashin）昵称阿信，1975年12月6日生于台北北投[1]&nbsp;。中国台湾男歌手、词曲创作者，华语乐团五月天的主唱。1997年3",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "澳大利亚足球运动员蒂姆&#8226;卡希尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/319660.htm",
+    "year" : "1979",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "蒂姆·卡希尔（Tim Cahill，1979年12月6日－），出生于澳大利亚悉尼，澳大利亚著名球星。父亲是有爱尔兰血统的英格兰人，母亲是",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "庐山被批准为“世界文化遗产”",
+    "link" : "http:\/\/baike.baidu.com\/view\/4157.htm",
+    "year" : "1996",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "庐山位于江西省九江市，山体呈椭圆形，典型的地垒式块段山，长约25公里，宽约10公里，绵延的90余座山峰，犹如九叠屏风，屏蔽着",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "我国著名举重运动员、广东省体委原副主任陈镜开逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/127743.htm",
+    "year" : "2010",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "陈镜开（1935年12月1日—2010年12月6日），生于广东东莞石龙，中国举重名将，是新中国第一个打破世界纪录的运动员。1956年6月7",
+    "cover" : false
+  }
+]

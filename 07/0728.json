@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "德国作曲家巴赫逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/53579.htm",
+    "year" : "1750",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "约翰·塞巴斯蒂安·巴赫（Johann Sebastian Bach，1685年3月21日－1750年7月28日），是巴洛克时期的德国作曲家，杰出的管风琴、小",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "德国唯物主义哲学家费尔巴哈诞辰\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2153393.htm",
+    "year" : "1804",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "路德维希·安德列斯·费尔巴哈（Ludwig Andreas Feuerbach，1804年7月28日－1872年9月13日），德国哲学家。出生于拜恩州（巴伐利",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国小说家、《曼斯菲尔德庄园》作者简·奥斯丁逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/42009.htm",
+    "year" : "1817",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "简·奥斯汀，是英国著名女性小说家，她的作品主要关注乡绅家庭女性的婚姻和生活，以女性特有的细致入微的观察力和活泼风趣的文字",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国七月革命爆发\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/935797.htm",
+    "year" : "1830",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "法国七月革命，是1830年欧洲的革命浪潮的序曲，因为波旁王室的专制统治令经历过法国大革命的法国人民难以忍受，以致法人群起反",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第一次世界大战开始\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/26747.htm",
+    "year" : "1914",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "第一次世界大战（1914年7月--1918年11月）是在19世纪末20世纪初，资本主义世界向垄断资本主义即帝国主义时期过渡、亚洲非洲拉丁",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国计算机科学的先行者夏培肃出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/119482.htm",
+    "year" : "1923",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "夏培肃，中国科学院院士，电子计算机专家，我国计算机事业的奠基人之一。1945年国立中央大学（南京大学[1]&nbsp;）毕业。参加我",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "抗日英雄佟麟阁、赵登禹殉国\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/55387.htm",
+    "year" : "1937",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "佟麟阁，河北省保定市高阳县人。中华民国军事将领，先后隶属北京政府、国民军、国民政府（国民革命军），是冯玉祥手下的“十三",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "委内瑞拉总统乌戈·查韦斯出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/86777.htm",
+    "year" : "1954",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "乌戈·拉斐尔·查韦斯·弗里亚斯（卡斯蒂利亚语：Hugo Rafael Chávez Frías，1954年7月28日—2013年3月5日）男，第52任委内瑞拉总",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国女作家伏尼契逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/343685.htm",
+    "year" : "1960",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "艾捷尔·丽莲·伏尼契（Ethel Lilian Voynich，1864.05.11 － 1960.07.27），爱尔兰女作家。原名艾捷尔·丽莲·布尔，是著名的英国",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6d92d186f2cb91f7b67b5af8ee41d4a0_134_100.jpg",
+    "title" : "中国河北省唐山市发生唐山大地震\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6345c43c621f202c34e19a7054c2d545_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/086d02157b5f59df07a66d56506ee1e3_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/3267\/5734405.htm",
+    "year" : "1976",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1976年，中国河北省唐山市发生唐山大地震。\n唐山大地震，强度里氏7.8级，能量相当于400颗广岛原子弹爆炸，强大破坏力使整个唐山市顷刻间夷为平地，死亡人数超过24万，震后仅清理废墟就耗费了7年之久。\n"
+  },
+  {
+    "recommend" : false,
+    "title" : "中国儿童少年基金会成立\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/219758.htm",
+    "year" : "1981",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中国儿童少年基金会成立于1981年7月28日 ，是中国第一个以募集资金的形式，为儿童少年教育福利事业服务的全国性社会团体，是一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "黄河站是中国在北极建立的第一个科学考察站\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1351679.htm",
+    "year" : "2004",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中国北极黄河站，位于北纬78°55′、东经11°56′的挪威斯匹次卑尔根群岛的新奥尔松。是中国首个北极科考站，成立于2004年7月28日",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "DNA之父佛朗西斯·克里克逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/921839.htm",
+    "year" : "2004",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "弗朗西斯·哈里·康普顿·克里克（Francis Harry Compton Crick 1916.6.8——2004.7.28）生于英格兰中南部一个郡的首府北安普敦。1",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国有色金属冶金专家邱竹贤教授逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/317587.htm",
+    "year" : "2006",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "邱竹贤（1921.5.19-2006.7.28）江苏省海门市人。冶金学家，中国铝冶金教育和科学研究的先驱。教授、博士生导师，中国工程院院士",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴基斯坦发生特大空难，机上152人全部罹难\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/4031578.htm",
+    "year" : "2010",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "巴基斯坦发生近18年来最严重的空难。一架载有152人的客机28日在巴基斯坦马尔加拉山区(Margalla Hills)坠毁，出事地点距离伊斯兰",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "加拿大蒙特利尔发生大火灾",
+    "link" : "http:\/\/baike.baidu.com\/subview\/35199\/11090124.htm",
+    "year" : "1765",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "蒙特利尔（Montreal）坐落于加拿大渥太华河和圣劳伦斯河交汇处，是加拿大第二大城市、魁北克省最大城市。曾经是加拿大20世纪70",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "拿破仑·波拿巴称帝，建立法兰西第一帝国",
+    "link" : "http:\/\/baike.baidu.com\/view\/5292.htm",
+    "year" : "1804",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "拿破仑·波拿巴（法文：Napoléon Bonaparte，1769年~1821年），出生于法国的科西嘉岛，是著名的军事家、政治家。他是法兰西第一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国刺客约翰·贝林罕逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/5449410.htm",
+    "year" : "1812",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "约翰·贝林罕（John Bellingham，c.1769年－1812年5月18日），英国商人，早年在英国工作，1804年在俄罗斯遭到不法拘留，至1809年",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "虾夷共和国被日本所灭",
+    "link" : "http:\/\/baike.baidu.com\/view\/97666.htm",
+    "year" : "1869",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1868年4月，德川幕府向萨长联军投降，戊辰战争结束，新的日本帝国建立。但幕府海军奉行拒绝交出幕府舰队，带领八艘军舰",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国著名哲学家、数理学家伯特兰·罗素出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/75155.htm",
+    "year" : "1872",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "伯特兰·罗素（Bertrand Russell，1872—1970）是二十世纪英国哲学家、数学家、逻辑学家、历史学家，无神论或者不可知论者，也是",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "德国建筑师瓦尔特·格罗皮乌斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/122900.htm",
+    "year" : "1883",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "瓦尔特·格罗皮乌斯（Walter Gropius）1883年5月18日生于德国柏林，是德国现代建筑师和建筑教育家，现代主义建筑学派的倡导人和",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/d1ca7de8453cdf194a8ed13ffd505132_134_100.jpg",
+    "title" : "中国通俗小说家张恨水出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/763c64c5087bf9f9b158e5572c4fe29e_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/94e86cf0d1cb2df0a244f9def28c4915_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/36865.htm",
+    "year" : "1895",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "张恨水，鸳鸯蝴蝶派代表作家，被尊称为现代文学史上的章回小说大家和通俗文学大师第一人。作品情节曲折复杂，结构布局严谨完整，将中国传统的章回体小说与西洋小说的新技法融为一体。"
+  },
+  {
+    "recommend" : false,
+    "title" : "奥地利作曲家古斯塔夫·马勒逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/338017.htm",
+    "year" : "1911",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "古斯塔夫·马勒 （Gustav Mahler,1860－1911），杰出的奥地利作曲家及指挥家。出生于波希米亚的卡里什特，他的许多作品体现了他",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "辛亥革命党人陈其美逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/36361.htm",
+    "year" : "1916",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "陈其美（1878－1916），字英士，浙江湖州人。近代民主革命志士，青帮代表人物，于辛亥革命初期与黄兴同为孙中山的左右股肱。弟",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国著名首席芭蕾舞者玛格·芳登出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2979265.htm",
+    "year" : "1919",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "玛格·芳登女爵士（Margot Fonteyn，1919–1991年），英国芭蕾舞女演员。评论家盛赞她为20世纪伟大芭蕾舞女演员之一。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国圣海伦斯火山大爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/57339.htm",
+    "year" : "1920",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "圣海伦斯火山（Mount St Helen&#39;s，US），北美洲近期喷发的活火山。位于美国西北部华盛顿州﹐北纬46°11′，西经122°11′，海",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "好莱坞中国戏院开业",
+    "link" : "http:\/\/baike.baidu.com\/view\/2164046.htm",
+    "year" : "1927",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "位于好莱坞大道上的中国剧院是全美国最著名的影院。卓别林等许多艺术大师都在这里演出过。2013年1月11日更名为“好莱坞TCL中国大剧院”(TCL Chinese Theatre)。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国社会科学家邓拓逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/11296.htm",
+    "year" : "1966",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "邓拓（1912—1966），原名邓子健， 笔名叫马南邨、邓云特，福建闽侯人，无产阶级革命战士，当代杰出的新闻工作者、政论家、历史",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "印度试爆核弹",
+    "link" : "http:\/\/baike.baidu.com\/view\/2174.htm",
+    "year" : "1974",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "印度，是印度共和国（Republic of India)的简称，位于亚洲南部，是南亚次大陆最大的国家，大部分位于10°N-30°N之间。位于低纬度",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国地质学家、古生物学家赵金科逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/196827\/8426836.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "1906年6月11日生于河北曲阳，地质学、古生物学家。河北曲阳人。号子铭。1932年毕业于北京大学地质系。中国科学院南京地质古生物",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "马拉松战役打响",
+    "link" : "http:\/\/baike.baidu.com\/view\/67324.htm",
+    "year" : "-490",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "马拉松战役是公元前490年强大的波斯帝国对雅典发动的战争。雅典方面参战的一万一千人全部是重装步兵，他们按照惯例在马拉松平原",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "葡萄牙国王阿方索六世逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/810653\/10040963.htm",
+    "year" : "1683",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "阿方索六世（Afonso VI，1643年8月21日—1683年9月12日），绰号“胜利王”（o Vitorioso）。葡萄牙王国布拉干萨王朝的第二位国王（1656年-1667年在位）。\n阿方索六世是布拉干萨王朝创建者若昂四世的儿子，1656年继承王位，由母亲摄政。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "瑞典商船哥德堡号在哥德堡外海沉没",
+    "link" : "http:\/\/baike.baidu.com\/view\/345002.htm",
+    "year" : "1745",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "哥德堡号(East Indiaman Gotheborg)是大航海时代瑞典著名远洋商船，曾三次远航中国广州。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "日本首位电影巨星尾上松之助出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/12870212.htm",
+    "year" : "1875",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "尾上松之助（1875-1926）日本第一位电影演员，号称台柱子松。生于冈山市，本名中村鹤三，十几岁时已经是有名的戏剧明星",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "新文化运动代表钱玄同出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2005.htm",
+    "year" : "1887",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "钱玄同（1887－1939），原名钱夏，字德潜，号疑古，汉族，浙江吴兴（现浙江湖州市）人。语文改革活动家、文字音韵学家、中国“",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "居里夫人长女伊雷娜·约里奥-居里出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1433667.htm",
+    "year" : "1897",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "伊雷娜·约里奥-居里（Irène Joliot-Curie，1897-1956），本名伊雷娜·居里，居里夫妇的女儿。与其夫约里奥-居里（外国妇女出嫁后",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "熊克武放弃重庆，“二次革命”失败",
+    "link" : "http:\/\/baike.baidu.com\/view\/22108.htm",
+    "year" : "1913",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "二次革命（即’‘讨袁之役’‘又称’‘癸丑之役’‘或’‘赣宁之役’‘）1913年3月20日，国会开会前夕，袁世凯派人在上海暗杀国",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本工业家丰田英二出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1274503.htm",
+    "year" : "1913",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "丰田英二当丰田汽车工业公司社长的15年，正是日本经济高速发展，跃升至世界经济大国的灿烂夺目的历史时期，公司本身也取得了极",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国将领续范亭逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/53383.htm",
+    "year" : "1947",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "续范亭（1893.11.27 - 1947.9.12），山西省崞县（今原平市）西社村人，著名抗日爱国将领。早年参加孙中山领导的同盟会后即献身",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "辽沈战役爆发",
+    "link" : "http:\/\/baike.baidu.com\/subview\/3372\/5064480.htm",
+    "year" : "1948",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "辽沈战役是中国近代史中第二次国共内战的“三大战役”之一，1948年9月12日开始，同年11月2日结束，共历时52天。中国共产党称之",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/3941c48f1c84603ea321b605616792bb_134_100.jpg",
+    "title" : "香港演艺明星张国荣出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/473ad30d7dfd53fb355e0d88e99420ec_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/8212e42a601ac9825c927dd851cd182d_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/6360\/5595080.htm",
+    "year" : "1956",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "张国荣是香港著名歌手、演员和音乐人。他曾获香港乐坛最高荣誉奖金针奖，他主演的《霸王别姬》是中国首部获戛纳国际电影节金棕榈奖的电影。2003年，他因抑郁症病发跳楼自杀。"
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利诗人埃乌杰尼奥·蒙塔莱逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/75100.htm",
+    "year" : "1981",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "埃乌杰尼奥·蒙塔莱（Montale Eugenio，1896～1981），意大利诗人。1896年10月10日生于热那亚，1981年9月12日卒于米兰。少年时学",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国高分子化学家王葆仁逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/101829.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "王葆仁(1907.1.20—1986.9.12)，男，化学家，江苏扬州人。1907年1月20日生于江苏省江都县（今扬州市），1926年毕业于国立东南大",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴西总统埃内斯托·盖泽尔逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/6381463.htm",
+    "year" : "1996",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "埃内斯托·盖泽尔（Ernesto Geisel1908-1986），巴西前总统（1974-1979）、陆军四星上将。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "亚洲第2座迪士尼乐园香港迪士尼乐园开幕",
+    "link" : "http:\/\/baike.baidu.com\/view\/171466.htm",
+    "year" : "2005",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "香港迪士尼乐园（Hong Kong Disneyland）位于香港新界大屿山，占地126公顷，于2005年9月12日正式开幕，由香港政府及华特迪士尼",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "唐代诗人李白逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2133\/5052678.htm",
+    "year" : "762",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "李白（公元701年－公元762年），字太白，号青莲居士，又号”谪仙人“是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”。后世将李",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "葡萄牙爆发内战",
+    "link" : "http:\/\/baike.baidu.com\/view\/3572.htm",
+    "year" : "1383",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "葡萄牙，全称葡萄牙共和国（英语：The Portuguese Republic，葡萄牙语：República Portuguesa），是一个位于欧洲西南部的共和制",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "阿瓜斯卡连特斯建城",
+    "link" : "http:\/\/baike.baidu.com\/view\/840184.htm",
+    "year" : "1575",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "阿瓜斯卡连特斯（Aguascalientes）是阿瓜斯卡连特斯州首府。墨西哥中部城市，是墨西哥最小的州之一，西、北、东三面邻萨卡特卡",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "匈牙利钢琴家李斯特出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/714222.htm",
+    "year" : "1811",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "弗朗茨·李斯特Franz Liszt），著名的匈牙利作曲家、钢琴家、指挥家，伟大的浪漫主义大师，是浪漫主义前期最杰出的代表人物之一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "山姆·休斯顿就任得克萨斯共和国首任总统",
+    "link" : "http:\/\/baike.baidu.com\/view\/3919174.htm",
+    "year" : "1836",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "山姆·休斯顿（Sam Houston，又作Samuel Houston），（1793年3月2日－1863年7月26日），美国最出名的牛仔之一。少年就流浪成为印",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/1181bd006015f8aab0c05bb92036f32f_134_100.jpg",
+    "title" : "美国纽约大都会歌剧院首演",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/3d8f59339c69430cf8ad7affa5b8567b_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/2875befa64ab7a29d35a2f7049c22b46_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/526414.htm",
+    "year" : "1883",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "纽约大都会歌剧院是世界著名的歌剧院。它位于美国纽约的林肯表演艺术中心，建筑风格融古典与现代于一体。它规模庞大，能容纳4千多名观众。演出时间是每年9月至次年4月。"
+  },
+  {
+    "recommend" : false,
+    "title" : "中国京剧名旦梅兰芳出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/8006\/5950533.htm",
+    "year" : "1894",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "梅兰芳，江苏泰州人，名澜，又名鹤鸣，乳名裙姊，字畹华，别署缀玉轩主人，艺名兰芳。清光绪二十年出生于北京的一个梨园世家。[",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国著名画家、后印象派的主将保罗·塞尚逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/95894.htm",
+    "year" : "1906",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "保罗·塞尚（Paul Cézanne，1839—1906）法国著名画家，是后期印象派的主将，从19世纪末便被推崇为“新艺术之父”，作为现代艺术",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国大陆女演员邓婕出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/63249.htm",
+    "year" : "1959",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "邓婕，1957年10月22日出生于四川成都，中国影视女演员、制片人。1973年考入四川省川剧学校，1987年因出演电视剧版《红楼梦》中王熙凤一角广为大陆观众熟知",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名国际钢琴艺术家孔祥东出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/66529\/12985051.htm",
+    "year" : "1968",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "孔祥东[1] ，当今国际乐坛最优秀、最活跃的中国钢琴家之一\n\n孔祥东 一席 演讲。已有40多个国家和地区的观众亲身感受过他那激情洋溢的演奏，被西方媒体盛赞为“一个世纪只能出一到两个，真正能激动人心的天才钢琴家”和“一代天之骄子”",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "西班牙大提琴家帕布罗·卡萨尔斯逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/253139.htm",
+    "year" : "1973",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杰出西班牙大提琴演奏家。四岁学钢琴，十一岁改学大提琴，二十三岁举行第一次独奏音乐会，在遍及二十来个国家的旅行演出生涯中",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国历史学家阿诺德·约瑟夫·汤因比逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/5825634.htm",
+    "year" : "1975",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "阿诺德·约瑟夫·汤因比（Arnold Joseph Toynbee，1889年～1975年）是英国著名历史学家，他曾被誉为“近世以来最伟大的历史学家”",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国篮球运动员切克·萨姆布出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2961547.htm",
+    "year" : "1984",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "切克·萨姆布（1984年10月22日—）出生于塞内加尔达喀尔（Dakar, Senegal），塞内加尔职业篮球运动员，司职中锋，效力于沙特阿拉",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国人民解放军元帅叶剑英逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1812.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "叶剑英，中国伟大的无产阶级革命家、政治家、军事家，中华人民共和国元帅、中国人民解放军的缔造者之一，是久经考验的共产主义",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国工会第十一次全国代表大会在北京举行",
+    "link" : "http:\/\/baike.baidu.com\/view\/113783.htm",
+    "year" : "1988",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中国工会是中国共产党领导的职工自愿结合的工人阶级群众组织，是党联系职工群众的桥梁和纽带，是国家政权的重要社会支柱，是会",
+    "cover" : false
+  }
+]

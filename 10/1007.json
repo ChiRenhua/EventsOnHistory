@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "丹麦国王弗雷德里克一世出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1099674\/9177967.htm",
+    "year" : "1471",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "弗雷德里克一世（丹麦语：Frederik 1.，1471年10月7日―1533年4月10日）奥尔登堡王朝的丹麦和挪威国王（1523年―1533年在位）。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国作家爱伦·坡逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/47801.htm",
+    "year" : "1849",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "埃德加·爱伦·坡（Edgar Allan Poe）（1809～1849），十九世纪美国诗人、小说家和文学评论家，美国浪漫主义思潮时期的重要成员。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "丹麦物理学家尼尔斯·亨利克·戴维·玻尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/15829.htm",
+    "year" : "1885",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "尼尔斯·亨利克·戴维·玻尔（Niels Henrik David Bohr，1885年10月7日～1962年11月18日) ），丹麦物理学家。他通过引入量子化条件",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国民主建国会创建人胡厥文出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/140860.htm",
+    "year" : "1895",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "胡厥文（1895.10.7 - 1989.4.16）又名胡保祥，上海嘉定人。著名爱国民主人士、政治活动家、杰出实业家。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "亨利·福特建立了第一条装配线",
+    "link" : "http:\/\/baike.baidu.com\/view\/28347.htm",
+    "year" : "1913",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亨利·福特（HenryFord，1863年7月30日—1947年4月8日），美国汽车工程师与企业家，福特汽车公司的建立者。他也是世界上第一位使",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "红军三大主力胜利会师，长征结束",
+    "link" : "http:\/\/baike.baidu.com\/subview\/6412\/6766468.htm",
+    "year" : "1936",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "长征（1934年10月--1936年10月），是中央主力红军（红一方面军）为了摆脱国民党军队的“围剿”，被迫实行战略大转移，退出中央",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "德意志民主共和国成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/97544.htm",
+    "year" : "1949",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "德意志民主共和国（德语：Deutsche Demokratische Republik，简称DDR），简称民主德国或东德（德语：Ost-Deutschland）。1949年",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄罗斯总统普京出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/765943.htm",
+    "year" : "1952",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "弗拉基米尔·弗拉基米罗维奇·普京，现任俄罗斯总统。曾担任俄罗斯总统、俄罗斯总理、统一俄罗斯党主席、俄白联盟部长会议主席。2",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国际顶尖的大提琴家马友友出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/47952.htm",
+    "year" : "1955",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "马友友，大提琴演奏家，在法国出生的华裔美国人，曾获得多座格莱美奖。马友友为多部电影音乐配乐，其中包括布莱德·彼特主演的电",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/90eea6b9e1c50a07d8eed8fc79a18963_134_100.jpg",
+    "title" : "著名的史学家陈寅恪病逝",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/08089a260fec421ef0219409e3a7f95d_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/03cb41d153d0f71e131f7fe157d01fc2_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/2024.htm",
+    "year" : "1969",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "陈寅恪是中国著名国学大师。他从小熟习国学典籍，而后在海外各国留学13年，精通多种语言，学贯古今中西。他因出身名门又学识过人，在清华任教时被称作“公子的公子，教授之教授”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾著名作家吴浊流逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/115934.htm",
+    "year" : "1976",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "吴浊流，新竹县新埔镇人，幼时受日语教育，毕业于台湾总督府“国语”学校师范部，做过教谕、小学教员，后来因郡视学凌辱台籍教",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "《中国青年报》复刊",
+    "link" : "http:\/\/baike.baidu.com\/view\/2373.htm",
+    "year" : "1978",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《中国青年报》是中国共产主义青年团中央机关报，是以中国各族青年和中国共产主义青年团团员和干部为主要读者对象的全国性综合",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国发现最古老的恐龙化石",
+    "link" : "http:\/\/baike.baidu.com\/subview\/20377\/13650957.htm",
+    "year" : "1986",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "恐龙死后，身体中的软组织因腐烂而消失，骨骼(包括牙齿）等硬体组织沉积在泥沙中，处于隔绝氧气的环境下，经过几千万年甚至上亿",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "无产阶级革命家、军事家刘伯承元帅逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1834.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "刘伯承同志是中国人民的伟大战士，中国共产党的优秀党员，中国人民解放军的缔造者之一，伟大的无产阶级革命家、军事家，马克思",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "动画艺术大师万籁鸣逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/181401.htm",
+    "year" : "1997",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "童话故事《神笔马良》曾经影响了好几代人，被译为多国文字，并被收入小学课本中。把这篇著名的童话作品改变成小人书的是我国动",
+    "cover" : false
+  }
+]

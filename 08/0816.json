@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "多米诺骨牌在意大利出现",
+    "link" : "http:\/\/baike.baidu.com\/view\/30245.htm",
+    "year" : "1449",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "多米诺骨牌(domino)是一种用木制、骨制或塑料制成的长方体骨牌。玩时将骨牌按一定间距排列成行，轻轻碰倒第一枚骨牌，其余的骨",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "拳击冠军杰克·布劳顿首次制定了拳击规则\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/11285\/9171046.htm",
+    "year" : "1743",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "拳击（英文：boxing;pugilism，法文：Boxe）是戴拳击手套进行格斗的运动项目。它既有业余的（也称奥运拳击），也有职业的商业比",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "彼得卢惨案发生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1014134.htm",
+    "year" : "1819",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "19世纪初期英国政府镇压人民群众的事件。1819年8月16日，英国政府出动军队，镇压在曼彻斯特城圣彼得广场举行抗议集会的群众，造",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "玻利维亚宣布独立\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/30138\/9365402.htm",
+    "year" : "1825",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "玻利维亚是南美洲的一个内陆国家，为南美洲国家联盟的成员国。主要地形是高原，海拔高，平均海拔超过3000米，是世界平均海拔最",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "心理学实验室的创立者威廉·冯特出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1082318.htm",
+    "year" : "1832",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "威廉·冯特（Wilhelm Wundt，1832―1920），德国心理学家，哲学家，第一个心理学实验室的创立者，构造主义心理学的代表人物。183",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国著名物理学家李普曼诞生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/7023631.htm",
+    "year" : "1845",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "加布里埃尔·李普曼（法语：Gabriel Lippmann，1845年8月16日－1921年7月13日），法国知名物理学家，他因\n\n为发明制作彩色玻璃照相技术，于1908年获得诺贝尔物理学奖。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中东铁路正式开工\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/438146\/14760372.htm",
+    "year" : "1897",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中东铁路（俄语：Китайско-Восточная железная дорога，简称КВЖД）是沙皇俄国为了掠夺和侵",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "以色列总理梅纳赫姆·贝京出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/971929.htm",
+    "year" : "1913",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "梅纳赫姆·贝京Menachem Begin（1913年8月16日—1992年3月8日），波兰籍的犹太人，以色列政治家，早年是主张以暴力获得巴勒斯坦",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "革命烈士、原兰考县县委书记焦裕禄出生\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/7484\/11089672.htm",
+    "year" : "1922",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "焦裕禄（1922.8.16 ~1964.5.14）[1]&nbsp;，山东淄博博山县北崮村人,革命烈士，干部楷模。1946年加入了中国共产党，1962年被调",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "有“棒球之神”之称的贝比·鲁斯逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1456184.htm",
+    "year" : "1948",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "贝比·鲁斯，美国职业棒球运动员。原来效力于红袜队，1918年被卖到扬基队，发下“圣婴诅咒”。他带领扬基取得多次世界大赛冠军，",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/d7865f9740a47762e1b13608e809c81c_134_100.jpg",
+    "title" : "“中国第一帮主”杜月笙在香港病逝",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/9fed486e477c76b3c2169cfe76b848b0_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/d84b0f3c735d1ef4e4a9cf6193e60da5_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/84446.htm",
+    "year" : "1951",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "原名杜月生，是近代上海青帮最著名的人物之一，被称为“中国黑帮老大”和“中国第一帮主”，一生叱咤风云，游刃于商界、军界与政界，以及金融、工业、新闻报业、教育等多领域，成就无人能比。"
+  },
+  {
+    "recommend" : false,
+    "title" : "好莱坞大导演詹姆斯·卡梅隆出生\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/274765\/5799181.htm",
+    "year" : "1954",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "詹姆斯·卡梅隆1954年8月16日出生于加拿大安大略省，好莱坞电影导演、编剧。\n1981年，他执导首部影片《食人鱼2:繁殖》。1984年凭借自编自导的科幻电影《终结者》而成名。1986年，詹姆斯·卡梅隆自编自导了电影《异形2》。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国海军小威廉·弗雷德里克·哈尔西逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/656324.htm",
+    "year" : "1959",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "小威廉·弗雷德里克·哈尔西，美国海军司令官。第二次世界大战期间在太平洋地区指挥多次战役并获得胜利。因作风勇猛而获绰号“蛮",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中华民国财政部长孔祥熙病逝于美国纽约\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/29509.htm",
+    "year" : "1967",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "孔祥熙（1880年—1967年），字庸之，号子渊，出生于山西省太谷县一个亦商亦儒的家庭。孔祥熙的岳父乃宋嘉树。中华民国南京国民",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "摇滚乐歌手“猫王”普莱斯利去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/145979.htm",
+    "year" : "1977",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "埃尔维斯·普雷斯利，绰号猫王。美国摇滚歌手及演员，1935年1月8日出生在密西西比州图珀洛。",
+    "cover" : false
+  }
+]

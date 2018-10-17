@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "司马懿发动政变控制洛阳",
+    "link" : "http:\/\/baike.baidu.com\/subview\/16329\/5831953.htm",
+    "year" : "249",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "司马懿（179年－251年），字仲达，汉族，河内郡温县孝敬里（今河南焦作市温县）人。三国时期魏国杰出的政治家、军事家，西晋王",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国唐代佛教翻译家玄奘逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/14742\/11974337.htm",
+    "year" : "664",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "玄奘（生年：公元600年~ 卒年：公元664年），是唐代著名高僧，法相宗创始人，佛经翻译家、旅行家。俗姓陈，名祎。洛州缑氏（今",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "南宋杰出女文学家、婉约派代表词人李清照出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/3066\/5444734.htm",
+    "year" : "1084",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李清照（1084年3月13日—1155年5月12日），号易安居士，汉族，齐州章丘（今山东章丘）人。宋代（两宋之交）女词人，婉约词派代",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利从法国人手里收复了米兰",
+    "link" : "http:\/\/baike.baidu.com\/subview\/3448\/6593635.htm",
+    "year" : "1500",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "米兰，意大利的西北方大城，意大利第二大城市。米兰省的省会和伦巴第大区的首府，位于意大利人口最密集和发展度最高的伦巴第平",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "大清入主中原的第一位君主、清世祖爱新觉罗·福临逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/119918.htm",
+    "year" : "1661",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "清世祖爱新觉罗·福临（1638年—1661年）（满语：Fulin），清太宗皇太极第九子，是清朝入关的第一位皇帝，满族。蒙古人称为额耶",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国首相罗伯特·皮尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1049998.htm",
+    "year" : "1788",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "罗伯特·皮尔Peel, Sir Robert（1788年2月5日出生于布莱克本附近，1850年7月2日逝世于伦敦）英国首相（1834～1835、1841～1846）",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中文汉字激光照排系统之父王选出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4804\/5132424.htm",
+    "year" : "1902",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "王选（1937年2月5日－2006年2月13日）生于上海，江苏无锡人，中国科学院院士，中国工程院院士，第三世界科学院院士，北京大学教",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "晚清著名文学家俞樾逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1990\/12087331.htm",
+    "year" : "1907",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "俞樾（1821-1907），字荫甫，自号曲园居士，浙江德清城关乡南埭村人。清末著名学者、文学家、经学家、古文字学家、书法家。他是",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国现代文学家何其芳出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/62385.htm",
+    "year" : "1912",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "何其芳，男，1912年2月5日生于重庆万州，于1977年7月24日在北京逝世。他是中国伟大的诗人，散文家，小说家，文学研究家。言情写",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "园艺教育家谭其猛出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/317658.htm",
+    "year" : "1914",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "谭其猛，蔬菜学家，园艺教育家。他主持的蔬菜远缘杂交、大白菜、萝卜雄性不育及其遗传变异规律等研究，取得了丰硕成果。著有",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/2d3a0ae971ba03a3cca9cc2bec070707_134_100.jpg",
+    "title" : "美国阿波罗14号宇航员登上月球",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/183943f09f78bf5f833f4581691b362f_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/7ac78ccae8bf623386e450fb9c44e328_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1070128.htm",
+    "year" : "1971",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "阿波罗14号是人类第三次成功登上月球的任务，这次任务使艾德加&#8226;米切尔成为有史以来最具争议的宇航员，他声称在登月过程中受到了超自然力量的感召，并坚信外星生命的存在。"
+  },
+  {
+    "recommend" : false,
+    "title" : "“里昂屠夫”克劳斯·巴比引渡归案",
+    "link" : "http:\/\/baike.baidu.com\/view\/6102346.htm",
+    "year" : "1983",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "德国纳粹分子，1936年起加入党卫军。他在第二次世界大战中于1940-1942年期间曾参与从被占领的荷兰驱逐犹太人的行动，并且于1942-1945年期间在法国追捕犹太人和抵抗组织成员。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "萨拉热窝市内遭炮击",
+    "link" : "http:\/\/baike.baidu.com\/view\/84031.htm",
+    "year" : "1994",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "波斯尼亚-黑塞哥维那的首都和经济、文化中心。原是塞尔维亚的首都。在中部萨瓦河支流博斯纳河上游附近。群山环抱，风景秀丽的古",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "现代纺织工业的奠基人钱之光逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/483843.htm",
+    "year" : "1994",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "钱之光是新中国纺织工业主要领导人之一，他参与建立了新中国的纺织机械制造业体系，适时满足了大规模建设的需要，使我国棉、毛",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "钱学森夫人蒋英逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/306676\/7166223.htm",
+    "year" : "2012",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "蒋英（1919.9.7～2012.02.05），浙江海宁人，中央音乐学院教授，中国女声乐教育家和女高音歌唱家，蒋百里的三女儿，钱学森夫人",
+    "cover" : false
+  }
+]

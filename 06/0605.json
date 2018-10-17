@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "意大利著名诗人但丁诞生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/108395.htm",
+    "year" : "1265",
+    "type" : "birth",
+    "festival" : "世界环境保护日",
+    "desc" : "阿利盖利·但丁（公元1265年—公元1321年），13世纪末，意大利诗人，现代意大利语的奠基者，欧洲文艺复兴时代的开拓人物之一，以",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "清朝入主中原\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/5405\/13482963.htm",
+    "year" : "1644",
+    "type" : "event",
+    "festival" : "世界环境保护日",
+    "desc" : "清朝是中国历史上第二个由少数民族建立的统一政权，也是中国最后一个封建帝制国家。从后金建立开始算起，共有十二帝，国祚267年",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国经济学家亚当·斯密诞生在苏格兰法夫郡的寇克卡迪\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/53445.htm",
+    "year" : "1723",
+    "type" : "birth",
+    "festival" : "世界环境保护日",
+    "desc" : "亚当·斯密（1723～1790年）是经济学的主要创立者。1723年亚当斯密出生在苏格兰法夫郡（County Fife）的寇克卡迪（Kirkcaldy）。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "发现海王星约翰·柯西·亚当斯出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/6215277.htm",
+    "year" : "1819",
+    "type" : "birth",
+    "festival" : "世界环境保护日",
+    "desc" : "英国天文学家。剑桥大学圣约翰学院毕业。曾任圣安德鲁斯大学、剑桥大学教授。英国皇家学会会员。精通数学、天体力学。与勒威耶",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国经济学家约翰·梅纳德·凯恩斯诞生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/968905.htm",
+    "year" : "1883",
+    "type" : "birth",
+    "festival" : "世界环境保护日",
+    "desc" : "约翰·梅纳德·凯恩斯（John Maynard Keynes1883－1946），现代西方经济学最有影响的经济学家之一，他创立的宏观经济学与弗洛伊德",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "西班牙作家费德里戈·加西亚·洛尔卡出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/4452345.htm",
+    "year" : "1898",
+    "type" : "birth",
+    "festival" : "世界环境保护日",
+    "desc" : "西班牙诗人、剧作家。在求学时代就开始写诗。《吉卜赛谣曲集》(1928)使他享有国际声誉。1929～1930年出访美国和古巴，据此写有",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "短篇小说大师欧·亨利去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/88041.htm",
+    "year" : "1910",
+    "type" : "death",
+    "festival" : "世界环境保护日",
+    "desc" : "欧·亨利（英语：O. Henry，1862年9月11日－1910年6月5日），有时又译奥亨利，原名威廉·西德尼·波特（William Sydney Porter），",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中华民国总统徐世昌病逝\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/14415\/5031966.htm",
+    "year" : "1939",
+    "type" : "death",
+    "festival" : "世界环境保护日",
+    "desc" : "徐世昌（1855—1939），字卜五，号菊人，又号弢斋、东海、涛斋，直隶（今河北）天津人。其曾祖父、祖父在河南为官居，出生于河",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第三次中东战争爆发\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/89215.htm",
+    "year" : "1967",
+    "type" : "event",
+    "festival" : "世界环境保护日",
+    "desc" : "第三次中东战争，以色列方面称六日战争，阿拉伯国家方面称六月战争，亦称六·五战争、六天战争，发生在1967年6月初，是“先发制",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/fc88a4dc654e88f82516f76f451f7cfe_134_100.jpg",
+    "title" : "美国民主党重要政要罗伯特·肯尼迪遭暗杀\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/a234bba19a33269f0371b6847698158c_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/5cffbeec1c8dbd219d4971eb42cf034f_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1330552.htm",
+    "year" : "1968",
+    "type" : "death",
+    "festival" : "世界环境保护日",
+    "desc" : "罗伯特·肯尼迪，第35任美国总统约翰·肯尼迪的弟弟，第64任美国司法部长，反越战的民主党人，为成功解决古巴导弹危机贡献重要力量。他是1968年民主党总统候选人，享有极高的威望，却在选举期间遇刺身亡。\n"
+  },
+  {
+    "recommend" : false,
+    "title" : "第一次联合国人类环境会议在瑞典召开\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/933981.htm",
+    "year" : "1972",
+    "type" : "event",
+    "festival" : "世界环境保护日",
+    "desc" : "为保护和改善环境，1972年6月5～16日在瑞典首都斯德哥尔摩召开的有各国政府代表团及政府首脑、联合国机构和国际组织代表参加的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "澳大利亚科学家发明微型诊断仪\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/982596.htm",
+    "year" : "1997",
+    "type" : "event",
+    "festival" : "世界环境保护日",
+    "desc" : "1997年6月5日，澳大利亚科学家科尼尔博士向世人展示了他经过10年研究发明的世界上首部微型诊断仪，这种微型电极感应装置表面镀",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国总统罗纳德·威尔逊·里根去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/66246.htm",
+    "year" : "2004",
+    "type" : "death",
+    "festival" : "世界环境保护日",
+    "desc" : "罗纳德·威尔逊·里根(Ronald Wilson Reagan)于1911年2月6日生于美国伊利诺伊州坦皮科城。美国政治家，第33任加利福尼亚州州长，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "几内亚比绍前总理福斯蒂诺·法杜特·因巴利去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2548579.htm",
+    "year" : "2009",
+    "type" : "death",
+    "festival" : "世界环境保护日",
+    "desc" : "福斯蒂诺·法杜特·因巴利（Faustino Fudut Imbali），几内亚比绍前总理。.baseInfoWrap{display:inline-block;width:790px;font-",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "21世纪最后一次金星凌日现象出现\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/40216.htm",
+    "year" : "2012",
+    "type" : "event",
+    "festival" : "世界环境保护日",
+    "desc" : "金星轨道在地球轨道内侧，某些特殊时刻，地球、金星、太阳会在一条直线上，这时从地球上可以看到金星就像一个小黑点一样在太阳",
+    "cover" : false
+  }
+]

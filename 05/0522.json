@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "亚历山大大帝击败波斯帝国军队",
+    "link" : "http:\/\/baike.baidu.com\/subview\/22881\/7790556.htm",
+    "year" : "-334",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亚历山大大帝（Alexander, Alexander III of Macedon，Alexander the Great，公元前356年7月20日－前323年6月10日），生于古马",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "加洛林王朝国王路易五世逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/82883.htm",
+    "year" : "987",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "加洛林王朝（Carolingian）是自公元751年统治法兰克王国的王朝。在此之前，其王朝成员以“宫相”的身分涉理王国朝政。在公元751",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "七年战争瑞典和普鲁士签订汉堡条约",
+    "link" : "http:\/\/baike.baidu.com\/view\/22441.htm",
+    "year" : "1762",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "七年战争发生在1754年至1763年，而主要冲突则集中于1756年-1763年。当时欧洲上的主要强国均参与了这场战争，其影响覆盖了欧洲，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "作曲家理查德·瓦格纳出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/146753.htm",
+    "year" : "1813",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "威廉·理查德·瓦格纳（Wilhelm Richard Wagner，1813年5月22日－1883年2月13日），德国作曲家。他是德国歌剧史上一位举足轻重的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "侦探小说作家阿瑟·柯南·道尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/74121.htm",
+    "year" : "1859",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "阿瑟·柯南·道尔（1859~1930），生于苏格兰爱丁堡，中文完整译音是柯南·德伊鲁，简化为柯南·道尔。代表作有《福尔摩斯探案集》（",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "朝鲜王朝与美国签订《朝美修好条约》",
+    "link" : "http:\/\/baike.baidu.com\/view\/4838405.htm",
+    "year" : "1882",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《朝美修好通商条约》（朝鲜语：&#51312;&#48120;&#49688;&#54840;&#53685;&#49345;&#51312;&#50557;，英语：USA–Korea Treaty",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国作家维克多·雨果逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/22712.htm",
+    "year" : "1885",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "维克多·雨果（Victor Hugo，1802—1885），法国作家，19世纪前期积极浪漫主义文学的代表作家，人道主义的代表人物，法国文学史",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "比利时漫画家埃尔热出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/230087.htm",
+    "year" : "1907",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "埃尔热（Hergé，1907~1983），原名乔治·雷米（Georges Prosper Rémi），比利时著名漫画家，创造出了世界上最知名的漫画形象之一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "黄冈起义爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/673962.htm",
+    "year" : "1907",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "潮州黄冈起义，又称丁未黄冈之役，是1907年（清光绪三十三年）5月22日同盟会在广东潮州黄冈发动的反清起义。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国作家朱尔斯·勒纳尔逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/6182855.htm",
+    "year" : "1910",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "朱尔斯·勒纳尔（Pierre-Jules Renard、Jules Renard，1864年2月22日－1910年5月22日）法国古典作家。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国政治家哈维·米尔克出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2248752.htm",
+    "year" : "1930",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "哈维·柏拿·米尔克，美国同性恋运动人士，也是美国政坛中第一位公开同性恋身份的人，在1978年，当选旧金山市政管理委员会第五区的委员。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/5f07c4422894e06ad4284f05814c4cf5_134_100.jpg",
+    "title" : "中国数学家陈景润出生于福建省福州市仓山区城门镇胪雷村",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/adb5668f1bb5f7794c7cd2914713f5ab_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/02de870d2319383a6637650aa1075201_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2125\/6436962.htm",
+    "year" : "1933",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "陈景润，中国著名数学家。发表的《表达偶数为一个素数及一个不超过两个素数的乘积之和》，成为哥德巴赫猜想研究上的里程碑。为纪念他的贡献，紫金山天文台将一颗行星命名为“陈景润星”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "德国与意大利签定《钢铁条约》",
+    "link" : "http:\/\/baike.baidu.com\/view\/1536803.htm",
+    "year" : "1939",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《钢铁条约》，指1939年5月22日德意两国签订的《军事同盟条约》，亦称《钢铁条约》。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "德国著名剧作家恩斯特·托勒尔逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/295386.htm",
+    "year" : "1939",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "恩斯特·托勒尔（Ernst Toller，1893年12月3日～1939年5月22日）是1920年代最出名的德国剧作家之一，也是德国表现主义戏剧的重要",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "印度航空公司一架波音737飞机发生门格洛尔空难",
+    "link" : "http:\/\/baike.baidu.com\/view\/3655830.htm",
+    "year" : "2010",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "2010年5月22日早晨，印度航空公司一架波音737飞机在印度南部降落时失事，机上乘客和机组人员共166名，其中158人遇难，8人幸存。",
+    "cover" : false
+  }
+]

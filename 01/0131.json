@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "江户幕府第一任征夷大将军德川家康出生\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/13839\/5532493.htm",
+    "year" : "1543\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "德川家康（1543年1月31日－1616年6月1日）[1]&nbsp;，日本战国时代末期、安土桃山时代、江户时代的武将、战国大名，江户幕府第",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/e0dbe9a552f586b883c6bb451f2d9292_134_100.png",
+    "title" : "奥地利著名音乐家，早期浪漫主义音乐的代表人物舒伯特出生\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/70551a8d4915f6bb0136b042df348d6b_80_80.png",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/2322a1a662587ffe57ae15170ac4f2ff_360_212.png",
+    "link" : "http:\/\/baike.baidu.com\/view\/16965.htm",
+    "year" : "1797\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "舒伯特，奥地利作曲家，被认为是古典主义音乐的最后一位巨匠。在他18年的创作活动中，共完成了1100多部作品，其中著名的有《未完成交响曲》《死神与少女》四重奏等。\n"
+  },
+  {
+    "recommend" : true,
+    "title" : "美国大都会艺术博物馆建立\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/71383.htm",
+    "year" : "1870\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "大都会艺术博物馆，Metropolitan Museum of Art是美国最大的艺术博物馆，也是世界著名博物馆。位于美国纽约5号大道上的82号大街",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "制定拳击规则的昆斯伯里逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/5954030.htm",
+    "year" : "1900\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "昆斯伯里，拳击规则的制定者。重要的拳击比赛都是按照他制定的规则进行的。昆斯伯里的拳击规则规定3分钟为1个回合的比赛时间，还规定打倒后10秒起不来就算失败的界限。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国职棒大联盟黑人球员罗宾森出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/862675.htm",
+    "year" : "1919\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "美国职棒大联盟（MajorLeagueBaseball，简称MLB），是北美地区最高水平的职棒棒球联赛。1903年由国家联盟和美国联盟共同成立。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "德国物理学家鲁道夫·穆斯堡尔出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/980812.htm",
+    "year" : "1929\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "鲁道夫·穆斯堡尔（Rudolf Ludwig M&amp;ouml;ssbauer，1929年1月31日—），德国物理学家，穆斯堡尔效应的发现者，1961年诺贝尔",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国作家高尔斯·华绥逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/6246894.htm",
+    "year" : "1933\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "约翰·高尔斯华绥（john Galsworthy，1867－1933）英国小说家、剧作家。出生于伦敦一个富裕的中产阶级家庭。父亲是伦敦的大律师，并经营好几家公司。高尔斯华绥毕业于牛津大学法律系，1890年取得律师资格。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "南斯拉夫通过新宪法，确定联邦制\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/26120.htm",
+    "year" : "1946\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "南斯拉夫（英文：Yugoslavia），1929年-2003年建立于南欧巴尔干半岛上的国家。以从奥斯曼土耳其帝国独立的塞尔维亚族所建立的塞",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "平津战役结束，北平和平解放\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/14608.htm",
+    "year" : "1949\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "平津战役（中国大陆称作平津战役[1]&nbsp;，台湾称作平津会战）是国共内战“三大战役[2]&nbsp;”之一，1948年11月29日开始，194",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国发射第一颗人造地球卫星探险者一号\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/194145.htm",
+    "year" : "1958\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "探险者一号是美国于1958年1月31日在佛罗里达州卡拉维纳尔角发射的第一颗地球人造卫星，晚于前苏联于1957年10月4日发射的世界第",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国近现代林业事业的奠基人韩安逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1669269.htm",
+    "year" : "1961\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "韩安（1883－1961），字竹坪，安徽省巢县人。生于1883年1月17日，卒于1961年1月31日，享年78岁。林学家，中国近现代林业事业的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国现代金石学家王襄\n逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/76939.htm",
+    "year" : "1965\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "王襄(1876.12.31--1965.1.31)，祖籍浙江绍兴，世居天津。中国现代金石学家、甲骨学家。长期从事金石学、甲骨学研究，为中国的金",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "韩国女明星李英爱出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/4530.htm",
+    "year" : "1971\n",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李英爱（Lee Young Ae）1971年1月31日出生在首尔，韩国女演员，有“氧气美女”的称号。[1-2]&nbsp;&nbsp;&nbsp;1993年参与演艺",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国文艺理论家冯雪峰逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/34034.htm",
+    "year" : "1976\n",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "冯雪峰(1903.6.2 - 1976.1.31)，原名福春，笔名雪峰、画室、洛阳等，浙江义乌人赤岸乡神坛村人。现代著名诗人、文艺理论家。192",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "欧洲投资银行首次发行欧元债券\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/6310400.htm",
+    "year" : "1997\n",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "欧元区目前发行统一债券的时机尚未成熟发行欧元债券需统一的经济与财政政策体系需各国在预算和经济问题上密切合作欧元区自成立至今只统一了货币政策却在财政和经济政策上各行其道发行欧元债券需欧元区当局和各成员国进行更多更长期的准备并且需对相关法律条约进行复杂修订",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "葡萄牙航海家恩里克王子出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/544698.htm",
+    "year" : "1394",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亨利王子的全名是唐·阿方索·恩里克，葡萄牙亲王。1394年出生，因设立航海学校、奖励航海事业而被称为“航海者”。在他的支持下",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国国王查理二世向荷兰宣战",
+    "link" : "http:\/\/baike.baidu.com\/subview\/359264\/6275058.htm",
+    "year" : "1665",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "查理二世（Charles II，1630年5月29日—1685年2月6日），斯图亚特王朝的苏格兰及英格兰国王。查理二世是查理一世与亨莉雅妲·玛",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利神父安东尼奥·维瓦尔第出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/751596.htm",
+    "year" : "1678",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "安东尼奥·卢奇奥·维瓦尔第（意大利语：Antonio Lucio Vivaldi，1678年3月4日－1741年7月28日），昵称Il Prete Rosso（红发神父",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "俄国著名作家果戈理逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/2642018.htm",
+    "year" : "1852",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "尼古莱·瓦西里耶维奇·果戈里·亚诺夫斯基（英译：Nikolai Vasilievich Gogol-Anovskii），笔名果戈里（俄文：Гоголь，英译",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "亚伯拉罕·林肯就任美国第16任总统",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2063\/7140082.htm",
+    "year" : "1861",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亚伯拉罕·林肯（英语：Abraham Lincoln，1809.2.12－1865.4.15），美国政治家、思想家。第16任美国总统，其任总统期间",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "苏格兰的标志性建筑福斯桥]正式开通",
+    "link" : "http:\/\/baike.baidu.com\/view\/2878583.htm",
+    "year" : "1890",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "福斯桥(Forth Bridge)，又叫福斯铁路桥，是指爱丁堡城北福斯河(Firth of Forth)上的铁路桥。铁路桥建成于1890年，是英国人引以",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国音乐家，指挥家保罗·莫里哀出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1143481.htm",
+    "year" : "1925",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "保罗·莫里哀，法国轻音乐大师。1925年3月4日出生于法国马赛一个热爱音乐的家庭中，4岁开始学习钢琴。10岁时进入马赛音乐学院学",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "几内亚总统阿尔法·孔戴出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/3886562.htm",
+    "year" : "1938",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "阿尔法·孔戴（Alpha Condé），也曾译为“阿尔法·贡代”，几内亚当选总统，反对党几内亚人民联盟主席，1938年3月4日生于几内亚东",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国书画家李锦葵出生于福建省诏安，号丹诏老人",
+    "link" : "http:\/\/baike.baidu.com\/view\/2436285.htm",
+    "year" : "1942",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "李锦葵，一九四二年生，福建省诏安人。号丹诏老人，怡神园主人。全国中小学优秀美术书法作品大赛模范辅导教师，退休前为南靖和",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第一届亚洲运动会在印度新德里开幕",
+    "link" : "http:\/\/baike.baidu.com\/view\/152516.htm",
+    "year" : "1951",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亚洲运动会(Asian Games)简称亚运会，是亚洲地区规模最大的综合性运动会，由亚洲奥林匹克理事会的成员国轮流主办。每四年举办一",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/745269879f9da8adcfb171ab6b8e53fe_134_100.jpg",
+    "title" : "中国著名女作家丁玲逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/39c75927ffff2fe1bbf8949e0f6e884f_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/c6f2abdaca37fe05551797954300a8ad_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/9035\/5044654.htm",
+    "year" : "1986",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "丁玲原名蒋伟，字冰之， 1928年发表小说《莎菲女士的日记》轰动文坛。1931年任\"左联\"刊物《北斗》主编。1948年写成代表作之一的长篇小说《太阳照在桑干河上》，曾获斯大林文艺奖金。"
+  },
+  {
+    "recommend" : true,
+    "title" : "中国六大航空公司成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/246944.htm",
+    "year" : "1987",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "航空公司(Airlines)是以各种航空飞行器为运输工具为乘客和货物提供民用航空服务的企业，它们一般需要一个官方认可的运行证书或",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "北师大外语系教授，钱钟书和杨绛的独女钱瑗逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1220773\/5127606.htm",
+    "year" : "1997",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "钱瑗，北京师范大学英语系教授，钱钟书和杨绛的女儿。钱瑗于1937年5月生于英国牛津。1997年3月4日，钱瑗因患脊椎癌去世。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "被誉为“中国物理学之父”吴大猷逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/96636.htm",
+    "year" : "2000",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "吴大猷，汉族，1907年9月29日出生生于广东广州，毕业于南开大学。历任国立北京大学物理学教授，国立西南联合大学教授",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国耕作学创始人之一沈学年逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1670306.htm",
+    "year" : "2002",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "沈学年（1906—2002），浙江余姚人，我国著名农学家，农业教育家，中国耕作学创始人之一。他是最早来国立西北农林专科学校任教",
+    "cover" : false
+  }
+]

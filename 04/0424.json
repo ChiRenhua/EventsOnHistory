@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "特洛伊城沦陷\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/956142.htm",
+    "year" : "-1184",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "特洛伊也称“伊利昂”。古希腊殖民城市。公元前十六世纪前后由古希腊人所建。位于小亚细亚半岛西端赫勒斯滂海峡（即达达尼尔海",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国翻译家徐光启出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/3713.htm",
+    "year" : "1562",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "徐光启（1562年4月24日－1633年11月8日），字子先，号玄扈，天主教圣名保禄，汉族，松江府上海县人，中国明末数学和科学家、农",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名作家丹尼尔·笛福逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/68089.htm",
+    "year" : "1731",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "丹尼尔·笛福，英国作家。英国启蒙时期现实主义丰富小说的奠基人，被誉为英国和欧洲的“小说之父”。其作品可读性强，主要构架为",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国国会图书馆成立\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/190913.htm",
+    "year" : "1800",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "美国国会图书馆建于1800年，是美国的四个官方国家图书馆之一，也是全球最重要的图书馆之一。美国国会图书馆是在美国国会的支持",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "瑞士诗人施皮特勒出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/258763.htm",
+    "year" : "1845",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "卡尔·斯皮特勒（Carl Spitteler，1845-1924），1919年的诺贝尔文学奖评选中积极向评选者们推荐长诗《奥林匹亚的春天》，认为这",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国陆军将领贝当出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/214680.htm",
+    "year" : "1856",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亨利·菲利浦·贝当（HenriPhilippePetain1856.4.24-1951.7.23），法国元帅、维希法国首脑。一生颇为坎坷。民族英雄和叛徒集于一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "纳粹德国海军元帅埃里希·雷德尔出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1132386.htm",
+    "year" : "1876",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "德国军事家，纳粹德国海军总司令(1928～1960)。第一次世界大战时任德国巡洋舰队参谋长，1922年晋升海军少将，3年后晋升中将。19",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名军事家毛奇逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/167893.htm",
+    "year" : "1891",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "老毛奇，全名：赫尔穆特·卡尔·贝恩哈特·冯·毛奇(Helmuth Karl Bernhard von Moltke)（1800年10月26日－1891年4月24日），普鲁士",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "著名漫画家华君武出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/20765.htm",
+    "year" : "1915",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "华君武（1915－2010），祖籍江苏无锡荡口，出生杭州；中国著名漫画家；1938年到达延安，华君武从事抗日宣传并为《解放日报》画",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "爱尔兰爆发复活节起义\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/818669.htm",
+    "year" : "1916",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "复活节起义（英语：Easter Rising，爱尔兰语：éirí Amach na Cásca）是爱尔兰在1916年复活节周期间发生的一场暴动。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/728a2072b6f7a96d60c5b3b18a35996f_134_100.jpg",
+    "title" : "中国第一批留学生、京张铁路主设计师詹天佑病逝\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/5c2fd9b63b05b0920c5cf8cb1a6828d2_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/d3016b8557c223729a8a10e7939c6d98_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/8594\/10163290.htm",
+    "year" : "1919",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "詹天佑是中国第一批留学生，他主持修建著名的八达岭隧道和利用人字形坡道原理建成的京张铁路。为纪念詹天佑，人们在八达岭的人字形坡道处树立起了詹天佑的雕像。"
+  },
+  {
+    "recommend" : true,
+    "title" : "“温莎公爵夫人”华里丝·辛普森逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1106767.htm",
+    "year" : "1936",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "华里丝·辛普森，也译作沃利斯·辛普森（英文Wallis Simpson，1896年6月19日至1986年4月24日），本名为Bessie Wallis Warfield，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "苏联航天员科马罗夫逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1125310.htm",
+    "year" : "1967",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "弗拉基米尔·米哈伊洛维奇·科马洛夫 (俄语: Владимир Михайлович Комаров;英语：Vladimir Komarov 1927年3月16日 – 1967年4月24日) 苏联英雄，苏联航天员。1927年3月16日生于莫斯科。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国成功发射“东方红一号”卫星\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1040942.htm",
+    "year" : "1970",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "“东方红一号”（Dong Fang Hong I\/The East is Red 1）卫星是于1970年4月24日21时35分发射的中国的第一颗人造卫星，由以钱学森",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "“发现”号航天飞机将哈勃太空望远镜送上轨道\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/32760\/7631443.htm",
+    "year" : "1990",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "哈勃空间望远镜，（Hubble Space Telescope，缩写为HST）[1]&nbsp;，是以天文学家爱德温·哈勃为名，在轨道上环绕着地球的望远镜",
+    "cover" : false
+  }
+]

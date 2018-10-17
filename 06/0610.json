@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "亚历山大大帝逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/22881\/7790556.htm",
+    "year" : "-32",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "亚历山大大帝（Alexander, Alexander III of Macedon，Alexander the Great，公元前356年7月20日－前323年6月10日），生于古马",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国画家古斯塔夫·库尔贝出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/59575.htm",
+    "year" : "1819",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "居斯塔夫·库尔贝（Gustave Courbet，1819－－1877）法国画家，写实主义美术的代表。 自幼天赋聪颖、相貌出众，既高傲自大、自命",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国物理学家安德烈·玛丽·安培逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2544138.htm",
+    "year" : "1836",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "安德烈·玛丽·安培（André-Marie Ampère，1775年—1836年），法国物理学家、化学家、数学家，在电磁作用方面的研究成就卓著。电",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/16b14a7260c0108fcd3d81f323271b0f_134_100.jpg",
+    "title" : "中国建筑师、诗人林徽因出生于浙江杭州\n",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/eb6933486c30e93041bc8204c2283b45_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-27\/46ab858a135deaf2b29d70143430f9d7_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/9084.htm",
+    "year" : "1904",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "林徽因，中国著名建筑师、诗人、作家。她才华出众，同时也是中华人民共和国国徽和人民英雄纪念碑的设计者之一。她与夫婿梁思成用现代科学方法研究中国古代建筑，成为这个学术领域的开拓者。\n"
+  },
+  {
+    "recommend" : true,
+    "title" : "卢米埃尔兄弟发明彩色照片制作工艺\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/404021.htm",
+    "year" : "1907",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "卢米埃兄弟（Auguste Marie Louis Nicholas，1862-1954； Louis Jean，1864-1948），是法国的一对兄弟，是电影和电影放映机的发",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国轮船首先使用求救信号SOS\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/27811.htm",
+    "year" : "1909",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "SOS是国际求救信号，日常中，SOS通常被理解为：“Save Our Ship”（拯救我们的船）“Save Our Souls”（拯救我们的灵魂）。 但",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国作家索尔·贝娄出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/75099.htm",
+    "year" : "1915",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "索尔·贝娄，美国作家。生于加拿大魁北克省的拉辛，在蒙特利尔度过童年。1924 年，举家迁至美国芝加哥。1933年，贝娄考入芝加哥",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "伊丽莎白二世的丈夫菲利普亲王出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/757554.htm",
+    "year" : "1921",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "菲利普亲王，是现任英国女王伊丽莎白二世的丈夫，原名菲利普·蒙巴顿，为希腊和丹麦王子，封爱丁堡公爵。他父亲安德烈是希腊国王",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "西班牙建筑师安东尼·高迪去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/20160.htm",
+    "year" : "1926",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "安东尼·高迪，全名安东尼·高迪·克尔内特（Antoni Gaudi i Cornet，1852年6月25日－1926年6月10日），西班牙“加泰隆现代主义”",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "鄂西战役结束\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/267521.htm",
+    "year" : "1943",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "鄂西战役是指1943年5月5日至6月12日，日军向中国第六战区守军发动的以打击中国第6战区的主力和中美空军，打通长江上游航线，夺",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "挪威作家西格丽德·温塞特去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2634118.htm",
+    "year" : "1949",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "西格丽德·温塞特（挪威语：Sigrid Undset，1882年5月20日－1949年6月10日）是一位挪威小说家，1928年诺贝尔文学奖获得者。她最",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾政治人物陈菊出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/479049.htm",
+    "year" : "1950",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "陈菊，1950年6月10日出生，台湾省宜兰县人，台湾政治人物，“美丽岛事件”受刑人，民主进步党籍，属“新潮流系”。曾任“党外”",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "第三次中东战争结束\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/89215.htm",
+    "year" : "1967",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "第三次中东战争，以色列方面称六日战争，阿拉伯国家方面称六月战争，亦称六·五战争、六天战争，发生在1967年6月初，是“先发制",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "叙利亚前总统哈菲兹·阿萨德去世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/1763898.htm",
+    "year" : "2000",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "哈菲兹·阿萨德（1930年10月6日－2000年6月10日），叙利亚政治家。1930年10月6日，阿萨德出生于叙利亚北部一个阿拉维派(什叶派分",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国迎来第一个“文化遗产日”\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/193776.htm",
+    "year" : "2006",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "2005年12月22日，国务院发布《国务院关于加强文化遗产保护工作的通知》，要求进一步加强文化遗产保护工作。其中一项重要举措就",
+    "cover" : false
+  }
+]

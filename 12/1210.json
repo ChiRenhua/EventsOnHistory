@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "德国建筑师弗里德里希·冯·格尔特纳出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/8297361.htm",
+    "year" : "1791",
+    "type" : "birth",
+    "festival" : "世界人权日",
+    "desc" : "弗里德里希·冯·格尔特纳Friedrich von G&#65533;rtner19世纪德国建筑师是利奥·冯·克伦泽以外路德维希一世时期巴伐利亚王国最重要的营",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "计算机科学先驱阿达·洛芙莱斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/10960576.htm",
+    "year" : "1815",
+    "type" : "birth",
+    "festival" : "世界人权日",
+    "desc" : "奥古斯塔·阿达·金勒芙蕾丝伯爵夫人Augusta Ada King, Countess of Lovelace1815年12月10日－1852年11月27日原名奥古斯塔·阿达·",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国女诗人艾米莉·狄金森出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/85042.htm",
+    "year" : "1830",
+    "type" : "birth",
+    "festival" : "世界人权日",
+    "desc" : "艾米莉·狄金森又称狄更生Emily Dickinson公元1830年~公元1886年美国传奇诗人她深锁在盒子里的大量创作诗篇是她留给世人的最大礼",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "路易·波拿巴被选为法国总统",
+    "link" : "http:\/\/baike.baidu.com\/view\/755759.htm",
+    "year" : "1848",
+    "type" : "event",
+    "festival" : "世界人权日",
+    "desc" : "路易·波拿巴拿破仑的三弟拿破仑征服欧洲封他为荷兰国王由于路易·波拿巴破坏了拿破仑一世的大陆封锁政策被拿破仑一世废除了王位",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/42df47fa1273a9f9ff940d91ea539aa3_134_100.jpg",
+    "title" : "阿尔弗雷德·贝恩哈德·诺贝尔逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/a984131779ccc1c38dacfae12e8097c5_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/6d58b509a5faa27ba2ea4da4ec60f542_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/94761.htm",
+    "year" : "1896",
+    "type" : "death",
+    "festival" : "世界人权日",
+    "desc" : "阿尔弗雷德·伯纳德·诺贝尔，是瑞典化学家、工程师、发明家、军工装备制造商和炸药的发明者。在诺贝尔逝世的前一年，立嘱将其遗产的大部分作为基金，设立诺贝尔奖。"
+  },
+  {
+    "recommend" : true,
+    "title" : "诺贝尔奖金设立",
+    "link" : "http:\/\/baike.baidu.com\/view\/37695.htm",
+    "year" : "1901",
+    "type" : "event",
+    "festival" : "世界人权日",
+    "desc" : "诺贝尔奖金是以瑞典化学家诺贝尔的遗产设立的奖金爱弗雷·诺贝尔是位杰出的化学家他于1833年10月出生在瑞典首都斯德哥尔摩他的一",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "《世界人权宣言》通过并发表",
+    "link" : "http:\/\/baike.baidu.com\/view\/22902.htm",
+    "year" : "1948",
+    "type" : "event",
+    "festival" : "世界人权日",
+    "desc" : "世界人权宣言是联合国大会于1948年12月10日通过联合国大会第217号决议A\/RES\/217的一份旨在维护人类基本权利的文献 由于该文件是",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾文学作家洪醒夫出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1301795.htm",
+    "year" : "1949",
+    "type" : "birth",
+    "festival" : "世界人权日",
+    "desc" : "原名洪妈从1941年出生于彰化二林的小村镇以从事小说创作享誉文坛虽然文学创作生命只有十五年十八岁至卅二岁但却是文坛上的一颗",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "近代林学家梁希逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/150744.htm",
+    "year" : "1958",
+    "type" : "death",
+    "festival" : "世界人权日",
+    "desc" : "梁希林学家1913－1916年在日本东京帝国大学农学部林科学习1923年赴德国塔朗脱高等林业学校现为德累斯顿大学林学系研究林产制造",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "我国戏曲改革的先行者田汉逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/28997.htm",
+    "year" : "1968",
+    "type" : "death",
+    "festival" : "世界人权日",
+    "desc" : "田汉18981968年乳名和儿学名寿昌笔名田汉陈瑜伯鸿汉儿倚声首甲绍伯漱人陈哲生明高嘉陵张坤等男汉族湖南省长沙县人剧作家戏曲作",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "闽西革命根据地创始人之一邓子恢逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/22650\/6417570.htm",
+    "year" : "1972",
+    "type" : "death",
+    "festival" : "世界人权日",
+    "desc" : "邓子恢又名绍箕福建龙岩新罗区人伟大的共产主义战士杰出的无产阶级革命家政治家农业工作的卓越领导人是闽西革命根据地和苏区的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "阿根廷足球运动员伊瓜因出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/616767.htm",
+    "year" : "1987",
+    "type" : "birth",
+    "festival" : "世界人权日",
+    "desc" : "冈萨洛·赫拉尔多·伊瓜因Gonzalo Gerardo Higuaín1987年12月10日出生于法国是一位拥有法国国籍的阿根廷足球运动员司职前锋边锋曾",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "联合国维和部队获诺贝尔和平奖",
+    "link" : "http:\/\/baike.baidu.com\/view\/81310.htm",
+    "year" : "1988",
+    "type" : "event",
+    "festival" : "世界人权日",
+    "desc" : "联合国维持和平部队是根据有关联合国决议建立的一支跨国界的特种部队成立于1956年苏伊士危机之际它受联合国大会或安全理事会的",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "哈萨克斯坦迁都阿斯塔纳",
+    "link" : "http:\/\/baike.baidu.com\/view\/28923.htm",
+    "year" : "1997",
+    "type" : "event",
+    "festival" : "世界人权日",
+    "desc" : "阿斯塔纳哈萨克语Астана原名阿克莫拉是欧亚国家哈萨克斯坦的首都被称为欧亚大陆的心脏是世界上最年轻的首都之一也是中亚",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "我国著名核物理学家王淦昌逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4104\/14982328.htm",
+    "year" : "1998",
+    "type" : "death",
+    "festival" : "世界人权日",
+    "desc" : "王淦gàn昌1907年5月28日出生江苏常熟人两弹一星元勋中国实验原子核物理宇宙射线及基本粒子物理研究的主要奠基人和开拓者在国际",
+    "cover" : false
+  }
+]

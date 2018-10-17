@@ -1,0 +1,165 @@
+[
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/46a40d63aaf28f9c9b6bd1ff8c941f94_134_100.jpg",
+    "title" : "拿破仑在法国巴黎圣母院加冕称帝",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/0abd5b20cd9987f9a7f3133cd55b8cc8_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/d603e6ed44cdc38471c0aecbeeb5b479_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4866\/13234819.htm",
+    "year" : "1804",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "拿破仑·波拿巴，法国军事家与政治家，法兰西第一帝国及百日王朝的皇帝。他一度让法国变得强大无比，使法国资产阶级革命的思想得到了更为广阔的传播，被称作奇迹缔造者。"
+  },
+  {
+    "recommend" : true,
+    "title" : "军事家刘伯承诞辰",
+    "link" : "http:\/\/baike.baidu.com\/view\/1834.htm",
+    "year" : "1892",
+    "type" : "birth",
+    "festival" : "全国法制宣传日",
+    "desc" : "刘伯承同志是中国人民的伟大战士，中国共产党的优秀党员，中国人民解放军的缔造者之一，伟大的无产阶级革命家、军事家，马克思",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国金融家宋子文出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/58037.htm",
+    "year" : "1894",
+    "type" : "birth",
+    "festival" : "全国法制宣传日",
+    "desc" : "宋子文（1894—1971），出生于上海，早年毕业上海圣约翰大学。后去美国哈佛大学攻读经济学，获硕士学位，继入哥伦比亚大学，获",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国著名哲学家冯友兰出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2038.htm",
+    "year" : "1895",
+    "type" : "birth",
+    "festival" : "全国法制宣传日",
+    "desc" : "冯友兰，字芝生，河南南阳唐河人，著名哲学家，1924年(甲子年)获哥伦比亚大学博士学位，历任中州大学（现在的河南大学）、广东",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "萍浏醴起义发生",
+    "link" : "http:\/\/baike.baidu.com\/view\/229910.htm",
+    "year" : "1906",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "萍浏醴(li)起义是光绪三十二年（1906年）同盟会影响下的江西萍乡、湖南浏阳、醴陵地区会党和矿工发动的反清武装起义，是同盟会",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "韩国前总统金泳三出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/250939.htm",
+    "year" : "1927",
+    "type" : "birth",
+    "festival" : "全国法制宣传日",
+    "desc" : "金泳三，韩国庆尚南道人，第14任韩国总统。1927年12月20日生于庆尚南道巨济岛，年毕业于汉城大学文理学院哲学系，1951年从政，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴金完成长篇小说《家》",
+    "link" : "http:\/\/baike.baidu.com\/view\/1717.htm",
+    "year" : "1931",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "巴金（1904-2005），原名李尧棠，另有笔名有佩竿、极乐、黑浪、春风等，字芾甘。汉族，四川成都人，祖籍浙江嘉兴。中国作家、翻",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国拉什莫尔山国家纪念碑开始动工兴建",
+    "link" : "http:\/\/baike.baidu.com\/view\/96511.htm",
+    "year" : "1935",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "拉什莫尔山国家纪念公园（Mount Rushmore National Memorial），或译为若虚莫山，俗称美国总统公园、美国总统山、总统雕像山，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "军阀吴佩孚逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/16158.htm",
+    "year" : "1939",
+    "type" : "death",
+    "festival" : "全国法制宣传日",
+    "desc" : "吴佩孚（1874~1939），字子玉，汉族，山东蓬莱北沟吴家村人，祖籍江苏省常州（延陵郡）。1898年投淮军。1906年任北洋陆军曹锟部",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "心理学家卡伦·霍妮逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/357431.htm",
+    "year" : "1950",
+    "type" : "death",
+    "festival" : "全国法制宣传日",
+    "desc" : "卡伦·霍妮（Karen Danielsen Horney, 1885-1952），医学博士，德裔美国心理学家和精神病学家，精神分析学说中新弗洛伊德主义的",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "伦敦烟雾事件造成4000余人死于肺部及支气管病",
+    "link" : "http:\/\/baike.baidu.com\/view\/2042695.htm",
+    "year" : "1952",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "1952年伦敦烟雾事件是1952年12月5日－9日发生在伦敦的一次严重大气污染事件。这次事件造成多达12000人因为空气污染而丧生，并推",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "奥运射击冠军王义夫出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/35878.htm",
+    "year" : "1960",
+    "type" : "birth",
+    "festival" : "全国法制宣传日",
+    "desc" : "王义夫（1960年12月4日－），辽宁辽阳人，中国射击运动员，1978年初进入省队，1979年入选国家队。从1984年开始到2004年连续6次",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中非共和国改名中非帝国，博卡萨为自己加冕",
+    "link" : "http:\/\/baike.baidu.com\/view\/248694.htm",
+    "year" : "1974",
+    "type" : "event",
+    "festival" : "全国法制宣传日",
+    "desc" : "博卡萨（法语：Jean-Bédel Bokassa，又称博卡萨一世或萨拉赫丁·阿迈德·博卡萨，1921年2月12日—1996年11月2日）是非洲的著名独",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第24任香港总督戴麟趾逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/255511.htm",
+    "year" : "1988",
+    "type" : "death",
+    "festival" : "全国法制宣传日",
+    "desc" : "戴麟趾爵士，GCMG，MC，DL（Sir David Clive Crosble Trench，1915年6月2日－1988年12月4日），英国资深殖民地官员，曾任西太平",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "杰出的国际主义战士汉斯·米勒逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/313689.htm",
+    "year" : "1994",
+    "type" : "death",
+    "festival" : "全国法制宣传日",
+    "desc" : "汉斯·米勒，内科专家。生于德国。1939年7月来中国。曾任延安和平医院门诊部主任、晋东南国际和平医院医生、第十八集团军卫生部",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国际乒联主席荻村伊智朗逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1163278.htm",
+    "year" : "1994",
+    "type" : "death",
+    "festival" : "全国法制宣传日",
+    "desc" : "荻村伊智朗，日本男子乒乓球运动员，体育活动家。16岁开始打乒乓球，后任日本奥委会主席等职，1994年去世，享年62岁。.baseInfo",
+    "cover" : false
+  }
+]

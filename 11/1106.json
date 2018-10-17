@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "奥斯曼帝国君王苏莱曼一世出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/186648.htm",
+    "year" : "1494",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "苏莱曼一世(Sulayman I，1494～1566)文治武功，在西方被普遍誉为苏莱曼大帝，而在奥斯曼帝国国内和东方则被誉为卡努尼苏丹苏莱",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本战国武将石田三成小西行长逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/89363.htm",
+    "year" : "1600",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "小西行长（平假名：こにし ゆきなが，罗马字：Konishi Yukinaga，1555?－1600,天主教教名John），日本安土桃山时代后期武将。堺",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "哈布斯堡王朝西班牙国王卡洛斯二世出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/209524.htm",
+    "year" : "1661",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "卡洛斯二世 Carlos II（1661年11月6日-1700年11月1日）绰号“中魔者”（El Hechizado）。哈布斯堡王朝的最后一位西班牙国王（16",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "萨克斯风发明者阿道夫·萨克斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1612204.htm",
+    "year" : "1814",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "阿道夫·萨克斯（Adolphe Saxphone）是萨克斯管这种乐器的发明者。阿道夫·萨克斯(1814-1894) ，1814年11月6日出生于比利时的迪南",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "军事理论家克劳塞维茨逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/49067.htm",
+    "year" : "1831",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "卡尔·菲利普·戈特弗里德·冯·克劳塞维茨（1780～1831年），德国军事理论家和军事历史学家，是近代军事战略学的奠基人，普鲁士军",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "篮球运动的发明者詹姆斯·奈史密斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/607247.htm",
+    "year" : "1861",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "詹姆斯-奈史密斯（Dr. James Naismith)篮球运动的发明者。1891年詹姆斯·奈史密斯在马萨诸塞州春田（又译斯普林菲尔德）的基督教",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国军事将领冯玉祥出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/20746.htm",
+    "year" : "1882",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "冯玉祥 (1882年11月6日～1948年9月1日)，中华民国高级将领，西北系军阀首领、爱国民主人士。字焕章，原名基善，原籍安徽省巢县",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "《国际歌》词作者欧仁·鲍狄埃逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/38548.htm",
+    "year" : "1887",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "欧仁·鲍狄埃（Eugène Edine Pottier，1816年10月4日 - 1887年11月6日）是法国的革命家，法国工人诗人，巴黎公社的主要领导人之",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/d9af2b3728fc506f921e9d607eb39dc0_134_100.jpg",
+    "title" : "俄罗斯作曲家彼得·伊里奇·柴可夫斯基逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/5d6165d255ce969f373a05ddcb780077_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/fe8d05f0a40116c3a09836ed2e891013_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1705858.htm",
+    "year" : "1893",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "柴可夫斯基是19世纪俄罗斯作曲家。他被誉为伟大的俄罗斯音乐大师，一生创作了许多著名的作品。其中《天鹅湖》是世界上最出名的芭蕾舞剧，现在已经成为所有古典芭蕾舞团的保留剧目。"
+  },
+  {
+    "recommend" : true,
+    "title" : "德国皇帝威廉二世藉巨野教案",
+    "link" : "http:\/\/baike.baidu.com\/view\/90086.htm",
+    "year" : "1897",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "鸦片战争以后，英，法，美，德，日等这些帝国主义国家相继侵入中国，他们用洋枪火炮打败了腐朽的清政府，迫使签订了一个个丧权",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "甘地在南非领导一次游行时被捕",
+    "link" : "http:\/\/baike.baidu.com\/view\/1612257.htm\"",
+    "year" : "1913",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "莫罕达斯·卡拉姆昌德·甘地（1869年10月2日－1948年1月30日），尊称圣雄甘地，是印度民族解放运动的领导人和印度国家大会党领袖",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "\"西班牙内战，马德里保卫战开始\"",
+    "link" : "http:\/\/baike.baidu.com\/view\/108026.htm",
+    "year" : "1936",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "西班牙内战中，共和国军队于1936年11月～1939年3月进行的首都保卫战。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "淮海战役爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/14256.htm",
+    "year" : "1948",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "淮海战役，国民党称“徐蚌会战”，是解放战争时期中国人民解放军华东野战军、中原野战军在以徐州为中心，东起海州（连云港），",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "科威特油井大火全被扑灭",
+    "link" : "http:\/\/baike.baidu.com\/view\/2706.htm",
+    "year" : "1991",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "科威特（阿拉伯语：&#1575;&#1604;&#1603;&#1608;&#1610;&#1578;），国号全名科威特国，（阿拉伯语：&#1583;&#1608;&#1604;&#1577; &#1575;&#1604;&#1603;&#1608;&#1610;&#1578; ，英语：The State of Kuwait），是",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本歌手本田美奈子逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1047399.htm",
+    "year" : "2005",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "本田美奈子（原名：工藤美奈子，Honda Minako，1967年7月31日－2005年11月6日）是日本歌手。东京都葛饰区柴又出生，埼玉县朝霞",
+    "cover" : false
+  }
+]

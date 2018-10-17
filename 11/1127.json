@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "东汉光武帝刘秀定都于雒阳",
+    "link" : "http:\/\/baike.baidu.com\/view\/2411.htm",
+    "year" : "25",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "洛阳古称雒阳、豫州，位于河南西部、黄河中游，因地处洛河之阳而得名，是国务院首批公布的历史文化名城，也是中部地区重要的工",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "南宋第二位皇帝宋孝宗赵昚出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/147904.htm",
+    "year" : "1127",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "宋孝宗赵昚(shèn)，原名伯琮，后改名瑗，赐名玮，字元永，宋太祖七世孙。生于建炎元年十月廿二（公元1127年11月27日），崩于绍",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第1任以色列总统军哈伊姆·魏茨曼出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1902706.htm",
+    "year" : "1874",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "哈伊姆·魏茨曼（英文名为Chaim Weizmann）是一位出生在俄罗斯的英国犹太裔化学家、犹太复国运动政治家，曾任世界锡安主义组织会",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "大日本帝国陆军中将本间雅晴出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/609701.htm",
+    "year" : "1887",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "本间雅晴（ほんま まさはるHonma Masaharu，1887年11月27日—1946年4月3日），日本帝国时代陆军中将。英国问题专家，诗人将军。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "抗日爱国将领、西安事变发动人之一杨虎城出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/23093.htm",
+    "year" : "1893",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "杨虎城（1893年11月26日－1949年9月6日）陕西蒲城人、民国陕军成就最高的将领，刀客出身，24岁自赋诗：西北山高水又长，男儿岂",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/c1497651e863982daf016eaa8aa951a9_134_100.jpg",
+    "title" : "法国作家小仲马逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/597ce2c881c4109dd21957a7f7d3af18_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/eb4b111d42cab4de7f007a47fdb17c48_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1070873.htm",
+    "year" : "1895",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "小仲马是法国著名小说家，是亚历山大·仲马与一名女裁缝的私生子。大仲马直到他七岁时才从法律上承认了这个儿子。小仲马的话剧作品《茶花女》被视为法国现实主义戏剧开端的标志。"
+  },
+  {
+    "recommend" : false,
+    "title" : "中国共产党元老董其武出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/90931.htm",
+    "year" : "1899",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "董其武（1899---1989），解放军高级将领。1919年从军，参加北伐战争。从1928年起，在国民党傅作义部历任参谋、团长、旅长。1933",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "印度尼西亚共产党发动起义",
+    "link" : "http:\/\/baike.baidu.com\/view\/465557.htm",
+    "year" : "1926",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "印度尼西亚政党。1920年5月成立。前身是1914年建立的东印度社会民主联盟。1920年加入共产国际。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "重庆“11.27”大屠杀发生",
+    "link" : "http:\/\/baike.baidu.com\/view\/6282864.htm",
+    "year" : "1949",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1949年4月，人民解放军解放了南京，国民党特务便开始分批屠杀狱中革命志士。11月27日，重庆解放在即，国民党反动派逃跑前，对囚",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中共元老邓宝珊逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/55420.htm",
+    "year" : "1968",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "邓宝珊是民国纵横西北几十年的的智囊人物，早年参加中国同盟会，是国军的陆军上将。辛亥革命时，曾参加新疆伊犁起义。1924年任",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "印尼三宝珑、中爪哇省等城市发生排华骚乱",
+    "link" : "http:\/\/baike.baidu.com\/view\/462204.htm",
+    "year" : "1980",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中爪哇省(印度尼西亚语：Jawa Tengah)是印度尼西亚的一个省，位于爪哇岛的中部，首府是三宝垄。现任省长是玛迪延多。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国阜新市发生特大火灾事故",
+    "link" : "http:\/\/baike.baidu.com\/subview\/5420\/11199160.htm",
+    "year" : "1994",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "阜新，位于辽宁省西部的低山丘陵区，为沈阳经济区重要城市之一。内蒙古高原和东北辽河平原的中间过渡带，全区呈现长矩形，中轴",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国当代民族学家、人类学家和社会学家林耀华逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/25163.htm",
+    "year" : "2000",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "林耀华（1910年—2000年），著名的民族学家、人类学家、历史学家、社会学家和民族教育家。中央民族大学博士生导师、终身教授。2",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "香港著名电视人萧笙逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1016931.htm",
+    "year" : "2004",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "姓名：萧笙 性别：男（1927年—2004年11月27日），儿子：萧智刚，,香港1980年代著名电视人，曾在当时香港的两家电视台制作过多",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "香港资深广播人钟伟明逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1894637.htm",
+    "year" : "2009",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "香港资深广播人，人称“钟大哥”，生于1931年，是广东新会人，在香港土生土长。1947年投身广播界，先后在丽的呼声、美国新闻处",
+    "cover" : false
+  }
+]

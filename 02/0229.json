@@ -1,0 +1,115 @@
+[
+  {
+    "recommend" : true,
+    "title" : "中国唐朝开设律学。",
+    "link" : "http:\/\/baike.baidu.com\/subview\/22504\/10853408.htm#viewPageContent",
+    "year" : "632",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "律学是指根据儒学原则对以律为主的成文法进行讲习、注释的法学。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利歌剧作曲家焦阿基诺·罗西尼出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/714219.htm",
+    "year" : "1792",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "焦阿基诺·安东尼奥·罗西尼1792年出生于意大利东部威尼斯海湾的一个港口城市佩萨罗，1868年逝于法国巴黎。他生前创作了39部歌剧以及宗教音乐和室内乐。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "1896年，印度政治家莫拉尔吉·德赛出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/5402062.htm",
+    "year" : "1896",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "莫拉尔吉·德赛曾任印度总理（1977年-1979年）。是吉尼斯世界纪录认定的世界上当选总理时年龄最大（81岁）的人。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "捷克斯洛伐克脱离奥匈帝国后通过首部宪法。",
+    "link" : "http:\/\/baike.baidu.com\/view\/97599.htm",
+    "year" : "1920",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "捷克斯洛伐克是1918年10月28日至1992年12月31日存在的共和国，原名捷克斯洛伐克共和国，后更名捷克斯洛伐克社会主义共和国（1960年）和捷克斯洛伐克联邦共和国(1989年)，第二次世界大战前是世界第七大工业国。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国宇航员杰克·洛斯马出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/13354121.htm",
+    "year" : "1936",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "曾任美国国家航空航天局宇航员，执行过天空实验室2号以及STS-3任务。也是美国海军陆战队飞行员，上校军衔。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/68b3c498098f32fb1caae4f3498874b6_134_100.jpg",
+    "title" : "《乱世佳人》获得十项奥斯卡金像奖",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/3e4ef395f57205bb883645af367ae8cb_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/d6f34a176bbb638970e4ea66cb7c8988_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/26932\/5478439.htm",
+    "year" : "1940",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《乱世佳人》是根据小说家玛格丽特·米切尔的小说《飘》改编的一部美国电影。由克拉克·盖博、费雯·丽等人主演，讲述美国南北战争期间郝思嘉与白瑞德的爱情故事。"
+  },
+  {
+    "recommend" : true,
+    "title" : "香港及英国政治家邓莲如出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/273476.htm",
+    "year" : "1940",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "邓莲如女男爵，香港殖民地时期及英国政治家，曾自1970年代末至1990年代初活跃于香港政坛，先后任行政及立法两局首席非官守议员，在港府内有举足轻重的影响力。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国共内战，宜川战役开始",
+    "link" : "http:\/\/baike.baidu.com\/view\/476965.htm",
+    "year" : "1948",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "宜川战役是彭德怀指挥的西北野战军经过近一年的艰苦防御作战，而转入外线作战后的一次“围城打援”的成功战例。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本小说家赤川次郎出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/53708.htm",
+    "year" : "1948",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "1948年生于日本福冈，1976年以《幽灵列车》问鼎通俗读物推理小说新人奖，年均创作17部之多，迄今为止已出版了400多部长篇系列推理小说。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴伐利亚国王路德维希一世逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/417642\/9403378.htm",
+    "year" : "1868",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "巴伐利亚第一任国王马克西米利安一世的长子，母为黑森公主奥古斯塔·威廉敏娜。1786年8月25日生于斯特拉斯堡。路德维希这个名字来源于他的教父法兰西国王路易十六。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "台湾政治人物费骅逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/150979.htm",
+    "year" : "1984",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "台湾政治人物，前“财政部长”。字之骅，与彝、志平辈，后代系宗字辈，古帝皋陶大业帝皇和其子大费一支。与费彝江（费孝通）、费彝民、费彝穆（费穆）等基因同源。",
+    "cover" : false
+  }
+]

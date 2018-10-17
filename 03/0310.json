@@ -1,0 +1,145 @@
+[
+  {
+    "recommend" : false,
+    "title" : "第一次布匿战争结束\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/184203.htm",
+    "year" : "-241",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "第一次布匿战争是在古罗马和迦太基之间的三次布匿战争的第一次战争，于前264年到前241年之间。两国冲突是因为争夺地中海沿岸地",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "意大利医师、生物学家马尔皮基出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/551199.htm",
+    "year" : "1628",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "意大利生物学家、组织学家。用显微镜研究人体的微细结构，发现了肾小球、肾小管、红细胞、毛细血管网等。观察到血液通过毛细血",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "乔治三世时的英国首相约翰·斯图尔特逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/566983.htm",
+    "year" : "1792",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "第三世布特伯爵约翰·斯图尔特，（John Stuart, 3rd Earl of Bute, KG, PC，1713年5月25日—1792年3月10日），是乔治三世的老师",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国著名科学家卡文迪什逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/80168.htm",
+    "year" : "1810",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "英国物理学家和化学家卡文迪什(卡文迪许)，担任过英国皇家学会会员等，从事科学研究，其重大贡献是建立电势概念、测量万有引力",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "“戊戌六君子”之一谭嗣同出生\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1655\/6672116.htm",
+    "year" : "1865",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "谭嗣同（1864年—1898年），湖南浏阳人，是中国近代资产阶级著名的政治家、思想家，维新志士。少时师从欧阳中鹄，后加入维新派",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "贝尔发明电话\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/63988.htm",
+    "year" : "1876",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "亚历山大·贝尔是一位美国发明家和企业家。他获得了世界上第一台可用的电话机的专利权（发明者为意大利人安东尼奥·梅乌奇），创",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/20e699be39c2a312f063b25f03537705_134_100.jpg",
+    "title" : "清末重臣袁世凯就任中华民国临时大总统",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/779134f9038d0741fcfd7d6365df8e42_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/b832a644a4ae686848ead6680119fa18_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/8447.htm",
+    "year" : "1912",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "袁世凯就任后颁布《中华民国约法》，于1915年12月称帝，改国号为中华帝国，建元洪宪，史称“洪宪帝制”。此举遭到各方反对，引发护国运动，袁世凯不得不在做了83天皇帝之后宣布取消帝制。"
+  },
+  {
+    "recommend" : true,
+    "title" : "中国武侠小说作家金庸出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/2619.htm",
+    "year" : "1924",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "金庸（1924年3月10日—），本名查良镛，浙江海宁人，武侠小说作家、新闻学家、企业家、政治评论家、社会活动家，中国作家协会名",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国男影星查克·诺里斯出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/415497.htm",
+    "year" : "1940",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "Chuck Norris（查克·诺里斯，1940年3月10日-），空手道世界冠军，美国电影演员，动作片演员，因1972年拍摄电影《猛龙过江》在古",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国际恐怖分子本·拉登出生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/56235.htm",
+    "year" : "1957",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "奥萨马·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：&#1571;&#1587;&#1575;&#1605;&#1577; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1608;&#1590; &#1576;&#1606; &#1604;&#1575;&#1583;&#1606;&#8206;，拉丁转写：Usāmah",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "苏联最高苏维埃主席团主席契尔年科逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/321872.htm",
+    "year" : "1985",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "康斯坦丁·乌斯季诺维奇·契尔年科（英文：Konstantin Ustinovich Chernenko，俄文：Константи&#769;н Усти&#769;нови",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国大陆首例试管婴儿在北京诞生\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/976666.htm",
+    "year" : "1988",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "在我国民间经常把“体外受精和胚胎移植”（In vitro fertilization and embryo transfer, IVF-ET）叫“试管婴儿”。而事实上，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "苏哈托再次当选印尼总统\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/843930.htm",
+    "year" : "1998",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "苏哈托（ Haji·Mohammad·Suharto ）（1921年6月8日～2008年1月27日），印度尼西亚共和国第二任总统、军事强人。在1967年至1998",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国著名历史学家，复旦大学资深特聘教授朱维铮逝世\n",
+    "link" : "http:\/\/baike.baidu.com\/view\/376448.htm",
+    "year" : "2012",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "朱维铮（1936.07.14～2012.03.10），祖籍江苏无锡。毕业于复旦大学历史系中国古代史专门化，留校任教。朱先生治学严谨、功力深",
+    "cover" : false
+  }
+]

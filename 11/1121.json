@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "法国启蒙运动领袖伏尔泰出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4782\/5154191.htm",
+    "year" : "1694",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "伏尔泰, 本名弗朗索瓦－马利·阿鲁埃（Fran&#231;ois-Marie Arouet），伏尔泰是他的笔名。法国启蒙思想家、文学家、哲学家、史学家。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "孟格菲兄弟进行了第一次载人热气球飞行",
+    "link" : "http:\/\/baike.baidu.com\/view\/2006215.htm",
+    "year" : "1783",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "孟戈菲兄弟，也就是约瑟夫—米歇尔·孟戈菲（Joseph-Michel Montgolfier （1740年8月26日-1810年6月26日）和雅克—艾蒂安·孟戈菲",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国著名人类学家路易斯·亨利·摩尔根出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1000790.htm",
+    "year" : "1818",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "路易斯·亨利·摩尔根（Lewis Henry Morgan，1818年11月21日 - 1881年12月17日），出生于纽约州奥罗拉，是美国著名的民族学家、人",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "爱迪生宣布发明留声机",
+    "link" : "http:\/\/baike.baidu.com\/subview\/71257\/5144480.htm",
+    "year" : "1877",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "留声机是一种原始放音装置，其声音储存在以声学方法在唱片（圆盘）平面上刻出的弧形刻槽内。唱片置于转台上，在唱针之下旋转。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "在中日甲午战争中，开始了旅顺大屠杀",
+    "link" : "http:\/\/baike.baidu.com\/view\/344973.htm",
+    "year" : "1894",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "旅顺大屠杀是中日甲午战争期间，日寇于1894年11月21日攻陷旅顺，对城内进行了4天3夜的屠杀、抢劫和强奸，遇难者超过2万人，只有",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/bb02f08ad035d721fdbbb66092738fb1_134_100.jpg",
+    "title" : "比利时画家勒内·马格里特出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/8b8418f75580ad7f4d8a15116aa26e55_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/9a9e70e5a65f9ab877d80822c398fe50_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/89151.htm",
+    "year" : "1898",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "勒内·马格里特是比利时超现实主义画家。他最有代表性的画作名为《形象的叛逆》，画面中是一个烟斗，画面下方却写着 “你看到的不是烟斗”。这幅画成为解释超现实主义观点的典型作品。"
+  },
+  {
+    "recommend" : false,
+    "title" : "苏联共产党苏斯洛夫出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/3060640.htm",
+    "year" : "1902",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "米哈伊尔·安德烈耶维奇·苏斯洛夫",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国作家钱钟书出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2041.htm",
+    "year" : "1910",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "钱钟书，江苏无锡人，原名仰先，字哲良，后改名钟书，字默存，号槐聚，曾用笔名中书君，中国现代著名作家、文学研究家。晓畅多",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本德川幕府末代将军德川庆喜逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/475538\/9310202.htm",
+    "year" : "1913",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "德川庆喜（1837－1913年），生于天保八年9月29日（1837年10月28日），卒于大正二年（1913年）11月22日。江户幕府（德川幕府）第",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国空军少将高志航逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/244008.htm",
+    "year" : "1937",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "高志航（1907年5月14日—1937年11月21日），汉族，原名高铭久，字子恒，吉林通化县人。抗日战争期间民国空军英雄、中国空军驱逐",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中华民国国民革命军将领夏国璋逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/391521.htm",
+    "year" : "1937",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "夏国璋(1894-1937) 字超然。广西省容县松山乡沙田村人。中央军校第一分校（南宁分校）上校分队长，追赠中将。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国近代著名小说家史考特·费兹杰罗逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/2186243.htm",
+    "year" : "1940",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "弗朗西斯·斯科特·基·菲茨杰拉德（Francis Scott Key Fitzgerald，1896年9月24日－1940年12月21日），二十世纪美国最杰出作家之",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中印边境战争，中国宣布与印度全面停火",
+    "link" : "http:\/\/baike.baidu.com\/view\/76323.htm",
+    "year" : "1962",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中印边境战争是1962年6月或10月至11月间发生在中华人民共和国和印度在藏南边境战争，在中国被普遍称为中印边界自卫反击战，印度",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "厄瓜多尔发生海豚集体自杀事件\n",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2098\/4965994.htm",
+    "year" : "1992",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "海豚 （学名：Delphinidae）是与鲸鱼和鼠海豚密切相关的水生哺乳动物，大约于1000万年前的中新世进化而成，广泛生活在大陆架附",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "老挝国家主席凯山·丰威汉逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/112597.htm",
+    "year" : "1992",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "凯山·丰威汉（1920～1992）Kaysone Phomvihane ，老挝人民革命党总书记（1955～1991）、主席（1991～1992)，老挝人民民主共和国",
+    "cover" : false
+  }
+]

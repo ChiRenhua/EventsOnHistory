@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "英国数学家查尔斯·巴贝奇出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/301371.htm ",
+    "year" : "1791",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "查尔斯·巴贝奇(Charles Babbage,1792—1871):科学管理的先驱者巴贝奇出生于一个富有的银行家的家庭，曾就读于剑桥大学三一学院",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国海军特级上将乔治·杜威出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/3749989.htm",
+    "year" : "1837",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "乔治·杜威(George Dewey，1837年～1917年) 美西战争的海战明星。美国海军特级上将。杜威参与的最著名的战役是美西战争中的马尼",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "美国作家亨利·米勒出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/579975.htm",
+    "year" : "1891",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亨利·米勒（Henry Miller，1891年12月26日 - 1980年6月7日），美国“垮掉派”作家，是20世纪美国乃至世界最重要的作家之一，同",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/d66af71ef66eccc8222fcc9abb9315ee_134_100.jpg",
+    "title" : "中华人民共和国伟大领袖毛泽东诞辰",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/7881395e57257a95eb16b5056c4164e9_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/ba9d329d3e7f954438c2f64ae016fb10_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1689\/11849262.htm",
+    "year" : "1893",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "毛泽东，诗人，伟大的马克思主义者，无产阶级革命家、战略家和理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。1949至1976年担任中华人民共和国最高领导人。"
+  },
+  {
+    "recommend" : false,
+    "title" : "居里夫人发现镭",
+    "link" : "http:\/\/baike.baidu.com\/subview\/9201\/11198224.htm",
+    "year" : "1898",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "一种具有很强的放射性的元素，在化学元素周期表中位于第7周期，第IIA族，原子序数88,元素符号Ra。能不断放出大量的热。镭能生成",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "蔡元培就任国立北京大学校长",
+    "link" : "http:\/\/baike.baidu.com\/view\/2008.htm ",
+    "year" : "1916",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "蔡元培，字鹤卿，又字仲申、民友、孑民，乳名阿培，并曾化名蔡振、周子余，汉族，浙江绍兴山阴县（今浙江绍兴）人，原籍浙江诸",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "茅盾完成长篇小说《子夜》",
+    "link" : "http:\/\/baike.baidu.com\/subview\/3948\/6272244.htm",
+    "year" : "1932",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "《子夜》，原名《夕阳》，中国现代长篇小说，约30万字。茅盾于1931年10月开始创作，至1932年12月5日完稿，共十九章。1933年1月",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "第二次世界大战中，美国宣布马尼拉是不设防城市",
+    "link" : "http:\/\/baike.baidu.com\/view\/34790.htm ",
+    "year" : "1941",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "马尼拉，是菲律宾的首都城市和最大的港口，位于菲律宾最大的岛屿－吕宋岛马尼拉湾的东岸，也称“小吕宋”，濒临天然的优良港湾",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国书法家沈鸿根出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/571509.htm",
+    "year" : "1943",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "沈鸿根，别号与笔名：江鸟，1943年12月26日出生，当代硬笔书法家，曾任《写字》杂志副总编，上海中华书画协会副会长，中国书法",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "京剧表演艺术家荀慧生逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/42183\/9577850.htm",
+    "year" : "1968",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "《荀慧生》着力描写了荀慧生的传奇人生。该剧筹划了整整13年，由夏钢执导，荀慧生的长孙荀皓担任执行导演。夏钢表示，在京剧“",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国总统哈利·S·杜鲁门逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/475853\/11092259.htm",
+    "year" : "1972",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "哈里·S·杜鲁门（英语：Harry S.Truman，1884年5月8日－1972年12月26日），美国民主党政治家，第32任副总统（1945年），随后接替",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本前首相田中角荣逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/138663.htm ",
+    "year" : "1993",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "田中角荣（たなか かくえい、1918年（大正7年）5月4日 - 1993年（平成5年）12月16日）日本政治家。原众议院议员，内阁总理大臣",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "印度洋海啸发生",
+    "link" : "http:\/\/baike.baidu.com\/view\/335566.htm ",
+    "year" : "2004",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "印度洋海啸发生在2004年12月26日，这次地震发生的范围主要位于印度洋板块与亚欧板块的交界处，消亡边界。 地处安达曼海。这场突",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "第三十八任总统杰拉尔德·鲁道夫·福特逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/102597.htm",
+    "year" : "2006",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杰拉尔德·鲁道夫·福特（英语：Gerald Rudolph Ford, Jr.，1913年7月14日－2006年12月26日），生于美国内布拉斯加州奥马哈，美国",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "前中国足球运动员栾义军逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/3114931.htm ",
+    "year" : "2009",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "栾义军（1967年5月23日—2009年12月26日），广西柳州人，前中国足球运动员，在进入八一队后司职自由中卫，退役后栾义军曾担任八",
+    "cover" : false
+  }
+]

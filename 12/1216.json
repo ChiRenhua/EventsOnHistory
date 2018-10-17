@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "中国第一位女皇帝武则天逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2225\/9389119.htm",
+    "year" : "705",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "武则天（公元624年－公元705年），名武曌，并州文水（今山西文水县东）人。中国历史上唯一的正统的女皇帝，也是即位年龄最大（6",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "安史之乱爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/2795.htm",
+    "year" : "755",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "安史之乱是中国唐代所发生的一场政治叛乱，是由安禄山与史思明发动，同中央政权争夺统治权的战争， 也是唐朝由盛而衰的转折点。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/322ff6821fe0591f27dba689a932e22e_134_100.jpg",
+    "title" : "音乐家贝多芬出生",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/f5207ada057772a9f85d0677ba5b906c_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/b8a6c9bcc8bd8473b8aa2df43eb38094_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/31118.htm ",
+    "year" : "1770",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "路德维希·凡·贝多芬，德国著名的作曲家和音乐家，维也纳古典乐派代表人物之一,是“集古典主义之大成，开浪漫主义之先河”的伟大音乐家。他创作的作品对音乐发展有着深远的影响。\n"
+  },
+  {
+    "recommend" : false,
+    "title" : "波士顿倾茶事件发生",
+    "link" : "http:\/\/baike.baidu.com\/view\/26828.htm ",
+    "year" : "1773",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "波士顿倾茶事件（The Boston Tea Party）是发生在1773年12月16日的政治示威，因北美人民不满英国殖民者的统治，当地居民塞缪尔·",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国著名女性小说家简·奥斯丁出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/42009.htm ",
+    "year" : "1775",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "简·奥斯汀，是英国著名女性小说家，她的作品主要关注乡绅家庭女性的婚姻和生活，以女性特有的细致入微的观察力和活泼风趣的文字",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "爱国志士丘逢甲出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/80408.htm ",
+    "year" : "1864",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "丘逢甲（1864年~1912年），客家人，字仙根，又字吉甫，号蛰庵、仲阏、华严子，别署海东遗民、南武山人、仓海君。辛亥革命后以仓",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "人类第一次利用血清注射治疗疾病获得成功",
+    "link" : "http:\/\/baike.baidu.com\/view\/42775.htm ",
+    "year" : "1890",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "血清，指血液凝固后，在血浆中除去纤维蛋白分离出的淡黄色透明液体或指纤维蛋白已被除去的血浆。其主要作用是提供基本营养物质",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国现实主义作家阿尔封斯·都德逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/476734.htm",
+    "year" : "1897",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "阿尔封斯·都德（Alphonse Daudet1840年5月13日—1897年12月15日），法国19世纪著名的现实主义小说家。1840年5月13日生于美丽的",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国作家，科幻小说家亚瑟·查理斯·克拉克出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/2812764.htm",
+    "year" : "1917",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "英国科幻小说家。其科幻作品多以科学为依据，小说里的许多预测都已成现实。尤其是他的卫星通讯的描写，与实际发展惊人的一致，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国民主建国会成立",
+    "link" : "http:\/\/baike.baidu.com\/view\/24024.htm ",
+    "year" : "1945",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "中国民主建国会 简称民建。主要由经济界人士以及有关专家学者组成、具有政治联盟特点的、致力于建设中国特色社会主义事业的政党",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "香港男歌手、演员罗嘉良出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/6900.htm ",
+    "year" : "1962",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "罗嘉良（Gallen Lo），1962年12月16日生于中国香港，祖籍广东东莞，中国香港男演员、歌手。1984年参加无线电视新秀歌唱大赛入行",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "罗荣桓元帅逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1830.htm",
+    "year" : "1963",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "罗荣桓（1902-1963） 久经考验的忠诚的共产主义战士，坚定的马克思主义者，伟大的无产阶级革命家、政治家、军事家，中国人民解",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国杰出的作家威廉·萨默塞特·毛姆逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/682974.htm",
+    "year" : "1965",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "英国小说家、戏剧家。生于律师家庭。父母早死，由伯父接回英国抚养。原来学医，后转而致力写作。他的作品常以冷静、客观乃至挑",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "《海牙公约》签署",
+    "link" : "http:\/\/baike.baidu.com\/view\/441602.htm",
+    "year" : "1970",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "海牙公约，亦称“海牙法规”。是1899年和1907年两次海牙和平会议通过的一系列公约、宣言等文件的总称。2013年5月22日，日本参院",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "林学家、林业教育家殷良弼逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/1422819.htm",
+    "year" : "1982",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "殷良弼（1894—1982），林学家、林业教育家。中国近代林业开拓者之一。在教学思想上不受传统束缚，从国情出发采取各种方式，培",
+    "cover" : false
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "清代小说家吴敬梓逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/13722.htm",
+    "year" : "1754",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "吴敬梓（1701年~1754年），安徽全椒人，字敏轩，号粒民，清代最伟大的小说家之一。因家有“文木山房”，所以晚年自称“文木老人",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "法国作曲家艾克托尔·路易·柏辽兹出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1738120.htm",
+    "year" : "1803",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "艾克托尔·路易·柏辽兹HectorLouisBerlioz（1803-1869）法国作曲家，法国浪漫乐派的主要代表人物。1803年12月11日生于法国柯特·",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国工人运动先驱者和领导者之一陈郁出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/128041\/11196747.htm",
+    "year" : "1901",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "中国工人运动先驱者和领导者之一陈郁原名陈旭贵，是一位中华人民共和国的政治家、中国工人运动领袖。年轻时做过各种杂工，改名",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "“中国航天之父” 钱学森出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/4213\/7194426.htm",
+    "year" : "1911",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "钱学森（1911.12.11－2009.10.31），汉族，吴越王钱镠第33世孙，生于上海，祖籍浙江省杭州市临安。著名科学家，空气动力学家，",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/fa34d231e5a1c193ce0fc49b77d85688_134_100.jpg",
+    "title" : "袁世凯复辟帝制",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/23293ff918b0c2eb96abcb7aece37ce8_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/560de3937445cb1342f649fb533df47a_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/659501.htm",
+    "year" : "1915",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "袁世凯辛亥革命期间逼清帝溥仪退位，成为中华民国临时大总统。1913年镇压二次革命，当选为首任中华民国大总统，1915年12月宣布自称皇帝，改国号为中华帝国，建元洪宪，史称“洪宪帝制”。"
+  },
+  {
+    "recommend" : false,
+    "title" : "俄罗斯作家索尔仁尼琴出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/75109.htm",
+    "year" : "1918",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "亚历山大·索尔仁尼琴，俄罗斯作家，二战时的苏联炮兵连长，因勇敢获得二枚勋章，1945年因通信中不敬被流放哈萨克8年，此段经历",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国著名政治家克里出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/420435.htm",
+    "year" : "1943",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "约翰·福布斯·克里（John Forbes Kerry），美国政治家，国务卿，马萨诸塞州参议员。1962年，克里进入耶鲁大学学习政治学，1966毕",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "开明绅士李鼎铭逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/216448\/13355604.htm",
+    "year" : "1947",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "李鼎铭，出身农家，曾从事教育事业十余年，并开办医馆，治病救人，群众颇多赞誉。1941年夏，以无党派人士身份，先后当选米脂县",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国首次举办托福考试",
+    "link" : "http:\/\/baike.baidu.com\/view\/1324.htm",
+    "year" : "1981",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "托福是由美国教育测验服务社（ETS）举办的英语能力考试，全名为“检定非英语为母语者的英语能力考试”，中文音译为“托福”。TO",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "俄罗斯解除车臣非法武装恐怖组织",
+    "link" : "http:\/\/baike.baidu.com\/view\/920169.htm",
+    "year" : "1994",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "车臣非法武装，是一个世界著名的恐怖组织。其原头目为马斯哈多夫，在马斯哈多夫被被击毙后，由沙米利·巴萨耶夫继任其职位，成为",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "我国当代著名女作家杨沫逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/9116\/9723316.htm",
+    "year" : "1995",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "杨沫（1914.08～1995.12），当代女作家。原名杨成业，笔名杨君默、杨默。原籍湖南湘阴。 生于北京，1995年12月11日逝世。曾任全",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "超级计算机问世",
+    "link" : "http:\/\/baike.baidu.com\/view\/296324.htm",
+    "year" : "1996",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "超级计算机指能够执行一般个人电脑无法处理的大资料量与高速运算的电脑，其基本组成组件与个人电脑的概念无太大差异，但规格与",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "我国正式加入世界贸易组织",
+    "link" : "http:\/\/baike.baidu.com\/view\/3929.htm",
+    "year" : "2001",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "世界贸易组织，1994年4月15日，在摩洛哥的马拉喀什市举行的关贸总协定乌拉圭回合部长会议决定成立更具全球性的世界贸易组织 ，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "京剧表演艺术家袁世海逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/62145.htm",
+    "year" : "2002",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "袁世海，原名瑞麟，是中国著名京剧表演艺术大师。他成功地塑造了各种性格的人物形象，尤其他主演的十余出扮演曹操的剧目赢得了",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "著名建筑学家冯纪忠逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/313632.htm",
+    "year" : "2009",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "冯纪忠（1915—2009.12.11 ）是中国著名建筑学家、建筑师和建筑教育家，中国现代建筑奠基人，也是我国城市规划专业以及风景园林",
+    "cover" : false
+  }
+]

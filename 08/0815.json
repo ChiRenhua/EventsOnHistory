@@ -1,0 +1,145 @@
+[
+  {
+    "recommend" : false,
+    "title" : "著名词人南唐后主李煜逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/2511\/5734326.htm",
+    "year" : "978",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "李煜（937年―978年），南唐最后一位国君，961年―975年在位，初名从嘉，字重光，号钟隐、莲峰居士。汉族，祖籍彭城（今江苏徐",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "神圣罗马帝国的科隆大教堂举行奠基典礼",
+    "link" : "http:\/\/baike.baidu.com\/view\/15757.htm",
+    "year" : "1248",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "科隆大教堂（Kölner Dom，全名Hohe Domkirche St. Peter und Maria），是位于德国科隆的一座天主教主教座堂，是科隆市的标志性",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法兰西第一帝国皇帝拿破仑出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/5292.htm",
+    "year" : "1769",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "拿破仑·波拿巴（法文：Napoléon Bonaparte，1769年~1821年），出生于法国的科西嘉岛，是著名的军事家、政治家。他是法兰西第一",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国著名历史小说家司各特出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/357484.htm",
+    "year" : "1771",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "沃尔特·司各特爵士，英国著名的历史小说家和诗人。他生于苏格兰的爱丁堡市，自幼患有小儿麻痹症，爱丁堡大学法律系毕业后，当过",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "诺贝尔生物或医学奖得主格蒂·科里出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/6798778.htm",
+    "year" : "1896",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "格蒂·特蕾莎·科里（Gerty Theresa Cori，出生名为拉德尼茨，Radnitz，1896年8月15日－1957年10月26日），美国生物化学家，1947年她与丈夫卡尔·斐迪南·科里以及阿根廷医生贝尔纳多·奥赛一起因发现糖代谢中的酶促反应而被授予诺贝尔生理学或医学奖",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "巴拿马运河通航",
+    "link" : "http:\/\/baike.baidu.com\/view\/22074.htm",
+    "year" : "1914",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "巴拿马共和国（英语：The Republic of Panama；西班牙语：La República de Panamá）简称巴拿马，是中美洲最南部的国家。连接大",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "以色列总理希蒙·佩雷斯出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/970920.htm",
+    "year" : "1923",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "在以色列政坛有“常青树”之称。佩雷斯1923年出生于波兰，从政已有50多年。佩雷斯此前曾任以色列总理，担任过财政部长、外交部",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "老挝国家副主席本扬·沃拉吉出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/1016287.htm",
+    "year" : "1937",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "本扬·沃拉吉（Boungnang Vorachith，1937年8月15日－），曾任老挝中部军区司令。1982年至1986年任沙湾拿吉省委书记、省长。1992",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/ac030e07bdd84ec54ccb4d9736953d25_134_100.jpg",
+    "title" : "日本宣布无条件投降，第二次世界大战宣告结束",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/f410a8c155259d0f5f245b0d01876224_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/7c541fc76b59ed75c5102c607af733ea_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/5338.htm",
+    "year" : "1945",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "1945年8月15日正午，日本天皇向全国广播了接受波茨坦公告、实行无条件投降的诏书，10月25日，中国政府在台湾举行受降仪式，这成为抗日战争取得完全胜利的重要标志。"
+  },
+  {
+    "recommend" : false,
+    "title" : "日本帝国陆军大将阿南惟几逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/358167.htm",
+    "year" : "1945",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "阿南惟几（あなみ これちか1887.2.21(明治20)～ 1945.8.15（昭和20））日本陆军大将。属于陆军中比较笨的那一类人，考了4次才考上",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "西藏墨脱发生中国有史以来最大地震，里氏8.6级",
+    "link" : "http:\/\/baike.baidu.com\/view\/186613.htm",
+    "year" : "1950",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "墨脱县是中华人民共和国西藏自治区林芝地区下辖的一个县，位于西藏东南部，地处雅鲁藏布江下游，位于喜马拉雅山脉东端南麓。面",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "共产主义战士，雷锋同志殉职，年仅22岁",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1753\/5246326.htm",
+    "year" : "1962",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "雷锋同志1940年12月18日出生，他是全心全意为人民服务的同志、中国人民解放军战士、伟大的共产主义战士。作为一名普通的中国人",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "比利时超现实主义画家雷内·马格利特逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/89151.htm",
+    "year" : "1967",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "比利时画家。早期从事墙纸设计和商业艺术。20世纪20年代与巴黎的超现实主义者交往甚密，并开始潜心作画，宗法超现实主义画风。",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "中国绿卡制度正式实施",
+    "link" : "http:\/\/baike.baidu.com\/view\/2325359.htm",
+    "year" : "2004",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "是指外国人在中国居留期限不受限制的凭证，或者说是获得在中国永久居留资格的外国人在中国境内居留的合法身份证件。",
+    "cover" : false
+  }
+]

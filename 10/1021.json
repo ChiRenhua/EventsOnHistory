@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : true,
+    "title" : "明朝开国皇帝明太祖高皇帝朱元璋出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/1690\/7140248.htm",
+    "year" : "1328",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "大明太祖高皇帝朱元璋（1328年10月21日-1398年6月24日），字国瑞。[1]&nbsp;原名重八，[2]&nbsp;后取名兴宗。汉族，濠州钟离人",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "法国国王查理六世逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/207741\/7111935.htm",
+    "year" : "1422",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "查理六世（Charles VI le Insense，1368年12月3日—1422年10月21日，又称可爱的查理）法国瓦卢瓦王朝国王（1380年—1422年在位）。查理五世之子。\n查理六世\n查理六世\n在其父王的励精图治之后，由于查理六世的精神病，法国再次陷入一片混乱。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-31\/cf4720d74c2ac909b7e9761b1d13dad6_134_100.jpg",
+    "title" : "麦哲伦发现麦哲伦海峡",
+    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-31\/2f2f9b40f78b2a8b2d3637d563ec6834_80_80.jpg",
+    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-31\/26ee8fada62e57db1cf41d345c866f9c_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1141712.htm",
+    "year" : "1520",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "麦哲伦是葡萄牙著名航海家和探险家。他于1519年率领船队沿非洲西海岸南下，绕过好望角，于1921年在菲律宾群岛受伤去世。他的探险船队继续航行，最终完成了人类历史上首次环球航行。"
+  },
+  {
+    "recommend" : false,
+    "title" : "英国海军统帅霍雷肖·纳尔逊逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/147274.htm",
+    "year" : "1805",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "第一代纳尔逊子爵，KB（Vice Admiral Horatio Nelson, 1st Viscount Nelson，1758年9月29日－1805年10月21日），英国18世纪末及",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "英国在特拉法尔加海战中战胜法国",
+    "link" : "http:\/\/baike.baidu.com\/view\/131469.htm",
+    "year" : "1805",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "特拉法尔加海战是英国海军史上的一次最大胜利，英法此战中的指挥者正是一对历史上最著名的对手——具有传奇色彩的英国海军司令",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "瑞典化学家阿尔弗雷德·诺贝尔出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/94761.htm",
+    "year" : "1833",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "[1]&nbsp;阿尔弗雷德·伯纳德·诺贝尔（Alfred Bernhard Nobel, 1833.10.21－1896.12.10），是瑞典化学家、工程师、发明家、军工",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国护士南丁格尔远赴克里米亚战场",
+    "link" : "http:\/\/baike.baidu.com\/subview\/45159\/5061834.htm",
+    "year" : "1854",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "弗洛伦斯·南丁格尔，出生在意大利的一个优裕家庭，因在克里米亚进行护理而闻名。她是世界上第一个真正的女护士，开创了护理事业",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国著名企业家陈嘉庚出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/25629.htm",
+    "year" : "1874",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "陈嘉庚，是著名的爱国华侨领袖、企业家、教育家、慈善家、社会活动家，泉州府同安县集美社人（现厦门市集美区），厦门大学、集",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "美国科学家爱迪生发明了电灯",
+    "link" : "http:\/\/baike.baidu.com\/view\/69200.htm",
+    "year" : "1879",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "托马斯·阿尔瓦·爱迪生（英文名:Thomas Alva Edison，1847年－1931年），[1]&nbsp;世界著名的发明家、物理学家、企业家，拥有众",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "日本推理作家江户川乱步出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/22244.htm",
+    "year" : "1894",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "江户川乱步，本名平井太郎，1894年10月21日出生于日本三重县名张町，是日本最负盛名的推理作家、评论家，被誉为日本“侦探推理",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "晚清小说家吴趼人逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/97822.htm",
+    "year" : "1910",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "吴趼人 （1867-1910 年），原名宝震，又名沃尧，[1]&nbsp;清代谴责小说家，字小允，又字茧人，后改趼人。 广东南海（佛山）人，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中华民国作家余光中出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/5363.htm",
+    "year" : "1928",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "余光中，福建泉州市永春县人，1928年10月21日生于江苏南京，在秣陵路小学读书（原崔八巷小学）1947年入金陵大学外语系（后转入",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "勃兰特任联邦德国总理",
+    "link" : "http:\/\/baike.baidu.com\/view\/406075.htm",
+    "year" : "1969",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "维利·勃兰特（亦作威利·勃兰特 Willy Brandt，1913年—1992年），德国政治家，1969年—1974年任西德总理，以和苏联集团和解的新",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "国民党将领何应钦逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/91718.htm",
+    "year" : "1987",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "何应钦（1890年4月2日－1987年10月21日），男，字敬之，贵州兴义人。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "香港著名出版界人士石景宜逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/371099.htm",
+    "year" : "2007",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "石景宜，著名出版家、香港汉荣书局创办人。汉荣书局是香港教育机构订书的首选之地，它率先实现了现代化管理。如今，汉荣书局拥",
+    "cover" : false
+  }
+]

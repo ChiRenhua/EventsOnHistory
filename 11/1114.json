@@ -1,0 +1,155 @@
+[
+  {
+    "recommend" : false,
+    "title" : "秦王子婴投降，秦朝灭亡",
+    "link" : "http:\/\/baike.baidu.com\/view\/75235.htm",
+    "year" : "-207",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "秦王子婴(？―前206年)，即秦三世，汉族，嬴姓，名子婴，或单名婴。秦朝最后一个统治者，在位仅46天。初称皇帝，后来改称“秦王",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "安史之乱，郭子仪收复西京",
+    "link" : "http:\/\/baike.baidu.com\/view\/2795.htm",
+    "year" : "757",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "安史之乱是中国唐代所发生的一场政治叛乱，是由安禄山与史思明发动，同中央政权争夺统治权的战争， 也是唐朝由盛而衰的转折点。",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "北宋皇帝宋太祖赵匡胤逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/8071\/9375671.htm",
+    "year" : "976",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "宋太祖赵匡胤（927年3月21日－976年11月14日），字元朗，宋朝开国皇帝。后唐明宗天成年间（927年3月21日）生于洛阳夹马营（今河",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "英国国王威廉三世出生",
+    "link" : "http:\/\/baike.baidu.com\/subview\/253615\/6223416.htm",
+    "year" : "1650",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "英格兰的威廉三世（William III，1650年—1702年），即苏格兰的威廉二世、奥兰治的威廉亲王，奥兰治亲王、荷兰执政、英国国王。",
+    "cover" : false
+  },
+  {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/d9f09c5afd2e78ab7c00aa8b63b5b105_134_100.jpg",
+    "title" : "德国古典哲学之集大成者黑格尔逝世",
+    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/357c32c8c6da1b5f048fdd97c21b484e_80_80.jpg",
+    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/ce04c1142207cbdf0c642d81d0ae1c07_360_212.jpg",
+    "link" : "http:\/\/baike.baidu.com\/view\/1274694.htm",
+    "year" : "1831",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "黑格尔是德国著名哲学家。他是由康德启始的德国古典哲学运动的巅峰，对德国资产阶级的国家哲学作了最系统、最丰富和最完整的阐述。他的辩证法是马克思唯物主义辩证法的主要源流。"
+  },
+  {
+    "recommend" : true,
+    "title" : "法国印象派画家莫奈出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/480597.htm",
+    "year" : "1840",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "克劳德·莫奈（Claude Monet，1840年11月14日－1926年12月5日），法国画家，印象派代表人物和创始人之一。莫奈是法国最重要的画",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "印度首任总理贾瓦哈拉尔·尼赫鲁出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/147094.htm",
+    "year" : "1889",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "贾瓦哈拉尔·尼赫鲁，印度开国总理，也是印度在位时间最长的总理，任期为1947年到1964年。他是印度独立运动的参与人，主张印度要",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "清德宗光绪皇帝载湉逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/119841.htm",
+    "year" : "1908",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "清德宗爱新觉罗·载湉（zǎi tián）（1871年8月14日—1908年11月14日），清朝第十一位皇帝，也是清朝入主中原之后的第九位皇帝，",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "摩洛哥危机结束",
+    "link" : "http:\/\/baike.baidu.com\/view\/89486.htm",
+    "year" : "1911",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "20世纪初期，法、德两国为争夺摩洛哥所引起的战争危机。摩洛哥北临地中海，西接大西洋。它的重要港口丹吉尔扼大西洋进入地中海",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国结构工程师林同炎出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/158553.htm",
+    "year" : "1912",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "(1912～2003 )，原名林同棪，西方常称之为T. Y. Lin或Tung-yen Lin。美国工程院院士、中国科学院外籍院士、“中央研究院院士”",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "第一次世界大战，索姆河战役结束",
+    "link" : "http:\/\/baike.baidu.com\/view\/381232.htm",
+    "year" : "1916",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "索姆河战役（英语：Battle of Somme法语：Bataille de la Somme）是第一次世界大战中规模最大的一次会战，时间发生在1916年7月1",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "中国共产党革命烈士江竹筠逝世",
+    "link" : "http:\/\/baike.baidu.com\/subview\/59656\/5039435.htm",
+    "year" : "1949",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "江姐是对著名的革命烈士江竹筠的爱称，曾用名江志炜。江竹筠1920年8月20日出生于四川省自贡市大安区大山铺镇江家湾的一个农民家",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "第167任法国总理多米尼克·德维尔潘出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/201876.htm",
+    "year" : "1953",
+    "type" : "birth",
+    "festival" : "",
+    "desc" : "多米尼克·德·德维尔潘（Dominique de Villepin，1953年11月14日－），出生在摩洛哥首都拉巴特，前法国总理。巴黎政治学院、法国",
+    "cover" : false
+  },
+  {
+    "recommend" : true,
+    "title" : "在越南战争中，德浪河谷战役爆发",
+    "link" : "http:\/\/baike.baidu.com\/view\/1615980.htm",
+    "year" : "1965",
+    "type" : "event",
+    "festival" : "",
+    "desc" : "越南战争中美越第一次交锋，美军2个空骑营和1个炮兵营及空军，与北越人民军2个团交战，双方都认为取得了很大的战果，都认为己方",
+    "cover" : false
+  },
+  {
+    "recommend" : false,
+    "title" : "日本共产党领导人野坂参三逝世",
+    "link" : "http:\/\/baike.baidu.com\/view\/829369.htm",
+    "year" : "1993",
+    "type" : "death",
+    "festival" : "",
+    "desc" : "野坂参三(のさか さんぞう，1892～1993)，日本共产党中央委员会前名誉主席。山口县人。庆应大学毕业。大学学习期间加入“友爱会",
+    "cover" : false
+  }
+]
