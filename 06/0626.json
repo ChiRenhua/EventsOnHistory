@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "秘鲁最高行政长官弗朗西斯科·皮萨罗被杀\n",
+    "title" : "秘鲁最高行政长官弗朗西斯科·皮萨罗被杀",
     "link" : "http:\/\/baike.baidu.com\/view\/203322.htm",
     "year" : "1541",
     "type" : "death",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "法国天文学家夏尔·梅西耶出生\n",
+    "title" : "法国天文学家夏尔·梅西耶出生",
     "link" : "http:\/\/baike.baidu.com\/view\/2668124.htm",
     "year" : "1730",
     "type" : "birth",
@@ -23,18 +23,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/1ffdf322a894fcfa305230b80086e02f_134_100.jpg",
-    "title" : "热力学温标的发明者威廉·汤姆森出生\n",
+    "title" : "热力学温标的发明者威廉·汤姆森出生",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/51bfd67950669b0a32550c48025ae8e9_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/6b2602d522a971f3cb9a8e0f256cc0a4_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/2672001.htm",
     "year" : "1824",
     "type" : "birth",
     "festival" : "国际禁毒日",
-    "desc" : "威廉·汤姆森，爱尔兰数学物理学家、工程师。17岁进入剑桥大学，22岁被任命为格拉斯哥大学教授。他开创了热力学温标，被称为热力学之父。为了纪念汤姆森，热力学温标的单位被命名为开尔文。\n"
+    "desc" : "威廉·汤姆森，爱尔兰数学物理学家、工程师。17岁进入剑桥大学，22岁被任命为格拉斯哥大学教授。他开创了热力学温标，被称为热力学之父。为了纪念汤姆森，热力学温标的单位被命名为开尔文。"
   },
   {
     "recommend" : true,
-    "title" : "英国国王乔治·奥古斯塔斯·弗雷德里克去世\n",
+    "title" : "英国国王乔治·奥古斯塔斯·弗雷德里克去世",
     "link" : "http:\/\/baike.baidu.com\/view\/253538.htm",
     "year" : "1830",
     "type" : "death",
@@ -44,7 +44,7 @@
   },
   {
     "recommend" : false,
-    "title" : "《马赛曲》作者鲁日·德·李尔去世\n",
+    "title" : "《马赛曲》作者鲁日·德·李尔去世",
     "link" : "http:\/\/baike.baidu.com\/view\/9328911.htm",
     "year" : "1836",
     "type" : "death",
@@ -54,7 +54,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国女作家赛珍珠出生\n",
+    "title" : "美国女作家赛珍珠出生",
     "link" : "http:\/\/baike.baidu.com\/view\/68113.htm",
     "year" : "1892",
     "type" : "birth",
@@ -64,7 +64,7 @@
   },
   {
     "recommend" : false,
-    "title" : "德国军队使用大贝尔塔炮轰击巴黎\n",
+    "title" : "德国军队使用大贝尔塔炮轰击巴黎",
     "link" : "http:\/\/baike.baidu.com\/view\/1369849.htm",
     "year" : "1918",
     "type" : "event",
@@ -74,7 +74,7 @@
   },
   {
     "recommend" : false,
-    "title" : "世界第一架可正常操纵的直升机首次试飞成功\n",
+    "title" : "世界第一架可正常操纵的直升机首次试飞成功",
     "link" : "http:\/\/baike.baidu.com\/view\/22518.htm",
     "year" : "1936",
     "type" : "event",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : false,
-    "title" : "血型的发现者兰德施泰纳去世\n",
+    "title" : "血型的发现者兰德施泰纳去世",
     "link" : "http:\/\/baike.baidu.com\/view\/148768.htm",
     "year" : "1943",
     "type" : "death",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "苏联斯大林获“苏联英雄”称号\n",
+    "title" : "苏联斯大林获“苏联英雄”称号",
     "link" : "http:\/\/baike.baidu.com\/view\/476721.htm",
     "year" : "1945",
     "type" : "event",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国天文学家高鲁逝世\n",
+    "title" : "中国天文学家高鲁逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/131883\/8694902.htm",
     "year" : "1947",
     "type" : "death",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "圣劳伦斯河通海航道正式开放\n",
+    "title" : "圣劳伦斯河通海航道正式开放",
     "link" : "http:\/\/baike.baidu.com\/view\/75622.htm",
     "year" : "1959",
     "type" : "event",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国演员王志文出生\n",
+    "title" : "中国演员王志文出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/8347\/5786180.htm",
     "year" : "1966",
     "type" : "birth",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日本漫画家许斐刚出生\n",
+    "title" : "日本漫画家许斐刚出生",
     "link" : "http:\/\/baike.baidu.com\/view\/137454.htm",
     "year" : "1970",
     "type" : "birth",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国首次在国内发行外币债券\n",
+    "title" : "中国首次在国内发行外币债券",
     "link" : "http:\/\/baike.baidu.com\/view\/168729.htm",
     "year" : "1993",
     "type" : "event",

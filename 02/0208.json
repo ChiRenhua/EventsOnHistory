@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "伊利汗国的建立者旭烈兀逝世\n",
+    "title" : "伊利汗国的建立者旭烈兀逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/6342813.htm",
     "year" : "1265",
     "type" : "death",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "苏格兰女王玛丽一世被斩首处死\n",
+    "title" : "苏格兰女王玛丽一世被斩首处死",
     "link" : "http:\/\/baike.baidu.com\/subview\/243551\/6172694.htm ",
     "year" : "1587",
     "type" : "death",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国作家与艺术评论家约翰·拉斯金出生\n",
+    "title" : "英国作家与艺术评论家约翰·拉斯金出生",
     "link" : "http:\/\/baike.baidu.com\/view\/44982.htm \" target=\"_blank\">约翰·拉斯金出生",
     "year" : "1819",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : false,
-    "title" : "法国科幻小说先驱儒勒·凡尔纳出生\n",
+    "title" : "法国科幻小说先驱儒勒·凡尔纳出生",
     "link" : "http:\/\/baike.baidu.com\/view\/25670.htm",
     "year" : "1828",
     "type" : "birth",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "内蒙古王公德王出生\n",
+    "title" : "内蒙古王公德王出生",
     "link" : "http:\/\/baike.baidu.com\/view\/1124364.htm ",
     "year" : "1902",
     "type" : "birth",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日俄战争爆发\n",
+    "title" : "日俄战争爆发",
     "link" : "http:\/\/baike.baidu.com\/view\/43806.htm",
     "year" : "1904",
     "type" : "event",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : true,
-    "title" : "赫里克发表第一张记录心脏功能的心电图\n",
+    "title" : "赫里克发表第一张记录心脏功能的心电图",
     "link" : "http:\/\/baike.baidu.com\/view\/20611.htm",
     "year" : "1918",
     "type" : "event",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "无政府主义者彼得·克鲁泡特金逝世\n",
+    "title" : "无政府主义者彼得·克鲁泡特金逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1668256.htm ",
     "year" : "1921",
     "type" : "death",
@@ -83,18 +83,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/9b801872d63726975381f0a57b24b05a_134_100.png",
-    "title" : "美国考古探察队在墨西哥发现玛雅金字塔\n",
+    "title" : "美国考古探察队在墨西哥发现玛雅金字塔",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/2750bc37a4d0e54ee0491197d8a5c2dc_80_80.png",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-24\/8c929a3ac870e49dea0aea5e9c64353b_360_212.png",
     "link" : "http:\/\/baike.baidu.com\/view\/60615.htm",
     "year" : "1926",
     "type" : "event",
     "festival" : "",
-    "desc" : "玛雅金字塔是玛雅文明的象征，堪与埃及金字塔媲美。但玛雅金字塔和埃及金字塔不同，主要用于举行宗教仪式，仅有极少玛雅金字塔具有陵墓的功能，外型上是平顶，塔顶的台上建有庙宇。\n"
+    "desc" : "玛雅金字塔是玛雅文明的象征，堪与埃及金字塔媲美。但玛雅金字塔和埃及金字塔不同，主要用于举行宗教仪式，仅有极少玛雅金字塔具有陵墓的功能，外型上是平顶，塔顶的台上建有庙宇。"
   },
   {
     "recommend" : false,
-    "title" : "好莱坞电影配乐大师约翰·威廉姆斯出生\n",
+    "title" : "好莱坞电影配乐大师约翰·威廉姆斯出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/428724\/13474885.htm",
     "year" : "1932",
     "type" : "birth",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中国教授易中天出生\n",
+    "title" : "中国教授易中天出生",
     "link" : "http:\/\/baike.baidu.com\/view\/19398.htm",
     "year" : "1947",
     "type" : "birth",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "匈牙利裔美国数学家约翰·冯·诺依曼逝世\n",
+    "title" : "匈牙利裔美国数学家约翰·冯·诺依曼逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/54300.htm",
     "year" : "1957",
     "type" : "death",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : true,
-    "title" : "北京国际马拉松赛被纳入正式的国际马拉松比赛\n",
+    "title" : "北京国际马拉松赛被纳入正式的国际马拉松比赛",
     "link" : "http:\/\/baike.baidu.com\/view\/43000.htm ",
     "year" : "1982",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : true,
-    "title" : "民国四大家族成员陈立夫逝世\n",
+    "title" : "民国四大家族成员陈立夫逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/60333.htm",
     "year" : "2001",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "新加坡首任民选总统王鼎昌逝世\n",
+    "title" : "新加坡首任民选总统王鼎昌逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/274733\/6405487.htm ",
     "year" : "2002",
     "type" : "death",

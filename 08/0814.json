@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "教宗庇护二世逝世\n",
+    "title" : "教宗庇护二世逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/644091.htm",
     "year" : "1464",
     "type" : "death",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "普鲁士国王腓特烈·威廉一世出生\n",
+    "title" : "普鲁士国王腓特烈·威廉一世出生",
     "link" : "http:\/\/baike.baidu.com\/view\/1101749.htm",
     "year" : "1688",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : false,
-    "title" : "丹麦物理学家奥斯特出生\n",
+    "title" : "丹麦物理学家奥斯特出生",
     "link" : "http:\/\/baike.baidu.com\/view\/3409705.htm",
     "year" : "1777",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : false,
-    "title" : "清朝光绪皇帝爱新觉罗·载湉出生\n",
+    "title" : "清朝光绪皇帝爱新觉罗·载湉出生",
     "link" : "http:\/\/baike.baidu.com\/view\/119841.htm",
     "year" : "1871",
     "type" : "birth",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "八国联军攻陷北京\n",
+    "title" : "八国联军攻陷北京",
     "link" : "http:\/\/baike.baidu.com\/subview\/8712\/11149570.htm",
     "year" : "1900",
     "type" : "event",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "语言学家马建忠去世\n",
+    "title" : "语言学家马建忠去世",
     "link" : "http:\/\/baike.baidu.com\/subview\/128175\/8948876.htm",
     "year" : "1900",
     "type" : "death",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中华民国国民革命军将领黄梅兴逝世\n",
+    "title" : "中华民国国民革命军将领黄梅兴逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/192683.htm",
     "year" : "1937",
     "type" : "death",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "《大西洋宪章》正式公布\n",
+    "title" : "《大西洋宪章》正式公布",
     "link" : "http:\/\/baike.baidu.com\/view\/82711.htm",
     "year" : "1941",
     "type" : "event",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "德国戏剧家布莱希特逝世\n",
+    "title" : "德国戏剧家布莱希特逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/289426.htm",
     "year" : "1956",
     "type" : "death",
@@ -91,7 +91,7 @@
   },
   {
     "recommend" : true,
-    "title" : "香港政界人物李国麟出生\n",
+    "title" : "香港政界人物李国麟出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/284501\/9383838.htm",
     "year" : "1959",
     "type" : "birth",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : true,
-    "title" : "法拉利汽车公司的创始人恩佐·法拉利逝世\n",
+    "title" : "法拉利汽车公司的创始人恩佐·法拉利逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/111248\/15348040.htm",
     "year" : "1988",
     "type" : "death",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "长征二号火箭发射澳星成功\n",
+    "title" : "长征二号火箭发射澳星成功",
     "link" : "http:\/\/baike.baidu.com\/view\/1242214.htm",
     "year" : "1992",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国和南非科学家发现最早的人类足迹\n",
+    "title" : "美国和南非科学家发现最早的人类足迹",
     "link" : "http:\/\/baike.baidu.com\/view\/105868.htm",
     "year" : "1997",
     "type" : "event",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中国首辆国产磁悬浮客车下线\n",
+    "title" : "中国首辆国产磁悬浮客车下线",
     "link" : "http:\/\/baike.baidu.com\/view\/451406.htm",
     "year" : "2001",
     "type" : "event",

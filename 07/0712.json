@@ -1,17 +1,17 @@
 [
   {
     "recommend" : false,
-    "title" : "罗马共和国军事统帅盖盖乌斯·尤利乌斯·恺撒大帝诞生\n",
+    "title" : "罗马共和国军事统帅盖盖乌斯·尤利乌斯·恺撒大帝诞生",
     "link" : "http:\/\/baike.baidu.com\/view\/987855.htm",
     "year" : "-102",
     "type" : "birth",
     "festival" : "",
-    "desc" : "前102年，罗马共和国军事统帅盖乌斯&#8226;尤利乌斯&#8226;恺撒出生。\n恺撒大帝，古罗马杰出的军事统帅、政治家。前49年占领罗马，实施独裁统治，一度征战高卢、日耳曼等地。后遭到元老院60多人暗杀身亡，一生极富传奇色彩，是史学界研究的重要人物。\n",
+    "desc" : "前102年，罗马共和国军事统帅盖乌斯&#8226;尤利乌斯&#8226;恺撒出生。恺撒大帝，古罗马杰出的军事统帅、政治家。前49年占领罗马，实施独裁统治，一度征战高卢、日耳曼等地。后遭到元老院60多人暗杀身亡，一生极富传奇色彩，是史学界研究的重要人物。",
     "cover" : false
   },
   {
     "recommend" : false,
-    "title" : "赤壁之战爆发\n",
+    "title" : "赤壁之战爆发",
     "link" : "http:\/\/baike.baidu.com\/subview\/22710\/11094771.htm",
     "year" : "208",
     "type" : "event",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "西欧人文主义者伊拉斯谟逝世\n",
+    "title" : "西欧人文主义者伊拉斯谟逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/399063\/13496016.htm",
     "year" : "1536",
     "type" : "death",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国开国元勋亚历山大·汉密尔顿逝世\n",
+    "title" : "美国开国元勋亚历山大·汉密尔顿逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/674096.htm",
     "year" : "1804",
     "type" : "death",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国作家亨利·戴维·梭罗诞生\n",
+    "title" : "美国作家亨利·戴维·梭罗诞生",
     "link" : "http:\/\/baike.baidu.com\/view\/179031.htm",
     "year" : "1817",
     "type" : "birth",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : true,
-    "title" : "科达照相机发明者乔治·伊士曼出生\n",
+    "title" : "科达照相机发明者乔治·伊士曼出生",
     "link" : "http:\/\/baike.baidu.com\/view\/1640964.htm",
     "year" : "1854",
     "type" : "birth",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "意大利画家莫迪利阿尼诞辰\n",
+    "title" : "意大利画家莫迪利阿尼诞辰",
     "link" : "http:\/\/baike.baidu.com\/view\/1189481.htm",
     "year" : "1884",
     "type" : "birth",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "智利诗人聂鲁达诞辰\n",
+    "title" : "智利诗人聂鲁达诞辰",
     "link" : "http:\/\/baike.baidu.com\/view\/1388238.htm",
     "year" : "1904",
     "type" : "birth",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "孙中山讨伐袁世凯发动“二次革命”\n",
+    "title" : "孙中山讨伐袁世凯发动“二次革命”",
     "link" : "http:\/\/baike.baidu.com\/view\/22108.htm",
     "year" : "1913",
     "type" : "event",
@@ -91,7 +91,7 @@
   },
   {
     "recommend" : false,
-    "title" : "溥仪复辟帝制结束\n",
+    "title" : "溥仪复辟帝制结束",
     "link" : "http:\/\/baike.baidu.com\/view\/20788.htm",
     "year" : "1917",
     "type" : "event",
@@ -101,7 +101,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国在阿尔及利亚歼灭法国舰队\n",
+    "title" : "英国在阿尔及利亚歼灭法国舰队",
     "link" : "http:\/\/baike.baidu.com\/view\/10991.htm",
     "year" : "1940",
     "type" : "event",
@@ -111,7 +111,7 @@
   },
   {
     "recommend" : false,
-    "title" : "吉尔伯特群岛脱离英国统治而独立\n",
+    "title" : "吉尔伯特群岛脱离英国统治而独立",
     "link" : "http:\/\/baike.baidu.com\/view\/109089.htm",
     "year" : "1979",
     "type" : "event",
@@ -121,7 +121,7 @@
   },
   {
     "recommend" : false,
-    "title" : "《撒旦诗篇》日文版译者五十岚一逝世\n",
+    "title" : "《撒旦诗篇》日文版译者五十岚一逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1164752.htm",
     "year" : "1991",
     "type" : "event",
@@ -131,7 +131,7 @@
   },
   {
     "recommend" : false,
-    "title" : "军事家李达逝世\n",
+    "title" : "军事家李达逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/1797\/5074567.htm",
     "year" : "1993",
     "type" : "death",
@@ -143,7 +143,7 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/5958e3d554d47509f7da6944e82de813_134_100.jpg",
-    "title" : "中国著名的相声表演艺术家郭全宝逝世\n",
+    "title" : "中国著名的相声表演艺术家郭全宝逝世",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/66502dea2dddb0ab0ddb5d51d7eb75ad_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-10\/40260b9aafdad55e7e21cbb7d27256e2_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/138016.htm",

@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "牛顿发表《自然哲学的数学原理》\n",
+    "title" : "牛顿发表《自然哲学的数学原理》",
     "link" : "http:\/\/baike.baidu.com\/view\/44630.htm",
     "year" : "1687",
     "type" : "event",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "委内瑞拉独立\n",
+    "title" : "委内瑞拉独立",
     "link" : "http:\/\/baike.baidu.com\/subview\/17639\/5236620.htm",
     "year" : "1811",
     "type" : "event",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "英国政治家莱佛士去世\n",
+    "title" : "英国政治家莱佛士去世",
     "link" : "http:\/\/baike.baidu.com\/view\/556810.htm",
     "year" : "1826",
     "type" : "death",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "国际妇女运动领袖克莱拉·蔡特金出生\n",
+    "title" : "国际妇女运动领袖克莱拉·蔡特金出生",
     "link" : "http:\/\/baike.baidu.com\/view\/896285.htm",
     "year" : "1857",
     "type" : "birth",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "《辞海》出版的主编舒新城出生\n",
+    "title" : "《辞海》出版的主编舒新城出生",
     "link" : "http:\/\/baike.baidu.com\/view\/147361.htm",
     "year" : "1893",
     "type" : "birth",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "法国总统蓬皮杜诞辰\n",
+    "title" : "法国总统蓬皮杜诞辰",
     "link" : "http:\/\/baike.baidu.com\/view\/209993.htm",
     "year" : "1911",
     "type" : "birth",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第八届夏季奥林匹克运动会在法国巴黎举办\n",
+    "title" : "第八届夏季奥林匹克运动会在法国巴黎举办",
     "link" : "http:\/\/baike.baidu.com\/view\/296238.htm",
     "year" : "1924",
     "type" : "event",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "赵一曼牺牲\n",
+    "title" : "赵一曼牺牲",
     "link" : "http:\/\/baike.baidu.com\/subview\/18084\/9209971.htm",
     "year" : "1937",
     "type" : "death",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "苏联与德国法西斯军队库尔斯克战役开始\n",
+    "title" : "苏联与德国法西斯军队库尔斯克战役开始",
     "link" : "http:\/\/baike.baidu.com\/view\/145170.htm",
     "year" : "1943",
     "type" : "event",
@@ -91,7 +91,7 @@
   },
   {
     "recommend" : false,
-    "title" : "德国建筑师瓦尔特·格罗皮乌斯\n",
+    "title" : "德国建筑师瓦尔特·格罗皮乌斯",
     "link" : "http:\/\/baike.baidu.com\/view\/122900.htm",
     "year" : "1969",
     "type" : "death",
@@ -101,7 +101,7 @@
   },
   {
     "recommend" : false,
-    "title" : "法国电影女演员伊娃·格林出生\n",
+    "title" : "法国电影女演员伊娃·格林出生",
     "link" : "http:\/\/baike.baidu.com\/view\/898679.htm",
     "year" : "1980",
     "type" : "birth",
@@ -111,7 +111,7 @@
   },
   {
     "recommend" : false,
-    "title" : "意大利足球运动员阿尔贝托·吉拉迪诺出生\n",
+    "title" : "意大利足球运动员阿尔贝托·吉拉迪诺出生",
     "link" : "http:\/\/baike.baidu.com\/view\/136154.htm",
     "year" : "1982",
     "type" : "birth",
@@ -121,7 +121,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日本内阁总理大臣福田赳夫去世\n",
+    "title" : "日本内阁总理大臣福田赳夫去世",
     "link" : "http:\/\/baike.baidu.com\/view\/254287.htm",
     "year" : "1995",
     "type" : "death",
@@ -133,18 +133,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-28\/f24b7a874f214763093fb17d29683f04_134_100.jpg",
-    "title" : "世界第一只体细胞克隆动物克隆羊多莉诞生\n",
+    "title" : "世界第一只体细胞克隆动物克隆羊多莉诞生",
     "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-28\/9f892fdd48244fbb98b2f78640996c3b_80_80.jpg",
     "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-28\/8db597966bdea00bab8c26f6453910c8_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/1023593.htm",
     "year" : "1996",
     "type" : "birth",
     "festival" : "",
-    "desc" : "1996年，世界第一只体细胞克隆动物克隆羊多莉诞生。\n绵羊多莉，是世界上第一只无性繁殖的哺乳动物，她的诞生被《科学》杂志评为1997年世界十大科技进步的第一项，也是当年最引人注目的国际事件之一。多莉已于2003年死亡。\n"
+    "desc" : "1996年，世界第一只体细胞克隆动物克隆羊多莉诞生。绵羊多莉，是世界上第一只无性繁殖的哺乳动物，她的诞生被《科学》杂志评为1997年世界十大科技进步的第一项，也是当年最引人注目的国际事件之一。多莉已于2003年死亡。"
   },
   {
     "recommend" : false,
-    "title" : "张爱萍上将去世\n",
+    "title" : "张爱萍上将去世",
     "link" : "http:\/\/baike.baidu.com\/view\/34568.htm",
     "year" : "2003",
     "type" : "death",
@@ -154,7 +154,7 @@
   },
   {
     "recommend" : false,
-    "title" : "重症急性呼吸综合征已经获得控制\n",
+    "title" : "重症急性呼吸综合征已经获得控制",
     "link" : "http:\/\/baike.baidu.com\/view\/10683080.htm",
     "year" : "2004",
     "type" : "event",

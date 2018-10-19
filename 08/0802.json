@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "希腊人的国王康斯坦丁一世出生\n",
+    "title" : "希腊人的国王康斯坦丁一世出生",
     "link" : "http:\/\/baike.baidu.com\/view\/1536632.htm",
     "year" : "1868",
     "type" : "birth",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "华纳兄弟电影公司创办人杰克·华纳出生\n",
+    "title" : "华纳兄弟电影公司创办人杰克·华纳出生",
     "link" : "http:\/\/baike.baidu.com\/view\/3900714.htm",
     "year" : "1901",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第一次世界大战全面爆发\n",
+    "title" : "第一次世界大战全面爆发",
     "link" : "http:\/\/baike.baidu.com\/view\/26747.htm",
     "year" : "1914",
     "type" : "event",
@@ -44,7 +44,7 @@
   },
   {
     "recommend" : false,
-    "title" : "香港政界人物方心让出生\n",
+    "title" : "香港政界人物方心让出生",
     "link" : "http:\/\/baike.baidu.com\/view\/851654.htm",
     "year" : "1923",
     "type" : "birth",
@@ -54,7 +54,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国总统沃伦·G·哈定逝世\n",
+    "title" : "美国总统沃伦·G·哈定逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/62887.htm",
     "year" : "1923",
     "type" : "death",
@@ -64,7 +64,7 @@
   },
   {
     "recommend" : false,
-    "title" : "希特勒继任德国总统\n",
+    "title" : "希特勒继任德国总统",
     "link" : "http:\/\/baike.baidu.com\/view\/14296.htm",
     "year" : "1934",
     "type" : "event",
@@ -74,7 +74,7 @@
   },
   {
     "recommend" : true,
-    "title" : "著名相声表演艺术家、相声大师马季出生\n",
+    "title" : "著名相声表演艺术家、相声大师马季出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/21106\/11149387.htm",
     "year" : "1934",
     "type" : "birth",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : true,
-    "title" : "抗日女英雄赵一曼英勇就义\n",
+    "title" : "抗日女英雄赵一曼英勇就义",
     "link" : "http:\/\/baike.baidu.com\/subview\/18084\/9209971.htm",
     "year" : "1936",
     "type" : "event",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "意大利作曲家马斯卡尼逝世\n",
+    "title" : "意大利作曲家马斯卡尼逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/879404.htm",
     "year" : "1945",
     "type" : "death",
@@ -104,17 +104,17 @@
   },
   {
     "recommend" : false,
-    "title" : "香港演员吴君如出生\n",
-    "link" : "http:\/\/baike.baidu.com\/view\/43719.htm\n",
+    "title" : "香港演员吴君如出生",
+    "link" : "http:\/\/baike.baidu.com\/view\/43719.htm",
     "year" : "1965",
     "type" : "birth",
     "festival" : "",
-    "desc" : "吴君如，1965年8月2日出生于香港，籍贯广东省番禺。中国香港女演员、歌手、主持人。\n16岁进入无线电视艺员训练班，毕业之后在TVB参演电视剧，1988年参演王晶执导的《霸王花》系列电影，正式在电影圈发展。1993年，发表粤语专辑《我有我的温柔》，并获得叱咤乐坛流行榜颁奖典礼生力军女歌星银奖",
+    "desc" : "吴君如，1965年8月2日出生于香港，籍贯广东省番禺。中国香港女演员、歌手、主持人。16岁进入无线电视艺员训练班，毕业之后在TVB参演电视剧，1988年参演王晶执导的《霸王花》系列电影，正式在电影圈发展。1993年，发表粤语专辑《我有我的温柔》，并获得叱咤乐坛流行榜颁奖典礼生力军女歌星银奖",
     "cover" : false
   },
   {
     "recommend" : true,
-    "title" : "我国第一批援藏教师响应祖国号召奔赴西藏支教\n",
+    "title" : "我国第一批援藏教师响应祖国号召奔赴西藏支教",
     "link" : "http:\/\/baike.baidu.com\/subview\/2684\/14768329.htm",
     "year" : "1974",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "伊拉克军队进攻科威特引发海湾危机\n",
+    "title" : "伊拉克军队进攻科威特引发海湾危机",
     "link" : "http:\/\/baike.baidu.com\/view\/7692.htm",
     "year" : "1990",
     "type" : "event",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : true,
-    "title" : "日本漫画家赤冢不二夫逝世\n",
+    "title" : "日本漫画家赤冢不二夫逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/299015.htm",
     "year" : "2008",
     "type" : "death",

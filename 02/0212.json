@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "唐朝诗人杜甫出生\n",
+    "title" : "唐朝诗人杜甫出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/2211\/9582491.htm",
     "year" : "712",
     "type" : "birth",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "奥地利帝国首位皇帝弗朗茨二世出生\n",
+    "title" : "奥地利帝国首位皇帝弗朗茨二世出生",
     "link" : "http:\/\/baike.baidu.com\/view\/207417.htm ",
     "year" : "1768",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : false,
-    "title" : "楞次定律发现者海因里希·楞次出生\n",
+    "title" : "楞次定律发现者海因里希·楞次出生",
     "link" : "http:\/\/baike.baidu.com\/view\/5956370.htm ",
     "year" : "1804",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : false,
-    "title" : "德国哲学家伊曼努尔·康德逝世\n",
+    "title" : "德国哲学家伊曼努尔·康德逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/145758.htm ",
     "year" : "1804",
     "type" : "death",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国生物学家查尔斯·达尔文出生\n",
+    "title" : "英国生物学家查尔斯·达尔文出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/283306\/11110144.htm",
     "year" : "1809",
     "type" : "birth",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国第16任总统亚伯拉罕·林肯出生\n",
+    "title" : "美国第16任总统亚伯拉罕·林肯出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/2063\/7140082.htm",
     "year" : "1809",
     "type" : "birth",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "智利从西班牙殖民统治中独立\n",
+    "title" : "智利从西班牙殖民统治中独立",
     "link" : "http:\/\/baike.baidu.com\/view\/10206.htm",
     "year" : "1818",
     "type" : "event",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "夏威夷王国卡拉卡瓦国王登基\n",
+    "title" : "夏威夷王国卡拉卡瓦国王登基",
     "link" : "http:\/\/baike.baidu.com\/view\/480151.htm ",
     "year" : "1874",
     "type" : "event",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "著名爱国将领丁汝昌逝世\n",
+    "title" : "著名爱国将领丁汝昌逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/21612.htm",
     "year" : "1895",
     "type" : "death",
@@ -93,18 +93,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/04b1b4ac464e8867750a129648e6b921_134_100.jpg",
-    "title" : "溥仪退位，延续两千多年的封建帝制结束\n",
+    "title" : "溥仪退位，延续两千多年的封建帝制结束",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/dcf8bc6854028fbfa75eb6d37e27045d_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-25\/b2bfd51870acd764ace1549ef84e94fe_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/20788.htm ",
     "year" : "1912",
     "type" : "event",
     "festival" : "",
-    "desc" : "辛亥革命的爆发瓦解了清朝统治，溥仪的退位标志着统治中国260多年的清王朝被推翻，长达2000多年的封建君主专制制度彻底结束。清朝成为中国历史上最后一个封建帝制国家。\n"
+    "desc" : "辛亥革命的爆发瓦解了清朝统治，溥仪的退位标志着统治中国260多年的清王朝被推翻，长达2000多年的封建君主专制制度彻底结束。清朝成为中国历史上最后一个封建帝制国家。"
   },
   {
     "recommend" : true,
-    "title" : "庇护十一世当选教皇\n",
+    "title" : "庇护十一世当选教皇",
     "link" : "http:\/\/baike.baidu.com\/view\/776107.htm ",
     "year" : "1922",
     "type" : "event",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : true,
-    "title" : "考古学家打开古埃及法老图坦卡蒙的石棺\n",
+    "title" : "考古学家打开古埃及法老图坦卡蒙的石棺",
     "link" : "http:\/\/baike.baidu.com\/view\/34357.htm",
     "year" : "1924",
     "type" : "event",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : true,
-    "title" : "法国著名导演让·雷诺阿逝世\n",
+    "title" : "法国著名导演让·雷诺阿逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/716404.htm ",
     "year" : "1979",
     "type" : "death",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : true,
-    "title" : "史努比的父亲查尔斯·舒尔茨逝世\n",
+    "title" : "史努比的父亲查尔斯·舒尔茨逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/751464.htm ",
     "year" : "2000",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "法国共产党创始人和领导人之一马赛尔·加香逝世\n",
+    "title" : "法国共产党创始人和领导人之一马赛尔·加香逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/635120.htm ",
     "year" : "2005",
     "type" : "death",

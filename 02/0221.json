@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "俄罗斯帝国皇帝彼得三世·费奥多罗维奇出生\n",
+    "title" : "俄罗斯帝国皇帝彼得三世·费奥多罗维奇出生",
     "link" : "http:\/\/baike.baidu.com\/view\/2967043.htm",
     "year" : "1728",
     "type" : "birth",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "弗里德里希·卡尔·冯·萨维尼出生\n",
+    "title" : "弗里德里希·卡尔·冯·萨维尼出生",
     "link" : "http:\/\/baike.baidu.com\/view\/980859.htm",
     "year" : "1779",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : false,
-    "title" : "奥地利作曲家卡尔·车尔尼出生\n",
+    "title" : "奥地利作曲家卡尔·车尔尼出生",
     "link" : "http:\/\/baike.baidu.com\/view\/42004.htm",
     "year" : "1791",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "世界上第一台蒸汽机车亮相\n",
+    "title" : "世界上第一台蒸汽机车亮相",
     "link" : "http:\/\/baike.baidu.com\/view\/128045.htm",
     "year" : "1804",
     "type" : "event",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "马克思和恩格斯在伦敦发表《共产党宣言》\n",
+    "title" : "马克思和恩格斯在伦敦发表《共产党宣言》",
     "link" : "http:\/\/baike.baidu.com\/view\/18535.htm",
     "year" : "1848",
     "type" : "event",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日本水利工程师八田与一出生\n",
+    "title" : "日本水利工程师八田与一出生",
     "link" : "http:\/\/baike.baidu.com\/view\/202533.htm",
     "year" : "1886",
     "type" : "birth",
@@ -71,7 +71,7 @@
   },
   {
     "recommend" : false,
-    "title" : "荷兰物理学家海克·卡末林·昂内斯逝世\n",
+    "title" : "荷兰物理学家海克·卡末林·昂内斯逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/6567030.htm",
     "year" : "1926",
     "type" : "death",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国天文学家乔治·埃勒里·海耳逝世\n",
+    "title" : "美国天文学家乔治·埃勒里·海耳逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/2635249.htm",
     "year" : "1938",
     "type" : "death",
@@ -91,7 +91,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中华民国国民革命军将领赵锡章逝世\n",
+    "title" : "中华民国国民革命军将领赵锡章逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/73278.htm",
     "year" : "1938",
     "type" : "death",
@@ -101,7 +101,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日本著名管理学家大前研一出生\n",
+    "title" : "日本著名管理学家大前研一出生",
     "link" : "http:\/\/baike.baidu.com\/view\/460389.htm",
     "year" : "1943",
     "type" : "birth",
@@ -111,7 +111,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中华民国国民革命军将领张少舫逝世\n",
+    "title" : "中华民国国民革命军将领张少舫逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1346219.htm",
     "year" : "1943",
     "type" : "death",
@@ -121,7 +121,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中华民国国民革命军将领周复逝世\n",
+    "title" : "中华民国国民革命军将领周复逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/234597\/12442670.htm",
     "year" : "1943",
     "type" : "death",
@@ -133,7 +133,7 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-26\/1d5d59bc6aba66a38928eab802bb059e_134_100.jpg",
-    "title" : "美国总统尼克松访问中国\n",
+    "title" : "美国总统尼克松访问中国",
     "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-26\/065fa99dd97ba193fa0c7017c86ecb7c_80_80.jpg",
     "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-26\/b90306807131bec28dc0d8a7c7333f8f_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/89074.htm",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : true,
-    "title" : "任天堂在日本发售了游戏塞尔达传说\n",
+    "title" : "任天堂在日本发售了游戏塞尔达传说",
     "link" : "http:\/\/baike.baidu.com\/view\/230375.htm",
     "year" : "1986",
     "type" : "event",

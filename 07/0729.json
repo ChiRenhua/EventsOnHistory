@@ -1,7 +1,7 @@
 [
   {
     "recommend" : false,
-    "title" : "秦国发生蝗灾，天下大疫\n",
+    "title" : "秦国发生蝗灾，天下大疫",
     "link" : "http:\/\/baike.baidu.com\/view\/178654.htm",
     "year" : "-243",
     "type" : "event",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中国明代戏曲家、文学家汤显祖逝世\n",
+    "title" : "中国明代戏曲家、文学家汤显祖逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/24370.htm",
     "year" : "1616",
     "type" : "death",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "晚清抗法名将冯子材诞生于广西钦州沙尾村\n",
+    "title" : "晚清抗法名将冯子材诞生于广西钦州沙尾村",
     "link" : "http:\/\/baike.baidu.com\/view\/51419.htm",
     "year" : "1818",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "法国巴黎凯旋门建成\n",
+    "title" : "法国巴黎凯旋门建成",
     "link" : "http:\/\/baike.baidu.com\/subview\/18435\/18435.htm",
     "year" : "1836",
     "type" : "event",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : true,
-    "title" : "德国作曲家舒曼逝世\n",
+    "title" : "德国作曲家舒曼逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/45863\/5112543.htm",
     "year" : "1856",
     "type" : "death",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "法西斯党魁墨索里尼出生\n",
+    "title" : "法西斯党魁墨索里尼出生",
     "link" : "http:\/\/baike.baidu.com\/view\/559380.htm",
     "year" : "1883",
     "type" : "birth",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日本政治家重光葵出生\n",
+    "title" : "日本政治家重光葵出生",
     "link" : "http:\/\/baike.baidu.com\/view\/394252.htm",
     "year" : "1887",
     "type" : "birth",
@@ -73,18 +73,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/a29ac9e9a74828d678ecb92058ec87cd_134_100.jpg",
-    "title" : "荷兰后印象派画家文森特·梵高自杀身亡\n",
+    "title" : "荷兰后印象派画家文森特·梵高自杀身亡",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/dc7e54ac6716b1110190e906b63d0196_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/f50c0a54ea3407a10f11ad5f13883bd6_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/17822.htm",
     "year" : "1890",
     "type" : "death",
     "festival" : "",
-    "desc" : "1890年，荷兰后印象派画家文森特·梵高自杀身亡。梵高，后印象主义的先驱，其作品《星夜》《向日葵》等均是目前全球最知名、价值最高的艺术作品。因精神疾病的困扰，在法国瓦兹河饮弹自杀，时年37岁。\n"
+    "desc" : "1890年，荷兰后印象派画家文森特·梵高自杀身亡。梵高，后印象主义的先驱，其作品《星夜》《向日葵》等均是目前全球最知名、价值最高的艺术作品。因精神疾病的困扰，在法国瓦兹河饮弹自杀，时年37岁。"
   },
   {
     "recommend" : false,
-    "title" : "全球华人首富李嘉诚出生\n",
+    "title" : "全球华人首富李嘉诚出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/2141\/5052724.htm",
     "year" : "1928",
     "type" : "birth",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "伦敦奥运会开幕\n",
+    "title" : "伦敦奥运会开幕",
     "link" : "http:\/\/baike.baidu.com\/view\/675221.htm",
     "year" : "1948",
     "type" : "event",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "日韩国职业围棋棋士李昌镐诞生\n",
+    "title" : "日韩国职业围棋棋士李昌镐诞生",
     "link" : "http:\/\/baike.baidu.com\/view\/11177.htm",
     "year" : "1975",
     "type" : "birth",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "葛洲坝二江水电站建成\n",
+    "title" : "葛洲坝二江水电站建成",
     "link" : "http:\/\/baike.baidu.com\/view\/2109094.htm",
     "year" : "1983",
     "type" : "event",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "许海峰为中国赢得第一枚奥运金牌\n",
+    "title" : "许海峰为中国赢得第一枚奥运金牌",
     "link" : "http:\/\/baike.baidu.com\/subview\/35855\/15109130.htm",
     "year" : "1984",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "“两弹”元勋邓稼先逝世\n",
+    "title" : "“两弹”元勋邓稼先逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/3704.htm",
     "year" : "1986",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "意大利前总理贝蒂诺·克拉克西被判刑\n",
+    "title" : "意大利前总理贝蒂诺·克拉克西被判刑",
     "link" : "http:\/\/baike.baidu.com\/view\/5896553.htm",
     "year" : "1994",
     "type" : "event",

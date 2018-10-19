@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "玛丽一世登基为英国和爱尔兰女王\n",
+    "title" : "玛丽一世登基为英国和爱尔兰女王",
     "link" : "http:\/\/baike.baidu.com\/subview\/243551\/6172693.htm",
     "year" : "1553",
     "type" : "event",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "普法战争爆发\n",
+    "title" : "普法战争爆发",
     "link" : "http:\/\/baike.baidu.com\/view\/67404.htm",
     "year" : "1870",
     "type" : "event",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "苏联诗人马雅可夫斯基诞生于格鲁吉亚库塔伊斯省的巴格达吉村\n",
+    "title" : "苏联诗人马雅可夫斯基诞生于格鲁吉亚库塔伊斯省的巴格达吉村",
     "link" : "http:\/\/baike.baidu.com\/view\/119065.htm",
     "year" : "1893",
     "type" : "birth",
@@ -33,18 +33,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/b14a1d800459f919136b1b775185428c_134_100.jpg",
-    "title" : "中国现代杰出画家、美术教育家徐悲鸿诞辰\n",
+    "title" : "中国现代杰出画家、美术教育家徐悲鸿诞辰",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/07d1d0eb8e3dd583de35a48d51f00671_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/0746dbc96cab6174b89e3971d5a58a2a_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/subview\/16552\/13631791.htm",
     "year" : "1895",
     "type" : "birth",
     "festival" : "",
-    "desc" : "1895年，中国现代杰出画家、美术教育家徐悲鸿出生\n徐悲鸿，中国现代著名画家。倡导国画改革，主张将国画与西洋画法相融合，对当时中国画坛影响甚大。所作国画彩墨浑成，尤以奔马享名于世。同时也是中国现代美术教育奠基者。\n"
+    "desc" : "1895年，中国现代杰出画家、美术教育家徐悲鸿出生徐悲鸿，中国现代著名画家。倡导国画改革，主张将国画与西洋画法相融合，对当时中国画坛影响甚大。所作国画彩墨浑成，尤以奔马享名于世。同时也是中国现代美术教育奠基者。"
   },
   {
     "recommend" : true,
-    "title" : "美国著名记者埃德加·斯诺诞辰\n",
+    "title" : "美国著名记者埃德加·斯诺诞辰",
     "link" : "http:\/\/baike.baidu.com\/subview\/46420\/11103104.htm",
     "year" : "1905",
     "type" : "birth",
@@ -54,7 +54,7 @@
   },
   {
     "recommend" : false,
-    "title" : "工人运动领袖赵世炎牺牲\n",
+    "title" : "工人运动领袖赵世炎牺牲",
     "link" : "http:\/\/baike.baidu.com\/subview\/64397\/8945112.htm",
     "year" : "1927",
     "type" : "death",
@@ -64,7 +64,7 @@
   },
   {
     "recommend" : false,
-    "title" : "缅甸独立运动领袖昂山被刺\n",
+    "title" : "缅甸独立运动领袖昂山被刺",
     "link" : "http:\/\/baike.baidu.com\/view\/399801.htm",
     "year" : "1947",
     "type" : "death",
@@ -74,7 +74,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第15届奥运会在芬兰赫尔辛基举行\n",
+    "title" : "第15届奥运会在芬兰赫尔辛基举行",
     "link" : "http:\/\/baike.baidu.com\/view\/30777.htm",
     "year" : "1952",
     "type" : "event",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国与柬埔寨建交\n",
+    "title" : "中国与柬埔寨建交",
     "link" : "http:\/\/baike.baidu.com\/view\/7501.htm",
     "year" : "1958",
     "type" : "event",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "著名小品演员赵本山出生\n",
+    "title" : "著名小品演员赵本山出生",
     "link" : "http:\/\/baike.baidu.com\/view\/2783.htm",
     "year" : "1958",
     "type" : "birth",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "台湾著名音乐人李宗盛出生\n",
+    "title" : "台湾著名音乐人李宗盛出生",
     "link" : "http:\/\/baike.baidu.com\/view\/22898.htm",
     "year" : "1958",
     "type" : "birth",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "韩国李承晚总统逝世\n",
+    "title" : "韩国李承晚总统逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/137762.htm",
     "year" : "1965",
     "type" : "death",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国现代病理学奠基人谷镜汧逝世\n",
+    "title" : "中国现代病理学奠基人谷镜汧逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/398290.htm",
     "year" : "1968",
     "type" : "death",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "广东琼崖武装起义领导人冯白驹在北京逝世\n",
+    "title" : "广东琼崖武装起义领导人冯白驹在北京逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/55567.htm",
     "year" : "1973",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第26届奥运会在美国亚特兰大举行\n",
+    "title" : "第26届奥运会在美国亚特兰大举行",
     "link" : "http:\/\/baike.baidu.com\/subview\/60489\/6017934.htm",
     "year" : "1996",
     "type" : "event",

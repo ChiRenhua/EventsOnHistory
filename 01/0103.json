@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "乔治·华盛顿率领美国军队战胜英国军队\n",
+    "title" : "乔治·华盛顿率领美国军队战胜英国军队",
     "link" : "http:\/\/baike.baidu.com\/subview\/39583\/7138796.htm",
     "year" : "1777",
     "type" : "event",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国工程师罗伯特·怀特黑德出生\n",
+    "title" : "英国工程师罗伯特·怀特黑德出生",
     "link" : "http:\/\/baike.baidu.com\/view\/3367339.htm",
     "year" : "1823",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "日本明治维新开始\n",
+    "title" : "日本明治维新开始",
     "link" : "http:\/\/baike.baidu.com\/view\/22062.htm",
     "year" : "1868",
     "type" : "event",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "德意志民主共和国第一任总统威廉·皮克出生\n",
+    "title" : "德意志民主共和国第一任总统威廉·皮克出生",
     "link" : "http:\/\/baike.baidu.com\/view\/3986670.htm",
     "year" : "1876",
     "type" : "birth",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国前首相克莱门特·理查·艾德礼出生\n",
+    "title" : "英国前首相克莱门特·理查·艾德礼出生",
     "link" : "http:\/\/baike.baidu.com\/view\/465297.htm",
     "year" : "1883",
     "type" : "birth",
@@ -61,7 +61,7 @@
   },
   {
     "recommend" : false,
-    "title" : "捷克斯洛伐克作家哈谢克逝世\n",
+    "title" : "捷克斯洛伐克作家哈谢克逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/11734982.htm",
     "year" : "1923",
     "type" : "death",
@@ -81,7 +81,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国在加勒比海上的十个殖民地合并\n",
+    "title" : "英国在加勒比海上的十个殖民地合并",
     "link" : "http:\/\/baike.baidu.com\/view\/2859114.htm",
     "year" : "1958",
     "type" : "event",
@@ -93,7 +93,7 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/215322cef7d593008b16ec34c9c31e15_134_100.png",
-    "title" : "赛车手迈克尔·舒马赫出生\n\n",
+    "title" : "赛车手迈克尔·舒马赫出生",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/53e5e36a79f900f54a3e35d008ec0b17_80_80.png",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/ed41f4831766b6e0f98e774487267234_360_212.png",
     "link" : "http:\/\/baike.baidu.com\/view\/5562.htm",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国真菌学家戴芳澜逝世\n",
+    "title" : "中国真菌学家戴芳澜逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/187832.htm",
     "year" : "1973",
     "type" : "death",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国著名政治家邓传楷逝世\n",
+    "title" : "中国著名政治家邓传楷逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1462761.htm",
     "year" : "1999",
     "type" : "death",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "勇气号探测器成功登陆火星\n",
+    "title" : "勇气号探测器成功登陆火星",
     "link" : "http:\/\/baike.baidu.com\/view\/1261773.htm",
     "year" : "2004",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "台湾海峡交流基金会董事长辜振甫病逝\n",
+    "title" : "台湾海峡交流基金会董事长辜振甫病逝",
     "link" : "http:\/\/baike.baidu.com\/view\/152404.htm",
     "year" : "2005",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "开国中将李作鹏逝世\n",
+    "title" : "开国中将李作鹏逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/44847.htm",
     "year" : "2009",
     "type" : "death",

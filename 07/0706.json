@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "英国国王爱德华六世爱德华·都铎去世\n",
+    "title" : "英国国王爱德华六世爱德华·都铎去世",
     "link" : "http:\/\/baike.baidu.com\/view\/243559.htm",
     "year" : "1553",
     "type" : "death",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美元被选为美国的法定货币\n",
+    "title" : "美元被选为美国的法定货币",
     "link" : "http:\/\/baike.baidu.com\/view\/25549.htm",
     "year" : "1785",
     "type" : "event",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "俄国沙皇尼古拉一世出生\n",
+    "title" : "俄国沙皇尼古拉一世出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/201150\/7135740.htm",
     "year" : "1796",
     "type" : "birth",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第一次鸦片战争开始\n",
+    "title" : "第一次鸦片战争开始",
     "link" : "http:\/\/baike.baidu.com\/view\/48254.htm",
     "year" : "1840",
     "type" : "event",
@@ -43,18 +43,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/62529d3b5118183173abf528af42e803_134_100.jpg",
-    "title" : "法国批判现实主义作家莫泊桑逝世\n",
+    "title" : "法国批判现实主义作家莫泊桑逝世",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/5291206dd700adcd9bc245079a6e1666_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/82cdc5121f48b4516f094ec86c34eaab_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/39236.htm",
     "year" : "1893",
     "type" : "death",
     "festival" : "",
-    "desc" : "1893年，法国批判现实主义作家莫泊桑逝世。\n莫泊桑，法国著名作家，世界三大短篇小说之王之一，师从福拜楼。代表作《羊脂球》《项链》《我的叔叔于勒》等流传世界，影响深远，成为中国中小学生课本中的经典篇目。\n"
+    "desc" : "1893年，法国批判现实主义作家莫泊桑逝世。莫泊桑，法国著名作家，世界三大短篇小说之王之一，师从福拜楼。代表作《羊脂球》《项链》《我的叔叔于勒》等流传世界，影响深远，成为中国中小学生课本中的经典篇目。"
   },
   {
     "recommend" : false,
-    "title" : "美国女演员南希·里根出生\n",
+    "title" : "美国女演员南希·里根出生",
     "link" : "http:\/\/baike.baidu.com\/view\/2604604.htm",
     "year" : "1921",
     "type" : "birth",
@@ -64,7 +64,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中日签订《何梅协定》\n",
+    "title" : "中日签订《何梅协定》",
     "link" : "http:\/\/baike.baidu.com\/view\/227145.htm",
     "year" : "1935",
     "type" : "event",
@@ -74,7 +74,7 @@
   },
   {
     "recommend" : true,
-    "title" : "美国好莱坞著名演员西尔维斯特·史泰龙出生\n",
+    "title" : "美国好莱坞著名演员西尔维斯特·史泰龙出生",
     "link" : "http:\/\/baike.baidu.com\/view\/68386.htm",
     "year" : "1946",
     "type" : "birth",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国第43任总统乔治·沃克·布什出生\n",
+    "title" : "美国第43任总统乔治·沃克·布什出生",
     "link" : "http:\/\/baike.baidu.com\/view\/6004.htm",
     "year" : "1946",
     "type" : "birth",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国小说家福克纳逝世\n",
+    "title" : "美国小说家福克纳逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/75156.htm",
     "year" : "1962",
     "type" : "death",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "台湾演员黄少祺出生\n",
+    "title" : "台湾演员黄少祺出生",
     "link" : "http:\/\/baike.baidu.com\/view\/642221.htm",
     "year" : "1971",
     "type" : "birth",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "科摩罗伊斯兰共和国独立\n",
+    "title" : "科摩罗伊斯兰共和国独立",
     "link" : "http:\/\/baike.baidu.com\/view\/22025.htm",
     "year" : "1975",
     "type" : "event",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "朱德委员长逝世\n",
+    "title" : "朱德委员长逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1769.htm",
     "year" : "1976",
     "type" : "death",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "世界著名物理学家黄昆病逝\n",
+    "title" : "世界著名物理学家黄昆病逝",
     "link" : "http:\/\/baike.baidu.com\/subview\/30785\/6460577.htm",
     "year" : "2005",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国福建土楼被正式列入《世界遗产名录》\n",
+    "title" : "中国福建土楼被正式列入《世界遗产名录》",
     "link" : "http:\/\/baike.baidu.com\/view\/1329839.htm",
     "year" : "2008",
     "type" : "event",

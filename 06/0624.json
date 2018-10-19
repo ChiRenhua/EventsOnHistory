@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "古罗斯王公罗斯季斯拉夫·雅罗斯拉维奇出生\n",
+    "title" : "古罗斯王公罗斯季斯拉夫·雅罗斯拉维奇出生",
     "link" : "http:\/\/baike.baidu.com\/view\/595081.htm",
     "year" : "1174",
     "type" : "birth",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "明朝的建立者朱元璋去世\n",
+    "title" : "明朝的建立者朱元璋去世",
     "link" : "http:\/\/baike.baidu.com\/subview\/1690\/7140248.htm",
     "year" : "1398",
     "type" : "death",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "法国元帅诺阿耶公爵去世\n",
+    "title" : "法国元帅诺阿耶公爵去世",
     "link" : "http:\/\/baike.baidu.com\/view\/429043.htm",
     "year" : "1766",
     "type" : "death",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : true,
-    "title" : "中国军民抗击英法联军第二次进攻天津的第二次大沽之战发生\n",
+    "title" : "中国军民抗击英法联军第二次进攻天津的第二次大沽之战发生",
     "link" : "http:\/\/baike.baidu.com\/view\/1139900.htm",
     "year" : "1859",
     "type" : "event",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国政治家司徒雷登出生\n",
+    "title" : "美国政治家司徒雷登出生",
     "link" : "http:\/\/baike.baidu.com\/view\/10794.htm",
     "year" : "1876",
     "type" : "birth",
@@ -53,18 +53,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/0167bdfd5523d31e795dad3d52afa51a_134_100.jpg",
-    "title" : "中国经济学家、人口学家马寅初出生\n",
+    "title" : "中国经济学家、人口学家马寅初出生",
     "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/b8090140b842bce1741de474f6d28f54_80_80.jpg",
     "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-28\/5e35f25d72a427dad25ec8f0d6e52a16_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/33641.htm",
     "year" : "1882",
     "type" : "birth",
     "festival" : "",
-    "desc" : "马寅初，中国著名人口学家。他根据对50年代早期的人口发展趋势的统计，判断高速人口增长不利于将来中国的发展，因此提出了《新人口理论》，建议政府控制生育率。是当代“中国人口学第一人”。\n"
+    "desc" : "马寅初，中国著名人口学家。他根据对50年代早期的人口发展趋势的统计，判断高速人口增长不利于将来中国的发展，因此提出了《新人口理论》，建议政府控制生育率。是当代“中国人口学第一人”。"
   },
   {
     "recommend" : false,
-    "title" : "毕加索作品首次在巴黎展出\n",
+    "title" : "毕加索作品首次在巴黎展出",
     "link" : "http:\/\/baike.baidu.com\/view\/48419.htm",
     "year" : "1901",
     "type" : "event",
@@ -74,7 +74,7 @@
   },
   {
     "recommend" : false,
-    "title" : "美国总统格罗弗·克利夫兰去世\n",
+    "title" : "美国总统格罗弗·克利夫兰去世",
     "link" : "http:\/\/baike.baidu.com\/view\/39640.htm",
     "year" : "1908",
     "type" : "death",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国共产党向忠发去世\n",
+    "title" : "中国共产党向忠发去世",
     "link" : "http:\/\/baike.baidu.com\/view\/85174.htm",
     "year" : "1931",
     "type" : "death",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "韩国演员池珍熙出生\n",
+    "title" : "韩国演员池珍熙出生",
     "link" : "http:\/\/baike.baidu.com\/view\/69400.htm",
     "year" : "1971",
     "type" : "birth",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国开国少将钟伟逝世\n",
+    "title" : "中国开国少将钟伟逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/98044\/5114296.htm",
     "year" : "1984",
     "type" : "death",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "阿根廷足球运动员梅西出生\n",
+    "title" : "阿根廷足球运动员梅西出生",
     "link" : "http:\/\/baike.baidu.com\/subview\/3040585\/14689906.htm",
     "year" : "1987",
     "type" : "birth",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国首座脉冲反应堆建成\n",
+    "title" : "中国首座脉冲反应堆建成",
     "link" : "http:\/\/baike.baidu.com\/view\/795696.htm",
     "year" : "1991",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "《四库全书存目丛书》首册出版\n",
+    "title" : "《四库全书存目丛书》首册出版",
     "link" : "http:\/\/baike.baidu.com\/view\/1548354.htm",
     "year" : "1994",
     "type" : "event",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "英国医学家发现海湾战争综合症病因\n",
+    "title" : "英国医学家发现海湾战争综合症病因",
     "link" : "http:\/\/baike.baidu.com\/view\/867722.htm",
     "year" : "1994",
     "type" : "event",

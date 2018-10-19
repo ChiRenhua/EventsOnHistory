@@ -1,7 +1,7 @@
 [
   {
     "recommend" : true,
-    "title" : "三国时期著名的政治家、军事家、诗人曹操诞辰\n",
+    "title" : "三国时期著名的政治家、军事家、诗人曹操诞辰",
     "link" : "http:\/\/baike.baidu.com\/subview\/1719\/5594282.htm",
     "year" : "155",
     "type" : "birth",
@@ -11,7 +11,7 @@
   },
   {
     "recommend" : true,
-    "title" : "英格兰物理学家胡克出生\n",
+    "title" : "英格兰物理学家胡克出生",
     "link" : "http:\/\/baike.baidu.com\/view\/1329586.htm",
     "year" : "1635",
     "type" : "birth",
@@ -21,7 +21,7 @@
   },
   {
     "recommend" : true,
-    "title" : "英国作家简·奥斯汀逝世\n",
+    "title" : "英国作家简·奥斯汀逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/42009.htm",
     "year" : "1817",
     "type" : "death",
@@ -31,7 +31,7 @@
   },
   {
     "recommend" : false,
-    "title" : "荷兰理论物理学家洛伦兹诞生\n",
+    "title" : "荷兰理论物理学家洛伦兹诞生",
     "link" : "http:\/\/baike.baidu.com\/subview\/5802\/12090649.htm",
     "year" : "1853",
     "type" : "birth",
@@ -41,7 +41,7 @@
   },
   {
     "recommend" : true,
-    "title" : "“清末怪杰”国学大师辜鸿铭出生于南洋英属马来西亚槟榔屿。\n",
+    "title" : "“清末怪杰”国学大师辜鸿铭出生于南洋英属马来西亚槟榔屿。",
     "link" : "http:\/\/baike.baidu.com\/view\/5941848.htm",
     "year" : "1857",
     "type" : "birth",
@@ -51,7 +51,7 @@
   },
   {
     "recommend" : false,
-    "title" : "墨西哥总统贝尼托·华雷斯逝世\n",
+    "title" : "墨西哥总统贝尼托·华雷斯逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/11621122.htm",
     "year" : "1872",
     "type" : "death",
@@ -63,18 +63,18 @@
     "cover" : true,
     "recommend" : true,
     "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/a4235174b102e94fb230e3d3ecb8743a_134_100.jpg",
-    "title" : "法国物理学家、化学家玛丽·居里发现化学元素“钋”\n",
+    "title" : "法国物理学家、化学家玛丽·居里发现化学元素“钋”",
     "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/496e5d203c5c076a46b9bf27b4db8704_80_80.jpg",
     "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/357cba0b44bd68a29b596505228910e7_360_212.jpg",
     "link" : "http:\/\/baike.baidu.com\/view\/203033.htm",
     "year" : "1899",
     "type" : "event",
     "festival" : "世界海洋日",
-    "desc" : "1899年，法国物理学家、化学家玛丽·居里发现化学元素“钋”。玛丽·居里，即居里夫人，波兰裔法国籍物理学家、化学家，是两次获得诺贝尔奖的第一人及唯一的女性。钋是她与丈夫的共同发现，命名为“钋”是为了纪念她的祖国波兰。\n"
+    "desc" : "1899年，法国物理学家、化学家玛丽·居里发现化学元素“钋”。玛丽·居里，即居里夫人，波兰裔法国籍物理学家、化学家，是两次获得诺贝尔奖的第一人及唯一的女性。钋是她与丈夫的共同发现，命名为“钋”是为了纪念她的祖国波兰。"
   },
   {
     "recommend" : false,
-    "title" : "日本政治家西乡从道逝世\n",
+    "title" : "日本政治家西乡从道逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/936948.htm",
     "year" : "1902",
     "type" : "death",
@@ -84,7 +84,7 @@
   },
   {
     "recommend" : false,
-    "title" : "南非总统曼德拉诞辰\n",
+    "title" : "南非总统曼德拉诞辰",
     "link" : "http:\/\/baike.baidu.com\/subview\/1225808\/14757479.htm",
     "year" : "1918",
     "type" : "birth",
@@ -94,7 +94,7 @@
   },
   {
     "recommend" : false,
-    "title" : "西班牙内战爆发\n",
+    "title" : "西班牙内战爆发",
     "link" : "http:\/\/baike.baidu.com\/subview\/103212\/15388553.htm",
     "year" : "1936",
     "type" : "event",
@@ -104,7 +104,7 @@
   },
   {
     "recommend" : false,
-    "title" : "第一座迪斯尼乐园正式向公众开放\n",
+    "title" : "第一座迪斯尼乐园正式向公众开放",
     "link" : "http:\/\/baike.baidu.com\/subview\/74923\/7014510..htm",
     "year" : "1955",
     "type" : "event",
@@ -114,7 +114,7 @@
   },
   {
     "recommend" : false,
-    "title" : "中国政府宽释第二批日本战犯\n",
+    "title" : "中国政府宽释第二批日本战犯",
     "link" : "http:\/\/baike.baidu.com\/view\/62143.htm",
     "year" : "1956",
     "type" : "event",
@@ -124,7 +124,7 @@
   },
   {
     "recommend" : false,
-    "title" : "印度发射人造地球卫星成功\n",
+    "title" : "印度发射人造地球卫星成功",
     "link" : "http:\/\/baike.baidu.com\/view\/19439.htm",
     "year" : "1980",
     "type" : "event",
@@ -134,7 +134,7 @@
   },
   {
     "recommend" : false,
-    "title" : "全国劳动模范马恒昌逝世\n",
+    "title" : "全国劳动模范马恒昌逝世",
     "link" : "http:\/\/baike.baidu.com\/subview\/111541\/13238718.htm",
     "year" : "1985",
     "type" : "death",
@@ -144,7 +144,7 @@
   },
   {
     "recommend" : false,
-    "title" : "香港音乐教育家戴思聪逝世\n",
+    "title" : "香港音乐教育家戴思聪逝世",
     "link" : "http:\/\/baike.baidu.com\/view\/1795343.htm",
     "year" : "2010",
     "type" : "death",
