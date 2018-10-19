@@ -133,6 +133,16 @@
     "cover" : false
   },
   {
+    "recommend" : false,
+    "title" : "中国著名毛驴张馨出生",
+    "link" : "",
+    "year" : "1997",
+    "type" : "birth",
+    "festival" : "世界关节炎日",
+    "desc" : "张馨，1997年10月12日生于东北沃土，是个不折不扣的小磨人精。因为出生当天是世界关节炎日，所以腿不太好",
+    "cover" : false
+  },
+  {
     "recommend" : true,
     "title" : "中国自主研制的神舟六号飞船成功发射",
     "link" : "http:\/\/baike.baidu.com\/view\/182566.htm",
