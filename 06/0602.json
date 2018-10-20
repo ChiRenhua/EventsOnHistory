@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "一乘谷朝仓家第4代家督朝仓孝景出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/85360.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/85360.htm",
     "year" : "1428",
     "type" : "birth",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "美国总统华盛顿的夫人玛莎·华盛顿出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/3211208.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3211208.htm",
     "year" : "1731",
     "type" : "birth",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "英国诗人托马斯·哈代出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/162482.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/162482.htm",
     "year" : "1840",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "英国浪漫主义时期作曲家爱德华·埃尔加出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/30999.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/30999.htm",
     "year" : "1857",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "民族解放运动领袖朱塞佩·加里波第病逝",
-    "link" : "http:\/\/baike.baidu.com\/view\/977023.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/977023.htm",
     "year" : "1882",
     "type" : "death",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : true,
     "title" : "马可尼获得他发明的无线电技术的专利",
-    "link" : "http:\/\/baike.baidu.com\/view\/15740.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/15740.htm",
     "year" : "1896",
     "type" : "event",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "香港政界人物杜叶锡恩出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/956992.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/956992.htm",
     "year" : "1913",
     "type" : "birth",
     "festival" : "",
@@ -72,11 +72,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/2b6133f105480f71b0cd92385a967c08_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/2b6133f105480f71b0cd92385a967c08_134_100.jpg",
     "title" : "著名学者、国学大师王国维自沉于北京颐和园昆明湖",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/73b203f01180cf384ee13889390fc7c9_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/d2f5b21ecff0556b750407fa741d78ce_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/1997.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/73b203f01180cf384ee13889390fc7c9_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/d2f5b21ecff0556b750407fa741d78ce_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/1997.htm",
     "year" : "1927",
     "type" : "death",
     "festival" : "",
@@ -85,7 +85,7 @@
   {
     "recommend" : true,
     "title" : "苏格兰地质学家约翰·华特·古格里去世",
-    "link" : "http:\/\/baike.baidu.com\/view\/522799.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/522799.htm",
     "year" : "1932",
     "type" : "death",
     "festival" : "",
@@ -95,7 +95,7 @@
   {
     "recommend" : true,
     "title" : "中美签署《中美租借协定》",
-    "link" : "http:\/\/baike.baidu.com\/view\/11708574.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/11708574.htm",
     "year" : "1942",
     "type" : "event",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "美国无人飞船“观察者前1号”在月球登陆",
-    "link" : "http:\/\/baike.baidu.com\/view\/328769.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/328769.htm",
     "year" : "1966",
     "type" : "event",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "欧洲中央银行正式成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/94259.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/94259.htm",
     "year" : "1998",
     "type" : "event",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "欧洲航天局首个火星探测器火星快车号升空",
-    "link" : "http:\/\/baike.baidu.com\/view\/38780.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/38780.htm",
     "year" : "2003",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "大紫荆勋章得主庄世平去世",
-    "link" : "http:\/\/baike.baidu.com\/view\/65188.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/65188.htm",
     "year" : "2007",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "时装大师伊夫·圣洛朗在法国巴黎去世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1082830.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1082830.htm",
     "year" : "2008",
     "type" : "death",
     "festival" : "",

@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "法国卡佩王朝国王亨利一世出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/111779.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/111779.htm",
     "year" : "1008",
     "type" : "birth",
     "festival" : "中国青年节",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "清朝康熙皇帝爱新觉罗·玄烨出生于北京紫禁城景仁宫",
-    "link" : "http:\/\/baike.baidu.com\/view\/50252.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/50252.htm",
     "year" : "1654",
     "type" : "birth",
     "festival" : "中国青年节",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "英国生物学家赫胥黎出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/279814.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/279814.htm",
     "year" : "1825",
     "type" : "birth",
     "festival" : "中国青年节",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "中国政治家汪精卫出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/40135.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/40135.htm",
     "year" : "1883",
     "type" : "birth",
     "festival" : "中国青年节",
@@ -42,7 +42,7 @@
   {
     "recommend" : true,
     "title" : "中国近代最早的国立综合性大学京师大学堂改名为北京大学",
-    "link" : "http:\/\/baike.baidu.com\/view\/124274.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/124274.htm",
     "year" : "1912",
     "type" : "event",
     "festival" : "中国青年节",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "袁世凯与日本签订二十一条",
-    "link" : "http:\/\/baike.baidu.com\/view\/27304.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/27304.htm",
     "year" : "1915",
     "type" : "event",
     "festival" : "中国青年节",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "孙中山辞去中华民国大元帅职务",
-    "link" : "http:\/\/baike.baidu.com\/subview\/2559\/13633899.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/2559\/13633899.htm",
     "year" : "1918",
     "type" : "event",
     "festival" : "中国青年节",
@@ -72,11 +72,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/e97b0be814f5da1fc603bc4274c173fb_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/e97b0be814f5da1fc603bc4274c173fb_134_100.jpg",
     "title" : "中国人民彻底的反帝反封建的爱国运动五四运动爆发",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-15\/b3b3f402dcee6dcf224279c5d8f73f0b_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/a3a444d25288997c5be44fb65ce1b1e7_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/14478.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-15\/b3b3f402dcee6dcf224279c5d8f73f0b_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/a3a444d25288997c5be44fb65ce1b1e7_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/14478.htm",
     "year" : "1919",
     "type" : "event",
     "festival" : "中国青年节",
@@ -85,7 +85,7 @@
   {
     "recommend" : false,
     "title" : "埃及前总统穆巴拉克出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/94839.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/94839.htm",
     "year" : "1928",
     "type" : "birth",
     "festival" : "中国青年节",
@@ -95,7 +95,7 @@
   {
     "recommend" : false,
     "title" : "中国政协全国委员会副主席马叙伦逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/36596.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/36596.htm",
     "year" : "1970",
     "type" : "death",
     "festival" : "中国青年节",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "中国、日本共同投资施工建设中日海底电缆",
-    "link" : "http:\/\/baike.baidu.com\/view\/266068.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/266068.htm",
     "year" : "1973",
     "type" : "event",
     "festival" : "中国青年节",
@@ -115,7 +115,7 @@
   {
     "recommend" : true,
     "title" : "撒切尔夫人就任英国首相",
-    "link" : "http:\/\/baike.baidu.com\/view\/144059.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/144059.htm",
     "year" : "1979",
     "type" : "event",
     "festival" : "中国青年节",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "南斯拉夫总统约瑟普·布罗兹·铁托逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/114606.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/114606.htm",
     "year" : "1980",
     "type" : "death",
     "festival" : "中国青年节",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "中国教育家、作家、翻译家李霁野逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/674568.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/674568.htm",
     "year" : "1997",
     "type" : "death",
     "festival" : "中国青年节",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "中国历史地理学家石泉逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/232001\/8216467.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/232001\/8216467.htm",
     "year" : "2005",
     "type" : "death",
     "festival" : "中国青年节",

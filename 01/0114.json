@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "西班牙宣布占领古巴",
-    "link" : "http:\/\/baike.baidu.com\/view\/14430.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/14430.htm",
     "year" : "1539",
     "type" : "event",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "英国天文学家、地理学家、数学家埃德蒙多·哈雷逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/595459.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/595459.htm",
     "year" : "1742",
     "type" : "death",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "英国著名外交官阿美士德出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1060531.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1060531.htm",
     "year" : "1773",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "美国独立战争正式结束",
-    "link" : "http:\/\/baike.baidu.com\/view\/24393.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/24393.htm",
     "year" : "1784",
     "type" : "event",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "诺贝尔和平奖得主阿尔贝特·施韦泽出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/4662302.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4662302.htm",
     "year" : "1875",
     "type" : "birth",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "苏联著名新闻记者、作家伊利亚·爱伦堡出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/287704.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/287704.htm",
     "year" : "1894",
     "type" : "birth",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : true,
     "title" : "日本剧作家剧作家，记者，电影制作人，电影演员三岛由纪夫出生",
-    "link" : "http:\/\/baike.baidu.com\/subview\/42190\/9528883.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/42190\/9528883.htm",
     "year" : "1925",
     "type" : "birth",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "英国作家托马斯·哈代逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/162482.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/162482.htm",
     "year" : "1928",
     "type" : "death",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "卡萨布兰卡会议在摩洛哥举行",
-    "link" : "http:\/\/baike.baidu.com\/view\/111866.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/111866.htm",
     "year" : "1943",
     "type" : "event",
     "festival" : "",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "日本政治家田中真纪子出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/153471.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/153471.htm",
     "year" : "1944",
     "type" : "birth",
     "festival" : "",
@@ -101,7 +101,7 @@
   },
   {
     "recommend" : true,
-    "link" : "http:\/\/baike.baidu.com\/view\/1755414.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1755414.htm",
     "type" : "event",
     "title" : "新精神分析学派代表人物哈里·斯塔克·沙利文逝世",
     "desc" : "是美国的一种多用途超大型航空母舰。是美国海军唯一一艘具有8具核能反应炉的船舰，该级舰仅一艘.baseInfoWrap{display:inline-b",
@@ -112,7 +112,7 @@
   {
     "recommend" : false,
     "title" : "《足球世界》杂志创刊",
-    "link" : "http:\/\/baike.baidu.com\/view\/169400.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/169400.htm",
     "year" : "1980",
     "type" : "event",
     "festival" : "",
@@ -122,11 +122,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/c9277a0224e9be45da956d03db99417e_134_100.png",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/c9277a0224e9be45da956d03db99417e_134_100.png",
     "title" : "麦当劳创始人雷·克洛克逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/717bbb765156d0e5ee5ae4db34ed4cd9_80_80.png",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/84626a28dea28f10add8457dd5d23339_360_212.png",
-    "link" : "http:\/\/baike.baidu.com\/view\/1547646.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/717bbb765156d0e5ee5ae4db34ed4cd9_80_80.png",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/84626a28dea28f10add8457dd5d23339_360_212.png",
+    "link" : "https:\/\/baike.baidu.com\/view\/1547646.htm",
     "year" : "1983",
     "type" : "death",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : true,
     "title" : "苏联政治家马林科夫逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/595077.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/595077.htm",
     "year" : "1988",
     "type" : "death",
     "festival" : "",

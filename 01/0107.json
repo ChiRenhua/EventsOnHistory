@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "美国第13任总统米勒德·菲尔莫尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/147386.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/147386.htm",
     "year" : "1800",
     "type" : "birth",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "曾任中华民国代理大总统冯国璋出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/14311.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/14311.htm",
     "year" : "1858",
     "type" : "birth",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "俄国作家鲁巴金出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1056697.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1056697.htm",
     "year" : "1862",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "法国政治家埃米尔·博雷尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/4678069.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4678069.htm",
     "year" : "1871",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : true,
     "title" : "南非非洲人国民大会成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/67968.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/67968.htm",
     "year" : "1912",
     "type" : "event",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "澳大利亚第一任总理埃德蒙·巴顿逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/3254426.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3254426.htm",
     "year" : "1920",
     "type" : "death",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "苏联教学论专家巴班斯基出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1287261.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1287261.htm",
     "year" : "1927",
     "type" : "birth",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "马其诺防线的计划者安德烈·马其诺逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1351190.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1351190.htm",
     "year" : "1932",
     "type" : "death",
     "festival" : "",
@@ -82,11 +82,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/a7a271630d32501f5daedb032e9628cf_134_100.png",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/a7a271630d32501f5daedb032e9628cf_134_100.png",
     "title" : "中国第一枚实用氢弹试验成功，氢弹的杀伤破坏比原子弹大得多。",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/60f600290df5a31c89150db1d3bb126b_80_80.png",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/64841051b05514d24045fc677a44b5ea_360_212.png",
-    "link" : "http:\/\/baike.baidu.com\/view\/1466.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/60f600290df5a31c89150db1d3bb126b_80_80.png",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/64841051b05514d24045fc677a44b5ea_360_212.png",
+    "link" : "https:\/\/baike.baidu.com\/view\/1466.htm",
     "year" : "1972",
     "type" : "event",
     "festival" : "",
@@ -95,7 +95,7 @@
   {
     "recommend" : true,
     "title" : "中国人民解放军大将王树声因病医治无效，在北京逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/18762\/5088812.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/18762\/5088812.htm",
     "year" : "1974",
     "type" : "death",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : true,
     "title" : "美国作家亨利·米勒逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/579975.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/579975.htm",
     "year" : "1980",
     "type" : "death",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "中国妇女运动的先驱者廖梦醒逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/824733.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/824733.htm",
     "year" : "1985",
     "type" : "death",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "林莉获我国第一个世界游泳冠军",
-    "link" : "http:\/\/baike.baidu.com\/subview\/100098\/8393045.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/100098\/8393045.htm",
     "year" : "1991",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "中国第三代导演李俊逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/75225\/5088360.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/75225\/5088360.htm",
     "year" : "2013",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : true,
     "title" : "香港电视广播有限公司主席邵逸夫逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/16414.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/16414.htm",
     "year" : "2014",
     "type" : "event",
     "festival" : "",

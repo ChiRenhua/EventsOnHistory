@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "德国天文学家约翰内斯·开普勒逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/53507.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/53507.htm",
     "year" : "1630",
     "type" : "death",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "英国首相威廉·皮特出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/197669.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/197669.htm",
     "year" : "1708",
     "type" : "birth",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "“恒星天文学之父”威廉·赫歇尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/67973.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/67973.htm",
     "year" : "1738",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "美国南北战争，威廉·谢尔曼向大海进军",
-    "link" : "http:\/\/baike.baidu.com\/view\/33977.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/33977.htm",
     "year" : "1864",
     "type" : "event",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "美国女画家乔治亚·欧姬芙出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/4891994.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4891994.htm",
     "year" : "1887",
     "type" : "birth",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "德国陆军元帅埃尔温·隆美尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/141771.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/141771.htm",
     "year" : "1891",
     "type" : "birth",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : true,
     "title" : "清朝政治家慈禧太后逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/5959.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/5959.htm",
     "year" : "1908",
     "type" : "death",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "香港政界人物陈婉娴出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/287168.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/287168.htm",
     "year" : "1946",
     "type" : "birth",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "美国英特尔公司发布了微处理器4004",
-    "link" : "http:\/\/baike.baidu.com\/view\/15281.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/15281.htm",
     "year" : "1971",
     "type" : "event",
     "festival" : "",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "天安门事件平反",
-    "link" : "http:\/\/baike.baidu.com\/view\/29109.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/29109.htm",
     "year" : "1978",
     "type" : "event",
     "festival" : "",
@@ -102,7 +102,7 @@
   {
     "recommend" : false,
     "title" : "北塞浦路斯土耳其共和国成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/6785.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/6785.htm",
     "year" : "1983",
     "type" : "event",
     "festival" : "",
@@ -112,7 +112,7 @@
   {
     "recommend" : true,
     "title" : "胡锦涛当选中国共产党中央委员会总书记",
-    "link" : "http:\/\/baike.baidu.com\/view\/1784.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1784.htm",
     "year" : "2002",
     "type" : "event",
     "festival" : "",
@@ -122,7 +122,7 @@
   {
     "recommend" : true,
     "title" : "柏林奥运会男子马拉松金牌得主孙基祯逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1102819.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1102819.htm",
     "year" : "2002",
     "type" : "death",
     "festival" : "",
@@ -132,11 +132,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/38fca9dd33656a8bc9ff80ff42392400_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/38fca9dd33656a8bc9ff80ff42392400_134_100.jpg",
     "title" : "中国结构工程师林同炎逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/9c2ca9bc2c2f6142c3a87a1a29552c2a_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/b05992b9a31c7fedafb74b1faecf24c8_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/158553.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/9c2ca9bc2c2f6142c3a87a1a29552c2a_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/b05992b9a31c7fedafb74b1faecf24c8_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/158553.htm",
     "year" : "2003",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "中国体育界元老荣高棠逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/318920.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/318920.htm",
     "year" : "2006",
     "type" : "death",
     "festival" : "",

@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "英国国王亨利一世逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/197439\/6230527.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/197439\/6230527.htm",
     "year" : "1135",
     "type" : "death",
     "festival" : "世界艾滋病日",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "法国雕塑家法尔科内出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/132242.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/132242.htm",
     "year" : "1716",
     "type" : "birth",
     "festival" : "世界艾滋病日",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "俄罗斯数学家尼古拉斯·伊万诺维奇·罗巴切夫斯基出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/71686.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/71686.htm",
     "year" : "1792",
     "type" : "birth",
     "festival" : "世界艾滋病日",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "美国白宫由电话发明人贝尔亲自安装首部电话",
-    "link" : "http:\/\/baike.baidu.com\/view\/63988.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/63988.htm",
     "year" : "1878",
     "type" : "event",
     "festival" : "世界艾滋病日",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "京剧表演艺术家萧长华出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/250581.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/250581.htm",
     "year" : "1878",
     "type" : "birth",
     "festival" : "世界艾滋病日",
@@ -52,11 +52,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/4e607b54378660f8eeb27fdd925bf8be_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/4e607b54378660f8eeb27fdd925bf8be_134_100.jpg",
     "title" : "中华人民共和国第一元帅朱德诞辰",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/8792c722f1579098bc2075cbe0437128_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/60d599d525af2af9aa027d93ee9dd0f9_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/1769.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/8792c722f1579098bc2075cbe0437128_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-07-28\/60d599d525af2af9aa027d93ee9dd0f9_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/1769.htm",
     "year" : "1886",
     "type" : "birth",
     "festival" : "世界艾滋病日",
@@ -65,7 +65,7 @@
   {
     "recommend" : false,
     "title" : "蒋介石与宋美龄结婚",
-    "link" : "http:\/\/baike.baidu.com\/view\/6563.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/6563.htm",
     "year" : "1927",
     "type" : "event",
     "festival" : "世界艾滋病日",
@@ -75,7 +75,7 @@
   {
     "recommend" : false,
     "title" : "苏联领导人谢尔盖·米罗诺维奇·基洛夫在列宁格勒逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/619102.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/619102.htm",
     "year" : "1934",
     "type" : "death",
     "festival" : "世界艾滋病日",
@@ -85,7 +85,7 @@
   {
     "recommend" : false,
     "title" : "美国编剧、导演伍迪·艾伦出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/272032.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/272032.htm",
     "year" : "1935",
     "type" : "birth",
     "festival" : "世界艾滋病日",
@@ -95,7 +95,7 @@
   {
     "recommend" : true,
     "title" : "南京保卫战开始",
-    "link" : "http:\/\/baike.baidu.com\/subview\/560443\/6112853.htm\"",
+    "link" : "https:\/\/baike.baidu.com\/subview\/560443\/6112853.htm\"",
     "year" : "1937",
     "type" : "event",
     "festival" : "世界艾滋病日",
@@ -105,7 +105,7 @@
   {
     "recommend" : true,
     "title" : "中国政治家殷汝耕逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/48658.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/48658.htm",
     "year" : "1947",
     "type" : "death",
     "festival" : "世界艾滋病日",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "我国第一套人民币开始发行",
-    "link" : "http:\/\/baike.baidu.com\/view\/79766.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/79766.htm",
     "year" : "1948",
     "type" : "event",
     "festival" : "世界艾滋病日",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "国民党一级上将白崇禧在台北逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/20785.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/20785.htm",
     "year" : "1966",
     "type" : "death",
     "festival" : "世界艾滋病日",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "中国副总理姚依林逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/85161.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/85161.htm",
     "year" : "1994",
     "type" : "death",
     "festival" : "世界艾滋病日",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "埃克森出资购买美孚公司",
-    "link" : "http:\/\/baike.baidu.com\/view\/1066040.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1066040.htm",
     "year" : "1998",
     "type" : "event",
     "festival" : "世界艾滋病日",

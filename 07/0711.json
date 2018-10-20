@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "苏格兰国王罗伯特·布鲁斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/149668.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/149668.htm",
     "year" : "1274",
     "type" : "birth",
     "festival" : "中国航海日",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "明成祖朱棣命郑和从太仓的刘家港起锚下西洋",
-    "link" : "http:\/\/baike.baidu.com\/subview\/24124\/6943310.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/24124\/6943310.htm",
     "year" : "1405",
     "type" : "event",
     "festival" : "中国航海日",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "普鲁士国王腓特烈一世出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/149668.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/149668.htm",
     "year" : "1657",
     "type" : "birth",
     "festival" : "中国航海日",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "中国著名化学家和教育家唐有祺出生",
-    "link" : "http:\/\/baike.baidu.com\/subview\/68711\/10040981.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/68711\/10040981.htm",
     "year" : "1920",
     "type" : "birth",
     "festival" : "中国航海日",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "“阿玛尼”创始人乔治·阿玛尼出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/63295.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/63295.htm",
     "year" : "1934",
     "type" : "birth",
     "festival" : "中国航海日",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "台湾著名作家白先勇出生",
-    "link" : "http:\/\/baike.baidu.com\/subview\/59704\/10007241.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/59704\/10007241.htm",
     "year" : "1937",
     "type" : "birth",
     "festival" : "中国航海日",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "美国作曲家格什温逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/32699.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/32699.htm",
     "year" : "1937",
     "type" : "death",
     "festival" : "中国航海日",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "爱国民主人士李公朴牺牲",
-    "link" : "http:\/\/baike.baidu.com\/view\/74167.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/74167.htm",
     "year" : "1946",
     "type" : "death",
     "festival" : "中国航海日",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "人造卫星首次播送全球电视",
-    "link" : "http:\/\/baike.baidu.com\/subview\/20577\/6630044.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/20577\/6630044.htm",
     "year" : "1962",
     "type" : "event",
     "festival" : "中国航海日",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "美国“天空实验室”烧毁",
-    "link" : "http:\/\/baike.baidu.com\/view\/246606.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/246606.htm",
     "year" : "1979",
     "type" : "event",
     "festival" : "中国航海日",
@@ -102,7 +102,7 @@
   {
     "recommend" : false,
     "title" : "英国影星劳伦斯·奥利弗逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/652328.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/652328.htm",
     "year" : "1989",
     "type" : "death",
     "festival" : "中国航海日",
@@ -112,7 +112,7 @@
   {
     "recommend" : false,
     "title" : "邓颖超逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1823.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1823.htm",
     "year" : "1992",
     "type" : "death",
     "festival" : "中国航海日",
@@ -122,7 +122,7 @@
   {
     "recommend" : false,
     "title" : "英国培育出世界第一只转基因公鸡",
-    "link" : "http:\/\/baike.baidu.com\/view\/30096.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/30096.htm",
     "year" : "1993",
     "type" : "event",
     "festival" : "中国航海日",
@@ -132,7 +132,7 @@
   {
     "recommend" : false,
     "title" : "刘翔在瑞士洛桑110米跨栏破世界纪录",
-    "link" : "http:\/\/baike.baidu.com\/subview\/3971\/5339740.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/3971\/5339740.htm",
     "year" : "2006",
     "type" : "event",
     "festival" : "中国航海日",
@@ -142,11 +142,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/257a6f67e7dd0fbe496a89d291aa51a9_134_100.jpg",
+    "pic_index" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/257a6f67e7dd0fbe496a89d291aa51a9_134_100.jpg",
     "title" : "中国语言学家、国学家、教育家季羡林逝世",
-    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/6037e7b7bb2c924fcea4d9b608d0596d_80_80.jpg",
-    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/677599edd3fa5be564194eaa675b2d23_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/17941.htm",
+    "pic_calendar" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/6037e7b7bb2c924fcea4d9b608d0596d_80_80.jpg",
+    "pic_share" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-08-29\/677599edd3fa5be564194eaa675b2d23_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/17941.htm",
     "year" : "2009",
     "type" : "death",
     "festival" : "中国航海日",

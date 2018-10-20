@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "苏联政治家斯大林诞辰",
-    "link" : "http:\/\/baike.baidu.com\/view\/476721.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/476721.htm",
     "year" : "1879",
     "type" : "birth",
     "festival" : "国际篮球日",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "中国近代教育家罗家伦出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/131080.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/131080.htm",
     "year" : "1897",
     "type" : "birth",
     "festival" : "国际篮球日",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "阿拉伯国家最早创办的大学——开罗大学成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/112243.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/112243.htm",
     "year" : "1908",
     "type" : "event",
     "festival" : "国际篮球日",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "植物病理学家、农业教育家魏景超出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/316394.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/316394.htm",
     "year" : "1908",
     "type" : "birth",
     "festival" : "国际篮球日",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "德国著名作家海因里希·伯尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/75107.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/75107.htm",
     "year" : "1917",
     "type" : "birth",
     "festival" : "国际篮球日",
@@ -52,7 +52,7 @@
   {
     "recommend" : true,
     "title" : "民族独立运动的先驱哈桑·迪罗逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/3712086.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3712086.htm",
     "year" : "1920",
     "type" : "death",
     "festival" : "国际篮球日",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "美国将军巴顿逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/415365.htm ",
+    "link" : "https:\/\/baike.baidu.com\/view\/415365.htm ",
     "year" : "1945",
     "type" : "death",
     "festival" : "国际篮球日",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "我国首次提出“实现四个现代化”",
-    "link" : "http:\/\/baike.baidu.com\/view\/237872.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/237872.htm",
     "year" : "1964",
     "type" : "event",
     "festival" : "国际篮球日",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "全国人大副委员长黄炎培逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/69061\/5093058.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/69061\/5093058.htm",
     "year" : "1965",
     "type" : "death",
     "festival" : "国际篮球日",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "格鲁吉亚首任民选总统萨卡什维利出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/806390.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/806390.htm",
     "year" : "1967",
     "type" : "birth",
     "festival" : "国际篮球日",
@@ -102,7 +102,7 @@
   {
     "recommend" : false,
     "title" : "评剧演员小白玉霜逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/139292.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/139292.htm",
     "year" : "1967",
     "type" : "death",
     "festival" : "国际篮球日",
@@ -112,7 +112,7 @@
   {
     "recommend" : false,
     "title" : "阿拉伯、以色列首次和平会议在日内瓦举行",
-    "link" : "http:\/\/baike.baidu.com\/view\/38238.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/38238.htm",
     "year" : "1973",
     "type" : "event",
     "festival" : "国际篮球日",
@@ -122,11 +122,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/b221a10c06a1f880c3a4dcb5968324e5_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/b221a10c06a1f880c3a4dcb5968324e5_134_100.jpg",
     "title" : "洛克比空难发生",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/b7f8f977258bd5caa72f6017fd02db21_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/5e00ec2aa1a73e09897cf26e44c1cc84_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/1016790.htm ",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/b7f8f977258bd5caa72f6017fd02db21_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/5e00ec2aa1a73e09897cf26e44c1cc84_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/1016790.htm ",
     "year" : "1988",
     "type" : "event",
     "festival" : "国际篮球日",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "大秦铁路全线开通",
-    "link" : "http:\/\/baike.baidu.com\/view\/260072.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/260072.htm",
     "year" : "1992",
     "type" : "event",
     "festival" : "国际篮球日",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "土库曼斯坦前总统尼亚佐夫逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/157922.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/157922.htm",
     "year" : "2006",
     "type" : "death",
     "festival" : "国际篮球日",

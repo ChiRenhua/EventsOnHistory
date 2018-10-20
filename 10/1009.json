@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "开普勒超新星首次被人发现",
-    "link" : "http:\/\/baike.baidu.com\/view\/2737203.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/2737203.htm",
     "year" : "1604",
     "type" : "event",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "万国邮政联盟在瑞士伯尔尼成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/38101.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/38101.htm",
     "year" : "1874",
     "type" : "event",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "苏联领导人布哈林出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1130775.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1130775.htm",
     "year" : "1888",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "第一次巴尔干战争爆发",
-    "link" : "http:\/\/baike.baidu.com\/view\/161359.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/161359.htm",
     "year" : "1912",
     "type" : "event",
     "festival" : "",
@@ -42,11 +42,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/89e37424ef0c43d1ef137d1d7e2a3b66_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/89e37424ef0c43d1ef137d1d7e2a3b66_134_100.jpg",
     "title" : "中国近代力学之父钱伟长出生",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/71fee53ec2f6d1059f9a682d87af30d1_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/09e8ccbf0991713f038aae9ead920c14_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/4868.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/71fee53ec2f6d1059f9a682d87af30d1_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/09e8ccbf0991713f038aae9ead920c14_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/4868.htm",
     "year" : "1912",
     "type" : "death",
     "festival" : "",
@@ -55,7 +55,7 @@
   {
     "recommend" : false,
     "title" : "近代翻译家林纾逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/24938.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/24938.htm",
     "year" : "1924",
     "type" : "death",
     "festival" : "",
@@ -65,7 +65,7 @@
   {
     "recommend" : true,
     "title" : "中国月球探测工程的首席科学家欧阳自远出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/210846.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/210846.htm",
     "year" : "1935",
     "type" : "birth",
     "festival" : "",
@@ -75,7 +75,7 @@
   {
     "recommend" : true,
     "title" : "英国著名摇滚乐队“披头士”成员约翰·列侬出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/60155.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/60155.htm",
     "year" : "1940",
     "type" : "birth",
     "festival" : "",
@@ -85,7 +85,7 @@
   {
     "recommend" : false,
     "title" : "中日第二次长沙会战结束",
-    "link" : "http:\/\/baike.baidu.com\/view\/248108.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/248108.htm",
     "year" : "1941",
     "type" : "event",
     "festival" : "",
@@ -95,7 +95,7 @@
   {
     "recommend" : false,
     "title" : "荷兰物理学家塞曼逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/690616.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/690616.htm",
     "year" : "1943",
     "type" : "death",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "中国著名民主主义革命家李济深逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/46344.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/46344.htm",
     "year" : "1959",
     "type" : "death",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "英国首相戴维·卡梅伦出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/3372064.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3372064.htm",
     "year" : "1966",
     "type" : "birth",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "德国商人奥斯卡·辛德勒逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/844967.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/844967.htm",
     "year" : "1974",
     "type" : "death",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : true,
     "title" : "英国首相亚历克·道格拉斯-霍姆逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/295419.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/295419.htm",
     "year" : "1995",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "美国现任总统奥巴马获得诺贝尔和平奖",
-    "link" : "http:\/\/baike.baidu.com\/view\/1366565.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1366565.htm",
     "year" : "2009",
     "type" : "event",
     "festival" : "",

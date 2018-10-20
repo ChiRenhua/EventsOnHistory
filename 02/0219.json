@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "波兰天文学家尼古拉·哥白尼出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/53603.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/53603.htm",
     "year" : "1473",
     "type" : "birth",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "齐格蒙特三世成为瑞典国王",
-    "link" : "http:\/\/baike.baidu.com\/view\/1100786.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1100786.htm",
     "year" : "1594",
     "type" : "event",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "瑞典物理学家斯万特·奥古斯特·阿累尼乌斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/462769.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/462769.htm",
     "year" : "1859",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "楼兰古城发现者斯文·赫定出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/149430.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/149430.htm",
     "year" : "1865",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "保加利亚王国独立",
-    "link" : "http:\/\/baike.baidu.com\/view\/533821.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/533821.htm",
     "year" : "1878",
     "type" : "event",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "托马斯·阿尔瓦·爱迪生获得留声机的专利权",
-    "link" : "http:\/\/baike.baidu.com\/view\/69200.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/69200.htm",
     "year" : "1878",
     "type" : "event",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "意大利画家卢齐欧·封塔纳出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/444150.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/444150.htm",
     "year" : "1899",
     "type" : "birth",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "植物病理学家俞大绂出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/187862.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/187862.htm",
     "year" : "1901",
     "type" : "birth",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : true,
     "title" : "黄冈起义失败",
-    "link" : "http:\/\/baike.baidu.com\/view\/673962.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/673962.htm",
     "year" : "1907",
     "type" : "event",
     "festival" : "",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "中华民国国民革命军将领张廷玉逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/42297\/4918955.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/42297\/4918955.htm",
     "year" : "1938",
     "type" : "death",
     "festival" : "",
@@ -102,7 +102,7 @@
   {
     "recommend" : true,
     "title" : "太平洋硫磺岛战役开始",
-    "link" : "http:\/\/baike.baidu.com\/view\/50577.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/50577.htm",
     "year" : "1945",
     "type" : "event",
     "festival" : "",
@@ -112,7 +112,7 @@
   {
     "recommend" : true,
     "title" : "1947年诺贝尔文学奖得主纪德逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/187896.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/187896.htm",
     "year" : "1951",
     "type" : "death",
     "festival" : "",
@@ -122,11 +122,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/c075465a4867e24b1abaf48dcd65376e_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/c075465a4867e24b1abaf48dcd65376e_134_100.jpg",
     "title" : "社会主义现代化建设总设计师邓小平逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/37e0b1bb753c9b23d9bdf983d9a8f7f1_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/70ef662b17500404198758ed07e24085_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/subview\/1833\/15392921.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/37e0b1bb753c9b23d9bdf983d9a8f7f1_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-26\/70ef662b17500404198758ed07e24085_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/1833\/15392921.htm",
     "year" : "1997",
     "type" : "death",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "台湾基隆市前市长许财利逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/820429.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/820429.htm",
     "year" : "2007",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : true,
     "title" : "美国物理学家罗伯特·科尔曼·理查森逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/8386118.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/8386118.htm",
     "year" : "2013",
     "type" : "death",
     "festival" : "",

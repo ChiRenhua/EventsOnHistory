@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "最后一个统治芬兰的瑞典君主古斯塔夫四世出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/2053168.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/2053168.htm",
     "year" : "1778",
     "type" : "birth",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "沙皇尼古拉一世之妻亚历山德拉·费奥多罗芙娜逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/1703687\/13754817.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/1703687\/13754817.htm",
     "year" : "1860",
     "type" : "death",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "魏格纳出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/5518.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/5518.htm",
     "year" : "1880",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "上海电影制片厂导演吴永刚出生",
-    "link" : "http:\/\/baike.baidu.com\/subview\/305330\/8736672.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/305330\/8736672.htm",
     "year" : "1907",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "凯末尔宣布废除苏丹制",
-    "link" : "http:\/\/baike.baidu.com\/view\/1059820.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1059820.htm",
     "year" : "1922",
     "type" : "event",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "广州工人游行示威",
-    "link" : "http:\/\/baike.baidu.com\/subview\/6771\/10628575.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/6771\/10628575.htm",
     "year" : "1927",
     "type" : "event",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "日本政治家龟井静香出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/473990.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/473990.htm",
     "year" : "1936",
     "type" : "birth",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : true,
     "title" : "美国进行第一颗氢弹试验",
-    "link" : "http:\/\/baike.baidu.com\/view\/1466.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1466.htm",
     "year" : "1952",
     "type" : "event",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "阿尔及利亚战争爆发",
-    "link" : "http:\/\/baike.baidu.com\/view\/86773.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/86773.htm",
     "year" : "1954",
     "type" : "event",
     "festival" : "",
@@ -92,11 +92,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/b68a21aafe5343460aeb83c76151bbe4_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/b68a21aafe5343460aeb83c76151bbe4_134_100.jpg",
     "title" : "西方现代人际关系教育的奠基人戴尔·卡内基逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/20fea4af401ab615a47ce7023864467a_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/cb8227fc3ffa553feb73ddf4694b1fd0_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/379604.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/20fea4af401ab615a47ce7023864467a_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/cb8227fc3ffa553feb73ddf4694b1fd0_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/379604.htm",
     "year" : "1955",
     "type" : "death",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "藏传佛教大格西喜饶嘉措逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/692441.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/692441.htm",
     "year" : "1968",
     "type" : "death",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : true,
     "title" : "中国体操运动员李小双出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/35784.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/35784.htm",
     "year" : "1973",
     "type" : "birth",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "美国参议院大楼清除炭疽病",
-    "link" : "http:\/\/baike.baidu.com\/view\/225546.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/225546.htm",
     "year" : "2001",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "中国国民党主席马英九的父亲马鹤凌逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1031209.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1031209.htm",
     "year" : "2005",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "曾荫权的岳母罗瑞珍逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/14155.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/14155.htm",
     "year" : "2006",
     "type" : "death",
     "festival" : "",

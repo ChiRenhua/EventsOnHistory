@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "德国建筑师弗里德里希·冯·格尔特纳出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/8297361.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/8297361.htm",
     "year" : "1791",
     "type" : "birth",
     "festival" : "世界人权日",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "计算机科学先驱阿达·洛芙莱斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/10960576.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/10960576.htm",
     "year" : "1815",
     "type" : "birth",
     "festival" : "世界人权日",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "美国女诗人艾米莉·狄金森出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/85042.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/85042.htm",
     "year" : "1830",
     "type" : "birth",
     "festival" : "世界人权日",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "路易·波拿巴被选为法国总统",
-    "link" : "http:\/\/baike.baidu.com\/view\/755759.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/755759.htm",
     "year" : "1848",
     "type" : "event",
     "festival" : "世界人权日",
@@ -42,11 +42,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/42df47fa1273a9f9ff940d91ea539aa3_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/42df47fa1273a9f9ff940d91ea539aa3_134_100.jpg",
     "title" : "阿尔弗雷德·贝恩哈德·诺贝尔逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/a984131779ccc1c38dacfae12e8097c5_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/6d58b509a5faa27ba2ea4da4ec60f542_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/94761.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/a984131779ccc1c38dacfae12e8097c5_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-30\/6d58b509a5faa27ba2ea4da4ec60f542_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/94761.htm",
     "year" : "1896",
     "type" : "death",
     "festival" : "世界人权日",
@@ -55,7 +55,7 @@
   {
     "recommend" : true,
     "title" : "诺贝尔奖金设立",
-    "link" : "http:\/\/baike.baidu.com\/view\/37695.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/37695.htm",
     "year" : "1901",
     "type" : "event",
     "festival" : "世界人权日",
@@ -65,7 +65,7 @@
   {
     "recommend" : false,
     "title" : "《世界人权宣言》通过并发表",
-    "link" : "http:\/\/baike.baidu.com\/view\/22902.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/22902.htm",
     "year" : "1948",
     "type" : "event",
     "festival" : "世界人权日",
@@ -75,7 +75,7 @@
   {
     "recommend" : false,
     "title" : "台湾文学作家洪醒夫出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1301795.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1301795.htm",
     "year" : "1949",
     "type" : "birth",
     "festival" : "世界人权日",
@@ -85,7 +85,7 @@
   {
     "recommend" : false,
     "title" : "近代林学家梁希逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/150744.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/150744.htm",
     "year" : "1958",
     "type" : "death",
     "festival" : "世界人权日",
@@ -95,7 +95,7 @@
   {
     "recommend" : false,
     "title" : "我国戏曲改革的先行者田汉逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/28997.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/28997.htm",
     "year" : "1968",
     "type" : "death",
     "festival" : "世界人权日",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "闽西革命根据地创始人之一邓子恢逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/22650\/6417570.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/22650\/6417570.htm",
     "year" : "1972",
     "type" : "death",
     "festival" : "世界人权日",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "阿根廷足球运动员伊瓜因出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/616767.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/616767.htm",
     "year" : "1987",
     "type" : "birth",
     "festival" : "世界人权日",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "联合国维和部队获诺贝尔和平奖",
-    "link" : "http:\/\/baike.baidu.com\/view\/81310.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/81310.htm",
     "year" : "1988",
     "type" : "event",
     "festival" : "世界人权日",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "哈萨克斯坦迁都阿斯塔纳",
-    "link" : "http:\/\/baike.baidu.com\/view\/28923.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/28923.htm",
     "year" : "1997",
     "type" : "event",
     "festival" : "世界人权日",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "我国著名核物理学家王淦昌逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/4104\/14982328.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/4104\/14982328.htm",
     "year" : "1998",
     "type" : "death",
     "festival" : "世界人权日",

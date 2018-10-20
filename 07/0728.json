@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "德国作曲家巴赫逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/53579.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/53579.htm",
     "year" : "1750",
     "type" : "death",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "德国唯物主义哲学家费尔巴哈诞辰",
-    "link" : "http:\/\/baike.baidu.com\/view\/2153393.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/2153393.htm",
     "year" : "1804",
     "type" : "birth",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "英国小说家、《曼斯菲尔德庄园》作者简·奥斯丁逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/42009.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/42009.htm",
     "year" : "1817",
     "type" : "death",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : true,
     "title" : "法国七月革命爆发",
-    "link" : "http:\/\/baike.baidu.com\/view\/935797.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/935797.htm",
     "year" : "1830",
     "type" : "event",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "第一次世界大战开始",
-    "link" : "http:\/\/baike.baidu.com\/view\/26747.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/26747.htm",
     "year" : "1914",
     "type" : "event",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "中国计算机科学的先行者夏培肃出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/119482.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/119482.htm",
     "year" : "1923",
     "type" : "birth",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "抗日英雄佟麟阁、赵登禹殉国",
-    "link" : "http:\/\/baike.baidu.com\/view\/55387.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/55387.htm",
     "year" : "1937",
     "type" : "death",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "委内瑞拉总统乌戈·查韦斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/86777.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/86777.htm",
     "year" : "1954",
     "type" : "birth",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "英国女作家伏尼契逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/343685.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/343685.htm",
     "year" : "1960",
     "type" : "death",
     "festival" : "",
@@ -92,11 +92,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6d92d186f2cb91f7b67b5af8ee41d4a0_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6d92d186f2cb91f7b67b5af8ee41d4a0_134_100.jpg",
     "title" : "中国河北省唐山市发生唐山大地震",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6345c43c621f202c34e19a7054c2d545_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/086d02157b5f59df07a66d56506ee1e3_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/subview\/3267\/5734405.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/6345c43c621f202c34e19a7054c2d545_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-29\/086d02157b5f59df07a66d56506ee1e3_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/3267\/5734405.htm",
     "year" : "1976",
     "type" : "event",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "中国儿童少年基金会成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/219758.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/219758.htm",
     "year" : "1981",
     "type" : "event",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "黄河站是中国在北极建立的第一个科学考察站",
-    "link" : "http:\/\/baike.baidu.com\/view\/1351679.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1351679.htm",
     "year" : "2004",
     "type" : "event",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "DNA之父佛朗西斯·克里克逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/921839.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/921839.htm",
     "year" : "2004",
     "type" : "death",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "中国有色金属冶金专家邱竹贤教授逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/317587.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/317587.htm",
     "year" : "2006",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "巴基斯坦发生特大空难，机上152人全部罹难",
-    "link" : "http:\/\/baike.baidu.com\/view\/4031578.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4031578.htm",
     "year" : "2010",
     "type" : "event",
     "festival" : "",

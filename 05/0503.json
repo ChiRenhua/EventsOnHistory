@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "唐朝开元盛世开拓者、皇帝唐玄宗李隆基逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/11286.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/11286.htm",
     "year" : "762",
     "type" : "death",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "挪威、瑞典与丹麦的国王埃里克七世逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/4527607.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4527607.htm",
     "year" : "1459",
     "type" : "death",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "意大利航海家哥伦布发现牙买加",
-    "link" : "http:\/\/baike.baidu.com\/view\/15503.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/15503.htm",
     "year" : "1492",
     "type" : "event",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "德国首相伯恩哈特·冯·比洛出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/3446856.ht",
+    "link" : "https:\/\/baike.baidu.com\/view\/3446856.ht",
     "year" : "1849",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "日本德川庆喜交出江户城，幕府统治时期结束",
-    "link" : "http:\/\/baike.baidu.com\/subview\/475538\/9310202.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/475538\/9310202.htm",
     "year" : "1868",
     "type" : "event",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : true,
     "title" : "华纳制片公司推出第一部有声片",
-    "link" : "http:\/\/baike.baidu.com\/view\/3900714.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3900714.htm",
     "year" : "1927",
     "type" : "event",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : true,
     "title" : "美国著名歌手“灵魂乐教父”詹姆士·布朗出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/11620628.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/11620628.htm",
     "year" : "1933",
     "type" : "birth",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "日本化学家池田菊苗逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1909087.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1909087.htm",
     "year" : "1936",
     "type" : "death",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "香港演员及歌手关菊英出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/358673.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/358673.htm",
     "year" : "1958",
     "type" : "birth",
     "festival" : "",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "法国工人、学生运动“五月风暴”开始",
-    "link" : "http:\/\/baike.baidu.com\/view\/551980.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/551980.htm",
     "year" : "1968",
     "type" : "event",
     "festival" : "",
@@ -102,7 +102,7 @@
   {
     "recommend" : false,
     "title" : "约旦公主哈雅·宾特·侯赛因出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/7487.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/7487.htm",
     "year" : "1974",
     "type" : "birth",
     "festival" : "",
@@ -112,11 +112,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/0618b30fd90f9c1a55b71423974db706_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/0618b30fd90f9c1a55b71423974db706_134_100.jpg",
     "title" : "中国著名语言学家、中国现代语言学奠基人王力逝世",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-15\/dd4ec8059d5eda5a4679613475bd0c1e_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/3aab5fec3c080c7b288df8681a209aa8_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/subview\/2032\/5120925.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-15\/dd4ec8059d5eda5a4679613475bd0c1e_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-19\/3aab5fec3c080c7b288df8681a209aa8_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/2032\/5120925.htm",
     "year" : "1986",
     "type" : "death",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "世界首创转基因水稻在安徽省合肥市问世",
-    "link" : "http:\/\/baike.baidu.com\/view\/166792.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/166792.htm",
     "year" : "1994",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "香港警务处处长许淇安逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/962124.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/962124.htm",
     "year" : "2009",
     "type" : "death",
     "festival" : "",

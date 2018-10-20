@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "法国瓦卢瓦王朝国王查理八世逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/770077.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/770077.htm",
     "year" : "1498",
     "type" : "death",
     "festival" : "世界卫生日",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "教皇克雷芒十二世出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1089475.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1089475.htm",
     "year" : "1652",
     "type" : "birth",
     "festival" : "世界卫生日",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "英国诗人华兹华斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/61725.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/61725.htm",
     "year" : "1770",
     "type" : "birth",
     "festival" : "世界卫生日",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "法国空想社会主义学家傅立叶出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/2667958.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/2667958.htm",
     "year" : "1772",
     "type" : "birth",
     "festival" : "世界卫生日",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "贝多芬的《第三交响曲》在维也纳剧院首次公演",
-    "link" : "http:\/\/baike.baidu.com\/view\/1072202.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1072202.htm",
     "year" : "1805",
     "type" : "event",
     "festival" : "世界卫生日",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "诺贝尔文学奖得主加夫列拉·米斯特拉尔出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/75159.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/75159.htm",
     "year" : "1889",
     "type" : "birth",
     "festival" : "世界卫生日",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "美国女作家、普利策奖获得者维拉·凯瑟逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/4496693.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4496693.htm",
     "year" : "1947",
     "type" : "death",
     "festival" : "世界卫生日",
@@ -72,11 +72,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/04214ec6fe54f8f8afcf38c5c6f11ef8_134_100.jpg",
+    "pic_index" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/04214ec6fe54f8f8afcf38c5c6f11ef8_134_100.jpg",
     "title" : "香港著名影星成龙出生",
-    "pic_calendar" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/4ce1332c46517299085ce845c462720e_80_80.jpg",
-    "pic_share" : "http:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/afe700e156212bce401cf9990aedc929_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/subview\/3539\/10605302.htm",
+    "pic_calendar" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/4ce1332c46517299085ce845c462720e_80_80.jpg",
+    "pic_share" : "https:\/\/baike.baidu.com\/cms\/rc\/r\/image\/2014-09-08\/afe700e156212bce401cf9990aedc929_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/3539\/10605302.htm",
     "year" : "1954",
     "type" : "birth",
     "festival" : "世界卫生日",
@@ -85,7 +85,7 @@
   {
     "recommend" : true,
     "title" : "中国与约旦建立外交关系",
-    "link" : "http:\/\/baike.baidu.com\/view\/7487.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/7487.htm",
     "year" : "1977",
     "type" : "event",
     "festival" : "世界卫生日",
@@ -95,7 +95,7 @@
   {
     "recommend" : false,
     "title" : "欧共体承认波黑共和国独立",
-    "link" : "http:\/\/baike.baidu.com\/view\/40000.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/40000.htm",
     "year" : "1992",
     "type" : "event",
     "festival" : "世界卫生日",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "卢旺达种族大屠杀爆发",
-    "link" : "http:\/\/baike.baidu.com\/view\/1781237.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1781237.htm",
     "year" : "1994",
     "type" : "event",
     "festival" : "世界卫生日",
@@ -115,7 +115,7 @@
   {
     "recommend" : true,
     "title" : "农学家、植物病理学家陈瑞泰逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/307267.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/307267.htm",
     "year" : "2001",
     "type" : "death",
     "festival" : "世界卫生日",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "鲁迅先生的儿子周海婴先生逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/138130.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/138130.htm",
     "year" : "2011",
     "type" : "death",
     "festival" : "世界卫生日",
@@ -135,7 +135,7 @@
   {
     "recommend" : true,
     "title" : "美国访谈节目主持人迈克·华莱士去世",
-    "link" : "http:\/\/baike.baidu.com\/view\/8319957.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/8319957.htm",
     "year" : "2012",
     "type" : "death",
     "festival" : "世界卫生日",
@@ -145,7 +145,7 @@
   {
     "recommend" : true,
     "title" : "2013博鳌亚洲论坛年会举行开幕式",
-    "link" : "http:\/\/baike.baidu.com\/view\/3331.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/3331.htm",
     "year" : "2013",
     "type" : "event",
     "festival" : "世界卫生日",

@@ -2,7 +2,7 @@
   {
     "recommend" : true,
     "title" : "荷兰航海家亚伯·塔斯曼发现新西兰",
-    "link" : "http:\/\/baike.baidu.com\/view\/1117977.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1117977.htm",
     "year" : "1642",
     "type" : "event",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "中国清代画家郑板桥逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/4309\/7381669.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/4309\/7381669.htm",
     "year" : "1765",
     "type" : "death",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "法国著名作家居斯塔夫·福楼拜出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/4039824.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/4039824.htm",
     "year" : "1821",
     "type" : "birth",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "挪威印象派画家爱德华·蒙克出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/119682.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/119682.htm",
     "year" : "1863",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "美国著名歌唱家法兰克·辛纳屈出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/583485.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/583485.htm",
     "year" : "1915",
     "type" : "birth",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "美国女天文学家亨丽爱塔·勒维特逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1131518.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1131518.htm",
     "year" : "1921",
     "type" : "death",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "广州起义主要领导人张太雷逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/85163.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/85163.htm",
     "year" : "1927",
     "type" : "death",
     "festival" : "",
@@ -72,11 +72,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/164cde70930e0de8d3383bba0175df59_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/164cde70930e0de8d3383bba0175df59_134_100.jpg",
     "title" : "抗日将领张学良、杨虎城发动“西安事变”",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/5390eb292d84f412090a29354138001b_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/0ed6eb3ea58a045515039696919f0595_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/subview\/10779\/7658664.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/5390eb292d84f412090a29354138001b_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-02\/0ed6eb3ea58a045515039696919f0595_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/10779\/7658664.htm",
     "year" : "1936",
     "type" : "event",
     "festival" : "",
@@ -85,7 +85,7 @@
   {
     "recommend" : true,
     "title" : "英国演员比尔·奈伊出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/1126051.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1126051.htm",
     "year" : "1949",
     "type" : "birth",
     "festival" : "",
@@ -95,7 +95,7 @@
   {
     "recommend" : false,
     "title" : "中国导演顾长卫出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/372948.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/372948.htm",
     "year" : "1957",
     "type" : "birth",
     "festival" : "",
@@ -105,7 +105,7 @@
   {
     "recommend" : false,
     "title" : "肯尼亚独立",
-    "link" : "http:\/\/baike.baidu.com\/view\/21481.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/21481.htm",
     "year" : "1963",
     "type" : "event",
     "festival" : "",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "教育家吴玉章逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/40736\/5081114.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/40736\/5081114.htm",
     "year" : "1966",
     "type" : "death",
     "festival" : "",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "我国自行研制的第一艘导弹驱逐舰启用",
-    "link" : "http:\/\/baike.baidu.com\/view\/169532.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/169532.htm",
     "year" : "1971",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : false,
     "title" : "美国NBA篮球员威尔特·张伯伦逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/28376.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/28376.htm",
     "year" : "1999",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "瑞士正式加入申根",
-    "link" : "http:\/\/baike.baidu.com\/view\/639689.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/639689.htm",
     "year" : "2008",
     "type" : "event",
     "festival" : "",

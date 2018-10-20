@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "雅典和马其顿之间的科罗尼亚战役发生",
-    "link" : "http:\/\/baike.baidu.com\/view\/21706.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/21706.htm",
     "year" : "-388",
     "type" : "event",
     "festival" : "",
@@ -12,7 +12,7 @@
   {
     "recommend" : false,
     "title" : "神圣罗马帝国皇帝亨利四世逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/67243\/6172481.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/67243\/6172481.htm",
     "year" : "1106",
     "type" : "death",
     "festival" : "",
@@ -22,7 +22,7 @@
   {
     "recommend" : false,
     "title" : "清初小说戏剧评论家金圣叹逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/60460.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/60460.htm",
     "year" : "1661",
     "type" : "death",
     "festival" : "",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "美国紫心勋章诞生",
-    "link" : "http:\/\/baike.baidu.com\/view\/88683.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/88683.htm",
     "year" : "1782",
     "type" : "birth",
     "festival" : "",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "社会民主工党领袖威廉·李卜克内西逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/210441.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/210441.htm",
     "year" : "1900",
     "type" : "death",
     "festival" : "",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "孙中山辞去政务总裁一职",
-    "link" : "http:\/\/baike.baidu.com\/subview\/2559\/13633899.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/2559\/13633899.htm",
     "year" : "1919",
     "type" : "event",
     "festival" : "",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "印度诗人泰戈尔逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/6247024.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/6247024.htm",
     "year" : "1941",
     "type" : "death",
     "festival" : "",
@@ -72,7 +72,7 @@
   {
     "recommend" : true,
     "title" : "香港企业家林建岳出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/369390.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/369390.htm",
     "year" : "1957",
     "type" : "birth",
     "festival" : "",
@@ -82,7 +82,7 @@
   {
     "recommend" : true,
     "title" : "美国好莱坞著名演员大卫·杜考夫尼出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/38060.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/38060.htm",
     "year" : "1960",
     "type" : "birth",
     "festival" : "",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "维基百科创始人吉米·多纳尔·威尔士出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/608842.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/608842.htm",
     "year" : "1966",
     "type" : "birth",
     "festival" : "",
@@ -102,7 +102,7 @@
   {
     "recommend" : true,
     "title" : "美国好莱坞著名女演员查理兹·赛隆出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/149093.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/149093.htm",
     "year" : "1975",
     "type" : "birth",
     "festival" : "",
@@ -112,7 +112,7 @@
   {
     "recommend" : false,
     "title" : "台湾演员吴建豪出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/19769.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/19769.htm",
     "year" : "1978",
     "type" : "birth",
     "festival" : "",
@@ -122,11 +122,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/4e0032ac67002ced51753d84e40abae9_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/4e0032ac67002ced51753d84e40abae9_134_100.jpg",
     "title" : "中国国家女子排球队在洛杉矶奥运会上获得冠军",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/c5e4efac808b464a51477ced8270ada7_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/383bcefce14f4acfdabb5cc96e770b91_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/4271706.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/c5e4efac808b464a51477ced8270ada7_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-07\/383bcefce14f4acfdabb5cc96e770b91_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/4271706.htm",
     "year" : "1984",
     "type" : "event",
     "festival" : "",
@@ -135,7 +135,7 @@
   {
     "recommend" : true,
     "title" : "国画艺术大师刘海粟逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/68998.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/68998.htm",
     "year" : "1994",
     "type" : "death",
     "festival" : "",
@@ -145,7 +145,7 @@
   {
     "recommend" : false,
     "title" : "中国甘肃省舟曲县发生特大泥石流灾害",
-    "link" : "http:\/\/baike.baidu.com\/view\/300566.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/300566.htm",
     "year" : "2010",
     "type" : "event",
     "festival" : "",

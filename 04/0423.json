@@ -2,7 +2,7 @@
   {
     "recommend" : false,
     "title" : "中国思想家朱熹逝世",
-    "link" : "http:\/\/baike.baidu.com\/subview\/1262\/14138739.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/1262\/14138739.htm",
     "year" : "1200",
     "type" : "death",
     "festival" : "世界图书和版权日",
@@ -12,7 +12,7 @@
   {
     "recommend" : true,
     "title" : "秘鲁文学家加尔西拉索·德·拉·维加逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/1842812.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/1842812.htm",
     "year" : "1616",
     "type" : "death",
     "festival" : "世界图书和版权日",
@@ -22,7 +22,7 @@
   {
     "recommend" : true,
     "title" : "西班牙文学家米格尔·德·塞万提斯逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/298313.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/298313.htm",
     "year" : "1616",
     "type" : "death",
     "festival" : "世界图书和版权日",
@@ -32,7 +32,7 @@
   {
     "recommend" : false,
     "title" : "查理二世复辟斯图亚特王朝",
-    "link" : "http:\/\/baike.baidu.com\/subview\/359264\/6275058.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/359264\/6275058.htm",
     "year" : "1661",
     "type" : "event",
     "festival" : "世界图书和版权日",
@@ -42,7 +42,7 @@
   {
     "recommend" : false,
     "title" : "英国国王詹姆斯二世即位",
-    "link" : "http:\/\/baike.baidu.com\/subview\/253576\/12117381.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/253576\/12117381.htm",
     "year" : "1685",
     "type" : "event",
     "festival" : "世界图书和版权日",
@@ -52,7 +52,7 @@
   {
     "recommend" : false,
     "title" : "俄国占领库页岛",
-    "link" : "http:\/\/baike.baidu.com\/view\/64559.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/64559.htm",
     "year" : "1853",
     "type" : "event",
     "festival" : "世界图书和版权日",
@@ -62,7 +62,7 @@
   {
     "recommend" : false,
     "title" : "德国物理学家普朗克出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/54540.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/54540.htm",
     "year" : "1858",
     "type" : "birth",
     "festival" : "世界图书和版权日",
@@ -72,7 +72,7 @@
   {
     "recommend" : false,
     "title" : "中国政治家廖仲恺出生",
-    "link" : "http:\/\/baike.baidu.com\/subview\/27130\/8697305.htm",
+    "link" : "https:\/\/baike.baidu.com\/subview\/27130\/8697305.htm",
     "year" : "1877",
     "type" : "birth",
     "festival" : "世界图书和版权日",
@@ -82,7 +82,7 @@
   {
     "recommend" : false,
     "title" : "俄国作家弗拉基米尔·纳博科夫出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/66504.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/66504.htm",
     "year" : "1899",
     "type" : "birth",
     "festival" : "世界图书和版权日",
@@ -92,7 +92,7 @@
   {
     "recommend" : false,
     "title" : "诺贝尔文学奖获得者拉克斯内斯出生",
-    "link" : "http:\/\/baike.baidu.com\/view\/75147.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/75147.htm",
     "year" : "1902",
     "type" : "birth",
     "festival" : "世界图书和版权日",
@@ -102,11 +102,11 @@
   {
     "cover" : true,
     "recommend" : true,
-    "pic_index" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/9988fc66616054e29c2f372eaefe2a4c_134_100.jpg",
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/9988fc66616054e29c2f372eaefe2a4c_134_100.jpg",
     "title" : "美国著名童星，出演《起立欢呼》的秀兰·邓波儿出生",
-    "pic_calendar" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/c7d2363d0643580febf878fc4fd25e99_80_80.jpg",
-    "pic_share" : "http:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/5d5c343d2c311ebffbb33ea17a97b200_360_212.jpg",
-    "link" : "http:\/\/baike.baidu.com\/view\/41608.htm",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/c7d2363d0643580febf878fc4fd25e99_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-09-08\/5d5c343d2c311ebffbb33ea17a97b200_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/view\/41608.htm",
     "year" : "1928",
     "type" : "birth",
     "festival" : "世界图书和版权日",
@@ -115,7 +115,7 @@
   {
     "recommend" : false,
     "title" : "中国人民解放军海军成立",
-    "link" : "http:\/\/baike.baidu.com\/view\/63798.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/63798.htm",
     "year" : "1949",
     "type" : "event",
     "festival" : "世界图书和版权日",
@@ -125,7 +125,7 @@
   {
     "recommend" : false,
     "title" : "锡金被并入印度",
-    "link" : "http:\/\/baike.baidu.com\/view\/19360.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/19360.htm",
     "year" : "1975",
     "type" : "event",
     "festival" : "世界图书和版权日",
@@ -135,7 +135,7 @@
   {
     "recommend" : true,
     "title" : "俄罗斯前总统叶利钦逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/201325.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/201325.htm",
     "year" : "2007",
     "type" : "death",
     "festival" : "世界图书和版权日",
@@ -145,7 +145,7 @@
   {
     "recommend" : true,
     "title" : "前索尼公司总裁大贺典雄逝世",
-    "link" : "http:\/\/baike.baidu.com\/view\/80900.htm",
+    "link" : "https:\/\/baike.baidu.com\/view\/80900.htm",
     "year" : "2011",
     "type" : "death",
     "festival" : "世界图书和版权日",
