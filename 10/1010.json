@@ -1,5 +1,18 @@
 [
   {
+    "cover" : true,
+    "recommend" : true,
+    "pic_index" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/23c0660eb476f5e8ac614f9dea4a048c_134_100.jpg",
+    "title" : "英国化学家和物理学家卡文迪许出生",
+    "pic_calendar" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/c83fa196d6f0d95fbd1292d0ecd11e22_80_80.jpg",
+    "pic_share" : "https:\/\/baike.bdimg.com\/cms\/rc\/r\/image\/2014-08-31\/a04b2298b06e097a216d053b888c10fe_360_212.jpg",
+    "link" : "https:\/\/baike.baidu.com\/subview\/19638\/14698117.htm",
+    "year" : "1731",
+    "type" : "birth",
+    "festival" : "辛亥革命纪念日",
+    "desc" : "卡文迪许是英国化学家和物理学家。他出生贵族，继承了叔伯和父亲的遗产后成为英国巨富之一。但他生活简朴，全心投身于科学研究，在物理化学领域获得了杰出成就，硝酸就是他发现的。"
+  },
+  {
     "recommend" : false,
     "title" : "意大利作曲家朱塞佩·威尔第出生",
     "link" : "https:\/\/baike.baidu.com\/view\/714226.htm",
